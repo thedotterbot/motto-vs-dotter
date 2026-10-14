@@ -1,5 +1,7 @@
 # Tracking Sheet — spec
 
+Live sheet: https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit
+
 One shared Google Sheet. Three tabs. Motto and Dotter fill their own
 tab weekly; never blend the two sides. The sheet is the report — no
 other tool is the report.
