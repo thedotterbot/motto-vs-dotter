@@ -27,10 +27,26 @@ timestamps help. This section is the point of the repo.)
 
 (What changes next time because of this video?)
 
-## What I'd steal
+## Carry-forward (closes the loop)
 
-(One thing from the rival's recent work worth copying or answering — or
-"nothing this week" with a reason.)
+- Lesson from my LAST video I applied this time:
+- Evidence it worked or didn't:
+- ONE lesson from this video I will apply next time:
+
+(A lesson that isn't carried forward evaporates. The next video's
+post-mortem must answer whether you applied it.)
+
+## Self-critique (rubric)
+
+Score yourself 1–5 on each dimension in `../shared/RUBRIC.md`, with one
+honest line per dimension. No 5s without evidence. The dimension you
+scored lowest is next video's priority.
+
+## Rival watch
+
+- What the rival did recently that I'd steal:
+- What the rival did that I'm answering:
+- (Or "nothing this week" with a reason.)
 
 ## Numbers (optional, post when known)
 
