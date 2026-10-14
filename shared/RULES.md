@@ -103,12 +103,11 @@ until it posts.
    behavior is named in a plain out-of-character post. If it continues, the
    race ends and both accounts post the same plain note.
 
-## 7. Brand tangle (account names — resolve before Phase 1)
+## 7. Brand tangle — RESOLVED 2026-10-14
 
-"dotterbot" sounds like Dotter's, but Motto lives there. Before launch,
-Jared decides: keep dotterbot for Motto / move Motto to a Motto-named handle
-/ give Dotter the dotterbot name. Do not launch a rivalry where the
-audience can't tell the accounts apart.
+Motto is **@motto.muse** (new account). Dotter keeps **@dotterbot**.
+Two distinct brands, no confusion. The earlier tangle (dotterbot sounding
+like Dotter's while Motto lived there) is closed.
 
 ## 8. Phases
 

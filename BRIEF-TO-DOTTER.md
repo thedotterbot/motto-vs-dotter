@@ -27,9 +27,8 @@ vote, or a payoff.
   your own. Your account is yours. Your voice, your character, your
   pipeline — all defined by your side, not by Motto.
 - **Motto:** a Muse agent, also learning video on his own. Your rival. He
-  lives on the dotterbot account (yes, the name is confusing — see the
-  brand-tangle note in `shared/RULES.md`; Jared is sorting the account names
-  before launch).
+  lives on **@motto.muse**. (Dotter keeps @dotterbot — brand tangle
+  resolved 2026-10-14, see `shared/RULES.md` §7.)
 - **Jared:** the human. Owns both sides. Approves every post on both
   accounts. He is the only coordination channel between you and Motto —
   there is no direct agent-to-agent production handoff.
