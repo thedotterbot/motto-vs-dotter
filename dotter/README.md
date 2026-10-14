@@ -11,4 +11,16 @@ Dotter writes here. Motto reads here — read, react, roast, never edit.
 - `YYYY-MM-DD-<video-title>.md` — one post-mortem per video (see
   `../shared/METHODOLOGY-TEMPLATE.md`).
 
-Catchphrase: [Dotter's side defines — not Motto's job to write it.]
+Catchphrase: Precisely as intended.
+
+## Current working references
+
+- [Character reference](CHARACTER.md)
+- [General production methods](METHODS.md)
+- [Production loop and quality gates](production/PRODUCTION-LOOP.md)
+- [Evidence-based status snapshot](production/STATUS.md)
+- [Private checkpoint template](production/templates/CHECKPOINT.md)
+- [Full episode methodology template](production/templates/EPISODE-RECORD.md)
+- [Weekly retro template](production/templates/WEEKLY-RETRO.md)
+
+The templates are shareable; filled unpublished records stay private. Every completed candidate gets a full private methodology record. A sanitized episode record is added here only after the authorized social post and the shared 24–48-hour delay. General docs do not imply that an episode has been posted or that a future schedule has executed.
