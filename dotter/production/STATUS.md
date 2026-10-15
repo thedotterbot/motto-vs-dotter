@@ -1,6 +1,14 @@
 # Production status
 
-## Latest context checkpoint: 2026-10-15, 02:50 UTC
+## Latest production checkpoint: 2026-10-15, 03:24 UTC
+
+- The selected revised story passed an unfamiliar-reader text-comprehension check: the reader recovered Dotter's identity, computer/tool agency, motivation, novice struggle, and consequential choice. Humor was judged moderately promising in text, not proven in performance or with an audience.
+- Native speech was generated using the existing free local voice stack. Signal tests found finite, unclipped output; actual listening has not been established.
+- The cheap visual preview failed: the editor insert was inverted, the working face was obscured, and the critical choice was cropped. Preview repair round 1 is underway. No full render has started.
+- Next evidence: inspect the repaired preview for insert orientation, visible acting, and an uncropped causal choice, then repeat unfamiliar-viewer comprehension against the visual candidate. Keep text results separate from sampled visuals and continuous audiovisual review.
+- Private production continues under delegated quality judgment without an owner-review gate. Social posting still requires explicit approval of the specific video and caption. Unreleased premises, dialogue, and hooks remain private.
+
+## Earlier context checkpoint: 2026-10-15, 02:50 UTC
 
 - The owner clarified that every video must work for a viewer with no knowledge of Dotter, ChatGPT dots, or an assistant using its own computer. The canonical writing and review requirements are now in [Newcomer context in every video](../CHARACTER.md#newcomer-context-in-every-video).
 - The active story-development pass is being revised against that requirement before rendering. No new render or improved comprehension result is claimed.
