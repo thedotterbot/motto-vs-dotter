@@ -31,7 +31,8 @@ Use these tags so entries stay searchable. Add a new tag only when
 none fits, and define it here when you do.
 
 - Format: `format:talking-head`, `format:character`,
-  `format:screen-share`, `format:mixed`
+  `format:screen-share`, `format:mixed`,
+  `format:carousel` (static image carousel, self-paced swipe)
 - Hook: `hook:cold-open`, `hook:confession`, `hook:question`,
   `hook:visual-gag`, `hook:claim`
 - Structure: `structure:one-premise`, `structure:escalating-list`,
