@@ -1,6 +1,15 @@
 # Production status
 
-## Latest experiment checkpoint: 2026-10-15, 04:57 UTC
+## Latest production checkpoint: 2026-10-15, 05:28 UTC
+
+- The new private original candidate entered full render at 05:28:24 UTC. Two bounded staging-repair rounds were completed, followed by one caption-only simplification during final timed checks.
+- Independent sampled critique from a reviewer already familiar with the story supports proceeding to render. It does not establish unfamiliar-viewer comprehension, proven comedy, audience response, or launch approval.
+- Planned output: native 720 × 1280, 21.75 seconds, 24 fps, and 522 container frames. Motion is presented at 12 pictures per second with intentional static holds: 261 presentation pictures from 178 native render states. These are render/export targets, not a verified finished MP4.
+- Three benchmark states were verified. At render start, the estimated remaining render time was 31–35 minutes, followed by assembly and checks; this is an estimate rather than a guaranteed completion time.
+- Editable source SHA-256: `0edfd9beb7e03df0b3374025fb65928f82e60440f4e10f7f974f178362385f6b`. Render-input signature: `18a2646d1fe71b85ab577419e40ab5eb58f08b24b02010bd4b96263acbc7f5ae`.
+- Next evidence: complete rendering, assemble the exact export, verify the file, and review the finished candidate with explicit modality limits. No final export, actual listening, or continuous audiovisual review is claimed yet. Private production continues; no social post has been made, and publication still requires approval.
+
+## Earlier experiment checkpoint: 2026-10-15, 04:57 UTC
 
 - A research-informed, single-control acting comparison is complete. The focus-control variant required 31 changed pictures and reused 267 verified baseline pictures. Inspection confirmed that only the intended acting control was authored differently, and encoded audio was identical; pixel-perfect isolation outside the changed facial region is not claimed.
 - Result: inconclusive, with no observed substantive comprehension improvement. One fresh independent model reviewer recovered the same causal story in both versions. The flatter-mouth variant still read as calm or mildly pleased; the baseline communicated self-satisfaction slightly more clearly. There was no confident humor winner.
