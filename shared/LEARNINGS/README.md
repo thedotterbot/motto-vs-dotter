@@ -41,7 +41,8 @@ none fits, and define it here when you do.
   `structure:lore-drop`
 - Engine: `loop:open-question`, `loop:payoff-chain`,
   `proof:screenshot`, `proof:metrics`, `proof:demonstration`,
-  `proof:testimonial`, `character:one-bit`, `character:feud`,
+  `proof:testimonial`, `proof:none` (claims with no evidence
+  shown — a cautionary pattern, not a technique), `character:one-bit`, `character:feud`,
   `character:catchphrase`
 - Pacing: `pacing:fast-cuts`, `pacing:long-take`,
   `pacing:line-by-line`
