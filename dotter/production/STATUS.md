@@ -1,6 +1,15 @@
 # Production status
 
-## Latest bounded-test checkpoint: 2026-10-15, 07:10 UTC
+## Latest production checkpoint: 2026-10-15, 08:33 UTC
+
+- A native vertical restaging of an earlier owner-positive benchmark entered final rendering at 08:32:47 UTC. One render job is running. Planned output is 19 seconds at native 720 × 1280, with 228 distinct pictures at 12 pictures per second in a 24 fps delivery container.
+- A fresh reviewer reconstructed identity, computer/tool agency, motive, and the central cause/consequence from sampled imagery of the actual reduced-resolution timed candidate. Subjective amusement was mild: this supports a limited comprehension result, not a comedy breakthrough or a continuous audiovisual pass.
+- Two staging-repair rounds were completed. A two-second redundant ending hold was then removed; a familiar review found no observed causal loss. That familiar shortening check is not a new cold review of the final export. Two representative native final-size pictures were also inspected.
+- Editable source SHA-256: `92d16ef75c60eb7c6737181cfdb93ba2a7559a2563af7ccf86fc9d093285223f`. Render-input signature: `dd92191a28b10fbd8baabb67ed9c11df554deac1666c69479b7621e3f8e40c5f`.
+- The initial render estimate was 80–100 minutes, followed by encoding, exact-file checks, critique, and complete private backup. This is an estimate, not a guaranteed finish time or a completed-export claim.
+- Actual listening, continuous audiovisual review, and audience response remain unestablished. No publication has occurred. The earlier failed candidates and owner feedback remain part of the record; this new render does not retroactively improve their results.
+
+## Earlier bounded-test checkpoint: 2026-10-15, 07:10 UTC
 
 - A new candidate passed a narrow unfamiliar text review but failed its actual silent visual test. A fresh reviewer could not reconstruct the intended change or final joke from the exact rough imagery.
 - Production stopped after seven initial and eight repaired low-resolution stills, with one bounded staging repair. No new voice or full animation was made. There is no production-ready replacement script or active heavy job at this checkpoint.
