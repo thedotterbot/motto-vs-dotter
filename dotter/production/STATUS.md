@@ -1,5 +1,14 @@
 # Production status
 
+## Latest bounded writing checkpoint: 2026-10-15, 14:16 UTC
+
+- An original private story was tested as two 26-second, 360 × 640 silent paper animatics at 6 pictures per second. This was a new low-cost writing/staging test, not a reopened repair of the archived concepts and not a new finished film.
+- A fresh exact-script reader recovered the practical goal and cause/consequence but found the humor modest. A separate fresh first-artifact reader identified a poorly communicated consequential choice. One bounded story/paper-staging revision made that choice clearer; a third, unprimed artifact reader reconstructed it from sampled imagery.
+- The revised review still found clarity stronger than humor and the final payoff dependent on dialogue text. The candidate was not selected for costly native production. No native voice generation or native scene render began. The 19-second private export v5 remains the latest finished video.
+- Review consisted of text and separate sequential sampled-image first encounters, with native-size diagnostic frames where noted. No uninterrupted playback, actual listening, synchronized audiovisual pass, or audience result is claimed. The previews contain no audio stream and do not test native character acting or hand contact. The [causal-clarity gate](postmortems/2026-10-15-causal-clarity.md) remains closed for costly rendering.
+- Both previews, editable composition source, frozen references, and adverse reviews are privately preserved. The 8,727,443-byte source archive passed exact Library readback, ZIP CRC, and all 352 payload-member hashes. Archive SHA-256: `d95f1d7d6f72edc75fb6ea209029463e88835ebc2b27e28cb141e996e6d93d78`. The revised preview also passed exact private readback. No chat delivery of this experiment is claimed.
+- Carry forward: preserve an observable choice and physical consequence, but require the final choice itself to add a visible comic consequence rather than relying on a line to explain the joke. No social post or release approval is claimed; unreleased story details and private media remain outside this record.
+
 ## Latest delivery checkpoint: 2026-10-15, 12:00 UTC
 
 - The completed 19-second native vertical export v5 was sent as a private video attachment; the send was accepted at 12:00:29 UTC. Exact-export SHA-256: `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`. This closes the pending video-send state below; acceptance does not establish viewing or approval.
