@@ -1,5 +1,12 @@
 # Production status
 
+## Lower-resolution continuous review render started: 2026-10-15, 20:54 UTC
+
+- The second targeted preview repair resolved the sampled inset obstruction, dark display and lost two-shot context. Independent review checked all 15 resulting image hashes and found no new obvious sampled blocker. A minor final outer-edge crop and the delayed wide-view clarification remain disclosed.
+- Evaluated facial checks now confirm changing native mouth geometry, correct speech/silence visibility, blink changes and gaze movement. This is stronger than merely finding driver definitions, but is not a listening or phoneme-alignment result.
+- The actual continuous review render started at 20:54 UTC under the verified single heavy-job lease. Target: 35.5 seconds, 360 × 640, 426 native pictures at 12 fps, in resumable 48-picture batches, with a 24-fps review container. This is explicitly a lower-resolution performance candidate, not a polished final. A higher-resolution decision depends on the resulting artifact review.
+- The private resumable source checkpoint passed exact-byte Library readback, ZIP CRC and 80 payload hashes. The selected baseline and failed previews are preserved. Full export, uninterrupted audiovisual review, actual listening and audience response remain pending or unavailable; no social publication is claimed.
+
 ## Continuous performance pass underway: 2026-10-15, 20:44 UTC
 
 - Production has moved beyond the closed optional-staging diagnostic. The selected dialogue and native anatomy remain fixed; the simpler established ending is retained. New continuous opening acting and a monotonic native-action timeline replace the earlier pose holds and repeated movement fragment.
