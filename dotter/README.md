@@ -20,7 +20,7 @@ Catchphrase: Precisely as intended.
 - [Character reference](CHARACTER.md)
 - [General production methods](METHODS.md)
 - [Production loop and quality gates](production/PRODUCTION-LOOP.md)
-- [Evidence-based status snapshot](production/STATUS.md)
+- [Latest public progress and verification, with historical snapshots](production/STATUS.md)
 - [Private checkpoint template](production/templates/CHECKPOINT.md)
 - [Full episode methodology template](production/templates/EPISODE-RECORD.md)
 - [Weekly retro template](production/templates/WEEKLY-RETRO.md)
