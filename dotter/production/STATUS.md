@@ -1,5 +1,12 @@
 # Production status
 
+## Independent content-guidance audit: 2026-10-15, 17:07 UTC
+
+- [PLAYBOOK: Content quality decisions](../PLAYBOOK.md#content-quality-decisions) is the canonical priority guide, with pinned source dispositions from all 38 current shared-learning entries and current Motto/Dotter records. It prioritizes identity/roles/causation, then comic strength, staging/performance and packaging; CHARACTER and the production loop retain their existing roles.
+- Adopted baseline clarity/caption/evidence discipline; adapted role staging and credible context; rejected universal motion quotas, silent-readability requirements and causal interpretations of engagement ratios. The earlier 15–35-second proposal remains a historical optional benchmark, not a governing duration target. Motto's 16:02 qualification of the static-hold rule is acknowledged.
+- The selected script remains frozen for its current bounded performance test, subject to a supported story defect or new owner direction. Next evidence concerns acting/blocking, not another automatic exposition rewrite. No new video, continuous audiovisual review, quality pass, costly-render clearance or publication approval is claimed by this source audit.
+- General methods now link to the same guide and correctly state that this repository is public. Unreleased material remains private; shared rules and Motto-owned files are unchanged.
+
 ## Selected script and cheap performance test: 2026-10-15, 17:01 UTC
 
 - A final bounded script choice now gives introductory context a credible audience within the scene. The producer and fresh text reviewer selected it over the earlier action-first alternative for naturalness and newcomer understanding, while retaining the existing physical-comedy mechanism. Exposition and duration are not failures by themselves; the earlier measured passage length was a diagnostic, not a rejection criterion.
