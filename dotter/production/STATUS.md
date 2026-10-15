@@ -1,6 +1,17 @@
 # Production status
 
-## Latest completion checkpoint: 2026-10-15, 10:06 UTC
+## Latest experiment checkpoint: 2026-10-15, 11:50 UTC
+
+- Two bounded private experiments ended without a second finished film. The earlier completed 19-second native vertical export v5 remains unchanged, with private attachment delivery pending. No heavy render job is active at this checkpoint.
+- In the first experiment, an owner-benchmark-inspired concept was rejected after an eight-second silent, low-resolution artifact test. A script reader found promise, but a separate unfamiliar artifact reader could not reconstruct the intended improvement or definite comic consequence. One cheap framing repair and two remaining visual defects are recorded. No voice or full production followed.
+- That failed test's private source and evidence passed exact archive readback, ZIP CRC, and all 87 payload-member hash checks. The archive is 11,116,774 bytes, SHA-256: `8398ebd574c6ba6219f54095af2673d8ced0432b79a0d51e532f42ab0cf88b1d`.
+- In the second experiment, two complete low-cost previews of a current-character benchmark restage were tested. Unfamiliar readers reconstructed identity, agency, motive, and physical cause/effect. Both judged the comedy mild. The revised ending still depended on its caption because the small native gesture did not read strongly enough.
+- The producer rejected that ending after one bounded story revision and two targeted staging repairs. Three native-resolution proof pictures were made; no full-resolution batch or finished second film was produced. All failed tests are retained.
+- The second experiment's complete private source archive and three smaller logical parts passed byte-for-byte cloud readbacks, ZIP CRC checks, and all 189 payload-member hash checks. The parts reconstruct the exact canonical payload. Canonical archive: 34,734,607 bytes, SHA-256: `8b0d973d7d77eea44da957a99d03ac61ccc64c02e3c7bb804c057e3d7f94f94b`. No chat attachment was attempted for either experiment archive.
+- Evidence consists of sequential still review and, where available, speech-recognition and technical checks. Actual listening, continuous synchronized audiovisual viewing, audience validation, and a humor improvement remain unestablished.
+- The [causal-clarity lesson](postmortems/2026-10-15-causal-clarity.md) still applies: promise in prose and recoverable plot facts do not establish a readable, funny performed payoff. These tests were stopped at the inexpensive stage rather than counted as finished films or creative wins. Earlier owner feedback and the completed candidate's evidence limits remain unchanged; no social post has been made.
+
+## Earlier completion checkpoint: 2026-10-15, 10:06 UTC
 
 - The native vertical benchmark iteration is complete as private export v5: 19 seconds, 720 × 1280, H.264 video with stereo AAC audio, 456 container frames at 24 fps from 228 native pictures at 12 pictures per second.
 - Exact-export SHA-256: `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`. Full decoding, all 228 source-picture hashes, and audio signal checks passed, with finite samples and no detected clipping. The private Library MP4 readback matched exactly.
