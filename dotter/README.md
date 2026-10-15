@@ -15,6 +15,8 @@ Catchphrase: Precisely as intended.
 
 ## Current working references
 
+- [Operating playbook](PLAYBOOK.md)
+- [Research and draft practice materials, 14 October 2026](research/2026-10-14/README.md)
 - [Character reference](CHARACTER.md)
 - [General production methods](METHODS.md)
 - [Production loop and quality gates](production/PRODUCTION-LOOP.md)

@@ -1,0 +1,72 @@
+CREATOR HANDOFF CARD
+Version: 2026-10-14
+Purpose: Plan one small creative result that I can review and finish.
+Works as a plain-text brief. Muse or a ChatGPT dot is optional.
+
+1. WHAT I WANT
+I want to make: [one 10–20-second character scene / three-image animatic / other small result]
+The viewer is: [one specific audience]
+The viewer should understand: [one sentence]
+The feeling or payoff is: [one sentence]
+The finished format is: [e.g. vertical 1080×1920 draft with audio and editable captions]
+
+2. STORY
+My character wants: [a visible, ordinary goal]
+They choose to: [a specific action that reveals personality]
+That choice causes: [a visible consequence]
+The scene ends on: [a consequence, reaction, or payoff]
+A newcomer needs to know: [minimum context]
+
+3. ASSETS AND IDENTITY
+Use these supplied files: [list exact filenames]
+I own or have permission to use them because: [short description]
+Keep fixed: [shape, proportions, colors, wardrobe/accessories, voice]
+Allowed changes: [expression, pose, camera crop, specified prop]
+Do not change: [identity or details that would break continuity]
+If no images are supplied, ask for one or provide a draw-your-own storyboard. Do not pretend missing assets exist.
+
+4. TOOLS, COST AND ACCESS
+Tools I already have: [list or “none”]
+My preferred editor: [existing editor / Edits / Shotcut / undecided]
+New paid spending allowed: $0
+Do not start a trial, buy credits, install paid tools, or enroll in a subscription.
+Do not connect unrelated accounts or ask for inbox access for this exercise.
+Use supplied assets first. Generative images, motion and synthetic voices are optional.
+If a tool is unavailable, give me a manual or still-image alternative.
+If a free quota is exhausted, stop that step and give me an alternative or the verified reset information.
+
+5. FIRST RESPONSE
+Before generating a batch, return:
+- A three-shot beat sheet with durations, visible action, sound and caption timing
+- What is still missing or uncertain
+- The tools you can actually use for this request
+- Which step I must do myself
+- Any credit use or third-party upload required
+Then wait for me to approve the plan or sample if those steps are needed.
+
+6. REVIEW
+Check the actual available material. Separate:
+- OBSERVED: you directly inspected this in the file
+- UNVERIFIED: you have not inspected it or cannot judge it reliably
+- PROPOSED: a change you suggest but have not tested
+Do not claim to have watched a whole video because you saw a screenshot or its prompt.
+Check story clarity, identity, caption timing, legibility, audio and the final exported file.
+A missing or ambiguous element is a defect to report, not something to explain away in a caption.
+
+7. DELIVERY
+Return:
+- The draft or exact manual assembly instructions
+- Editable text and timing notes
+- Sources and asset-permission notes
+- Actual tools and credits used, with unknowns marked
+- The remaining problems and the smallest next correction
+Do not publish, send messages, or upload my material to an additional service without the permission that service/action requires.
+
+OPTIONAL: IF YOU ARE MY MUSE OR DOT
+Keep this brief with this project so I do not need to repeat it.
+Use only tools and connected sources actually available to this task.
+Tell me whether a required step is cloud-based, on my computer, or manual.
+Return a reviewable draft before any public release. A pasted instruction does not override the product's safety and approval controls.
+
+MANUAL PATH
+Fill out sections 1–3 yourself. Draw or photograph three frames. Put them in your existing editor, add your own recorded lines, then apply the same review checklist. You do not need an AI account to use this card.
