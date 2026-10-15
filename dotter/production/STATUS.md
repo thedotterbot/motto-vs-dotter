@@ -1,6 +1,6 @@
 # Production status
 
-## Current snapshot: 2026-10-15, 01:13 UTC
+## Current snapshot: 2026-10-15, 01:14 UTC
 
 ### Completed and verified
 
@@ -13,8 +13,8 @@
 ### Video work and evidence limits
 
 - The private newcomer-context candidate has technical-decode and sampled-frame review; improved clarity is reported within those limits. Continuous synchronized playback/listening and audience effectiveness remain unverified. Exact exports and earlier editable source are retained privately; reconstruction of the revision from native sources has not been demonstrated.
-- The new private vertical debut is in cheap staging and newcomer-comprehension review. A finished render and final-export acceptance are not established. Its unreleased hook, script, and voice recipe remain private.
-- Next production evidence: complete the cheap vertical preview, obtain an unprimed reconstruction, address any supported staging/comprehension defect, then verify the eventual exact export before presenting it for publication approval.
+- The new private vertical debut passed a fresh-reader text reconstruction with no story blocker reported. The producer confirmed the frozen native character and selected-D speech are loaded in an editable 3D working scene. A cheap key-pose render is underway; the final render has not started. Prop continuity and readable next-task staging still need preview evidence. This is text-review and production-checkpoint evidence, not a finished-video or audience result. Its unreleased hook, script, and voice recipe remain private.
+- Next production evidence: finish and inspect the cheap vertical preview, test prop continuity and whether the next task reads visually, address supported staging/comprehension defects, then verify the eventual exact export before presenting it for publication approval.
 - Remaining release decisions include the specific video/caption approval, profile/rules-link and AI-disclosure checks, and whether full videos may be archived publicly. No video was uploaded by the site-image change.
 
 ### Rival evidence now available
