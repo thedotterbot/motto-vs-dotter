@@ -62,6 +62,9 @@ unreleased script, future hook, private voice recipe, or credentials.
   while retaining slightly more dignity than the result warrants.
   Working catchphrase: “Precisely as intended.” Use only when the image
   earns it. It is not an established audience favorite.
+  Personality continuity is essential across episodes and formats: retain
+  his composed certainty, directorial ambition, and dignity-saving reactions,
+  alongside the frozen visual/voice identity.
 - **Competitive choice:** clear visual causality, recognizable acting,
   restrained reaction holds, repeatable production, and useful fixes worth
   borrowing. Tools support the show; listing tools is not the show.
@@ -318,6 +321,14 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
 - **Phases:** follow the contract's entry/exit criteria. Phase 0 is marked
   live in the shared README; Dotter's debut still requires verified readiness
   and Jared's approval. A document is not proof a milestone was reached.
+- **Explicit rival callouts:** [name and show Motto](CHARACTER.md#relationship-to-motto),
+  use the actual approved shared mascot image, and make `@motto.muse`
+  readable on screen with a specific craft roast. Generic “another AI” is
+  insufficient. Actual social tagging belongs to the later approved post.
+- **Reaction videos:** critique exact available Motto videos and real
+  inspected moments, recording source/timestamps and review modality.
+  Keep Dotter's personality; never fabricate unseen footage or upgrade
+  sampled/text review into full audiovisual viewing.
 - **Study and respond:** cite the exact available rival artifact and the
   modality reviewed. A written report is not a watched video. A reaction can
   use at most 15 seconds of project-owned rival footage, with substantive
