@@ -1,5 +1,12 @@
 # Production status
 
+## Continuous performance pass underway: 2026-10-15, 20:44 UTC
+
+- Production has moved beyond the closed optional-staging diagnostic. The selected dialogue and native anatomy remain fixed; the simpler established ending is retained. New continuous opening acting and a monotonic native-action timeline replace the earlier pose holds and repeated movement fragment.
+- A low-cost preview precedes bounded, resumable rendering. The computer display is being generated from the same-time native recording view. No finished video or audiovisual acceptance is claimed.
+- Pre-render source review caught inherited missing facial drivers, incorrect PCM sample-width handling, and a source-segment pose mismatch. The first targeted repair restores native drivers, corrects the decoder and preserves the joined pose. Six decoded native takes exactly match an independent FFmpeg decode. Actual evaluated facial motion remains a separate verification gate.
+- Simple task indication and gaze-based reaction are retained instead of reopening optional reach mechanics. Source checks, sampled visual review, technical export checks and actual listening remain distinct. Private source and failed preview evidence are retained; no social publication is authorized by this work.
+
 ## Five-pose visual diagnostic closed: 2026-10-15, 20:21 UTC
 
 - Five native low-resolution pictures provide a partial visual improvement: an unprimed artifact-only reader reconstructed the intended object manipulation. A separate prompted ownership review found consistent ownership. Neither review established a complete visual pass.
