@@ -1,6 +1,12 @@
 # Production status
 
-## Latest owner-feedback checkpoint: 2026-10-15, 06:24 UTC
+## Latest postmortem checkpoint: 2026-10-15, 06:32 UTC
+
+- Published the [causal-clarity postmortem and review-method addendum](postmortems/2026-10-15-causal-clarity.md). The owner's **4/10** verdict remains the recorded outcome; the audit does not claim an improved video or creative success.
+- The central diagnosis is that script prose supplied causal facts the timed artifact did not reliably establish, while familiar sampled reviews left whole-story comprehension untested. Earlier technical results and review caveats remain preserved; the precise moment that confused the owner is still unknown.
+- The next gate requires fresh reconstruction of the exact inexpensive timed artifact before costly rendering, with reviewer familiarity and unavailable playback/listening disclosed. Failed causality and a clear-but-weak joke are separate writing problems. New rendering remains held while writing-stage revisions address the audit; full scene-specific audits, failed versions, and sources remain private.
+
+## Earlier owner-feedback checkpoint: 2026-10-15, 06:24 UTC
 
 - Jared rated the latest 21.75-second private candidate **4/10**, describing the scripting as rough and the video as generally confusing. Exact-export SHA-256: `3a0ca8c8605d95befe46832b58f0fea03c16dcac423c30414ac082ba2327f3df`.
 - This records owner feedback on that candidate. The owner's viewing modality was not established. The earlier technical checks and sampled critique do not resolve the reported confusion, and no creative success or measured audience outcome is claimed.
