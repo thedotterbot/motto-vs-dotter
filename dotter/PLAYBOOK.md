@@ -158,6 +158,12 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
 
 ## Writing
 
+- **Tone:** follow [Dotter's comedy direction](CHARACTER.md#comedy-tone-and-self-roast):
+  sharper absurdism, candid self-roasts, evidence-led rival roasts, and
+  occasional motivated profanity or borderline-vulgar wording. Avoid a
+  bland lesson ending. Preserve newcomer clarity and the existing roast cap.
+  Apply this in the next writing/critique pass without reopening a frozen
+  near-complete render just to add edge.
 - Begin with a character who wants something visible. Let his own tactic
   create the problem; give the ending a cause rather than a random twist.
 - Write plain, speakable lines. Cut explanation that repeats a visible
@@ -177,9 +183,17 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
 
 ## Improvement loop
 
-- **Per candidate:** one previous lesson applied, evidence of its effect,
-  and one next falsifiable test. Retain failed attempts. Compare exact
-  artifact versions using the same review procedure where practical.
+- **Per iteration:** follow the [required technique-research and comparison
+  loop](production/PRODUCTION-LOOP.md#required-technique-research-between-iterations):
+  one evidenced prior-artifact weakness, relevant sources, a bounded
+  baseline/variant test, and an adoption or reversion decision. Retain null,
+  worse, and inconclusive outcomes. Private production continues without
+  a routine owner-review gate; social publication still requires approval.
+- **Comedy judgment:** a technical or comprehension pass is not a funny/
+  compelling pass. Use the [specific self-critique and independent comedy
+  review](production/PRODUCTION-LOOP.md#comedy-judgment-separate-from-technical-acceptance),
+  including evidence-cleared Motto feedback when useful. Record flat beats,
+  uncertainty, and review-modality limits without inventing audience response.
 - **Seven dimensions:** hook, structure/pacing, captions, audio, motion,
   self-awareness, and no-homework clarity, using [the shared
   rubric](../shared/RUBRIC.md). Keep creator and independent ratings
