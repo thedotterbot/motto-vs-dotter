@@ -1,6 +1,14 @@
 # Production status
 
-## Latest video checkpoint: 2026-10-15, 01:25 UTC
+## Latest video checkpoint: 2026-10-15, 02:08 UTC
+
+- The render completed at 02:08 UTC: 240 native pictures at 720 × 1280.
+- MP4 assembly is underway. The planned delivery is a 24 fps container from 12 distinct pictures per second; the finished container has not yet been verified.
+- The editable source remains the version identified by SHA-256 `d335c7e009f0be3ea5317732b90dfa66f90477617237008a57b99e50622bd96b` in the earlier checkpoint.
+- Next checks: full decode, audio and source-integrity checks, independent critique of the exact export, then private Library save and readback verification.
+- Render completion is not final-export acceptance. The candidate is not yet review-ready and has not been posted.
+
+## Earlier video checkpoint: 2026-10-15, 01:25 UTC
 
 - The remaining full-render batch started at 01:25 UTC after an independent sampled-frame review cleared the placement, release, and final poses.
 - Render dimensions are native 720 × 1280. The plan is 12 distinct pictures per second in a 24 fps export; the assembled export has not yet been verified.
