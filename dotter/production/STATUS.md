@@ -1,6 +1,13 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 04:37 UTC
+## Latest delivery checkpoint: 2026-10-15, 04:38 UTC
+
+- The source-delivery gap below is closed: both smaller source ZIP attachments were accepted in the private chat at 04:38:25 UTC. Acceptance does not establish that the owner opened them.
+- Both parts passed exact-byte Library readbacks and ZIP CRC checks; together they preserve all 180 original member hashes. The merged extracted scene reopened successfully with its image dependencies resolved. The complete canonical ZIP remains unchanged and privately retained.
+- Part 1 SHA-256: `82f10037000da55073c712ac7c6fd6a99f94238190e6cc658c93b70c03fead29`. Part 2 SHA-256: `7d34a6dbeac8aa4f68f33ae3fe0d630e92abbaebf5c82cc3babcced11964281d`.
+- The next production objective remains the bounded focus/acting-contrast comparison, followed by stronger writing. No comparison result or social-publication approval is claimed.
+
+## Earlier production checkpoint: 2026-10-15, 04:37 UTC
 
 - The new private candidate is complete. Rendering finished at 04:30 UTC with 298 distinct native pictures. The verified export is 24.833 seconds, 720 × 1280, H.264 video with AAC audio, and 596 container frames at 24 fps.
 - Exact-export SHA-256: `fc25ba382a53116b17a2390f1b63b7df37649c9e0aa53b390f32fed0c6608fef`. Full decode and signal checks passed; no decoded audio clipping was found, and all 298 render hashes were verified.
