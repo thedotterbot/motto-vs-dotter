@@ -1,6 +1,15 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 03:24 UTC
+## Latest production checkpoint: 2026-10-15, 04:03 UTC
+
+- The full private render started at 03:37:18 UTC after two bounded staging-repair rounds. Independent sampled-frame review cleared the concrete visibility, contact, and framing defects for one full render.
+- At 04:02:56 UTC, the render checkpoint recorded 149 of 298 distinct pictures complete. The target is native 720 × 1280, with 12 distinct pictures per second in a planned 24 fps delivery container. Rendering is still underway; no finished export is claimed.
+- Editable source scene SHA-256: `f926f888589dc627c4ce43be6753ba6f8a40e980fe797381b6c4f1bdf29fe296`.
+- The unfamiliar-reader text-comprehension result remains a pass. Humor remains moderately promising rather than proven. Sampled staging clearance does not establish continuous motion, synchronized audiovisual quality, actual listening, or audience effectiveness.
+- Next evidence: finish rendering, assemble the exact export, perform decode/audio/source-integrity checks, and independently review the resulting file. Report signal and sampled-visual findings separately from any actual listening or continuous-playback evidence.
+- Private improvement continues under delegated quality judgment. The completed earlier candidate remains backed up. No social post has been made; the specific video and caption still require approval before publication.
+
+## Earlier production checkpoint: 2026-10-15, 03:24 UTC
 
 - The selected revised story passed an unfamiliar-reader text-comprehension check: the reader recovered Dotter's identity, computer/tool agency, motivation, novice struggle, and consequential choice. Humor was judged moderately promising in text, not proven in performance or with an audience.
 - Native speech was generated using the existing free local voice stack. Signal tests found finite, unclipped output; actual listening has not been established.
