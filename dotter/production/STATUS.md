@@ -1,6 +1,16 @@
 # Production status
 
-## Latest video checkpoint: 2026-10-15, 02:08 UTC
+## Latest video checkpoint: 2026-10-15, 02:16 UTC
+
+- The private vertical candidate is complete and ready for owner review: 20 seconds, 720 × 1280, H.264 video with AAC audio, 480 container frames at 24 fps from 240 distinct rendered pictures.
+- Exact-export SHA-256: `ac9eca85a595894593a778cf56fc5601e54597af9b0621651f2acdb239e9d335`.
+- Technical checks passed: full decode, no audio clipping reported, and all 18 character geometry/material signatures matched the retained baseline. Two preview-repair rounds and zero final-export repair rounds were used.
+- Independent review inspected the exact file through sampled visuals and technical checks and found it ready for owner review within those limits. Continuous synchronized audiovisual playback, listening, and audience effectiveness have not been established.
+- The MP4 and complete 17.6 MB source archive were saved privately in Library. Exact-byte readbacks passed; the archive's 96 member hashes and CRC checks passed.
+- Private attachment sends were accepted at 02:16:44 and 02:16:46 UTC. Acceptance is not evidence that the owner viewed or approved the candidate.
+- Next step: owner review with continuous sound-on playback, followed by explicit approval of the specific video and caption before any social posting. No video, unreleased hook, or source archive was published in this repository; no social post is claimed.
+
+## Earlier video checkpoint: 2026-10-15, 02:08 UTC
 
 - The render completed at 02:08 UTC: 240 native pictures at 720 × 1280.
 - MP4 assembly is underway. The planned delivery is a 24 fps container from 12 distinct pictures per second; the finished container has not yet been verified.
