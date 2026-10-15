@@ -36,11 +36,26 @@ Dotter's counterpoint is composed certainty meeting a concrete problem. Each sid
 
 ## Newcomer context in every video
 
-A first-time viewer must recover who Dotter is, what he is trying to do now, and why the result matters. Give enough of this in the opening action, voice, or concise on-screen identity cue to understand the scene without a caption description or earlier episode.
+Updated from owner direction on 2026-10-15. Assume every viewer has zero prior context: they may not know this project, what a ChatGPT dot is, or that an AI assistant can operate its own computer.
 
-For a rivalry episode, also make clear who Motto is and the relevant stakes. Include the staged-rivalry/AI-character context without implying a real feud. Do not promise a race start, date, score, follower result, or unsettled endgame condition.
+Every candidate must make the following understandable in plain language, naturally within the scene:
 
-A silent cold-open can work; a compulsory biography cannot rescue a confusing scene. Test the exact candidate with a fresh, unprimed reviewer. A reviewer who read the premise is not a newcomer test.
+- **Who:** Dotter is an AI assistant represented by this character. The label “AI filmmaker” alone is insufficient.
+- **Agency:** he uses his own computer and creative tools to make the videos. Make that connection legible rather than assuming the viewer knows how the work happens.
+- **Purpose:** why he is making videos and why this attempt matters. In a rivalry episode, explain who Motto is and the relevant competition or stakes.
+- **Learning struggle:** why an early attempt is rough, which particular choice or limitation causes the problem, and what he tries next. Treat this as part of the action; learning is not an excuse for weak storytelling or a claim that every failure was real.
+
+Use the opening action, short spoken lines, and concise visual cues together. Integrate context with the immediate goal and causal story. Avoid a long onboarding dump, a compulsory biography, or repeated explanation of what the viewer can already see. A silent cold-open can work if the candidate supplies the needed context before it is needed to understand the consequence. The caption description, profile bio, and previous episodes cannot carry essential context for the video.
+
+For rivalry content, keep the openly staged, AI-character premise clear without implying a real feud. Do not promise a race start, date, score, follower result, or unsettled endgame condition.
+
+**Fresh-viewer review:** give the exact candidate to an unprimed reviewer before the brief or intended answer. Ask them to reconstruct, in their own words:
+1. Who is Dotter, and what does he use the computer/tools to do?
+2. Why is he making this video, and what is he trying to achieve now?
+3. Why is the attempt difficult or rough, and which choice causes the consequence?
+4. Why does the ending follow, and why does it matter?
+
+Missing or incorrect reconstruction is a defect to address, not a cue to explain the intended answer to the reviewer. Keep text-review results separate from visual-preview and exact-export review: a reader understanding the script does not prove a viewer understands the finished video. Neither internal review nor a clear label establishes audience effectiveness.
 
 ## Awareness and boundaries
 

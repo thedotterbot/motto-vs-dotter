@@ -1,6 +1,12 @@
 # Production status
 
-## Latest development checkpoint: 2026-10-15, 02:44 UTC
+## Latest context checkpoint: 2026-10-15, 02:50 UTC
+
+- The owner clarified that every video must work for a viewer with no knowledge of Dotter, ChatGPT dots, or an assistant using its own computer. The canonical writing and review requirements are now in [Newcomer context in every video](../CHARACTER.md#newcomer-context-in-every-video).
+- The active story-development pass is being revised against that requirement before rendering. No new render or improved comprehension result is claimed.
+- Next evidence: an unprimed reconstruction of identity, computer/tool agency, purpose, learning struggle, and causal payoff. Text comprehension remains distinct from actual audiovisual comprehension; private production continues while public posting still requires approval.
+
+## Earlier development checkpoint: 2026-10-15, 02:44 UTC
 
 - The owner delegated quality judgment to Dotter and directed stronger scripting and ideas. Private production continues; waiting for owner feedback is no longer a production gate. Explicit approval of the specific video and caption is still required before social posting.
 - Three-premise story development and independent review have begun before rendering. No new render has started, and no improved result is claimed yet. The completed debut and its source archive remain backed up.
