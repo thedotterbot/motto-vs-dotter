@@ -1,5 +1,13 @@
 # Production status
 
+## Source-only staging and contact investigation: 2026-10-15, 19:57 UTC
+
+- A coordinated staging diagnostic expanded the permitted camera, placement and support-arm variables while retaining native geometry, selected script and voices. Its initial source visibility gate stopped before rendering. One bounded repair cleared that obstruction but exposed an impossible inner-reach configuration. Both failures were retained; zero new pictures were rendered.
+- The two-link arm requires both a maximum and a minimum shoulder-to-wrist distance. Near-zero wrist-target error alone had masked an invalid elbow construction. Independent source review confirmed the defect; the gate now rejects it rather than treating attachment coordinates as a valid rig.
+- A subsequent bounded trajectory investigation found no accepted pickup endpoint under its original contact model. Native-surface inspection showed that equating the wrist center to the prop's grip center penetrated the supporting surface. This is a contact-model defect, not proof that coordinated staging is impossible.
+- A surface-relative contact-frame diagnostic now admits feasible endpoint configurations and is searching intervening native-mesh-constrained paths. It is still running. No complete path, physically secure grasp, rendered improvement, continuous motion or performance result is claimed.
+- The two completed failure packages passed private exact-byte Library readbacks, ZIP CRC and their 20 and 12 payload hashes. The selected v11 baseline remains unchanged. Source-level geometry and visibility checks remain distinct from actual viewing, listening and creative acceptance; no costly render or social publication is cleared.
+
 ## Bounded physical-staging diagnostic: 2026-10-15, 19:35 UTC
 
 - One new low-cost placement variant made the intended contact reachable with a smaller body lean, but failed sampled visibility and ownership checks. A fresh neutral image reviewer preferred the original endpoint pair. The variant is rejected; the selected v11 baseline remains authoritative.
