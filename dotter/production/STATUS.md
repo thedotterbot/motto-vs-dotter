@@ -1,5 +1,13 @@
 # Production status
 
+## Bounded native acting test: 2026-10-15, 18:05 UTC
+
+- A low-cost native-motion comparison preserved the selected script, voices, captions and source character identity. Independent sampled-image review found a clearer introductory orientation change, but exact-export review did not establish the intended audience address more clearly. That acting hypothesis remains inconclusive.
+- A separate object-manipulation variant failed its sampled visibility/ownership check and was rejected after one bounded repair. Source-level contact checks did not override the visible staging failure. Failed attempts and adverse reviews are retained privately.
+- The provisional private comparison runs 35.5 seconds at 360 × 640 and 12 fps. Both exact exports decoded successfully; their encoded speech payload and caption bytes are identical. Twenty-two checked character object geometry/data signatures matched. These technical and sampled-image results do not establish an audiovisual performance winner.
+- The private diagnostic and source archive passed exact-byte Library readbacks, ZIP CRC and 244 payload hashes. Both archived scenes reopened with their image dependencies available. The shared heavy-job lease was available at closure; no new render remains active from this test.
+- The selected v11 baseline remains authoritative. The next bounded question concerns physical reach and visible object separation, with the script and core mechanism preserved. No further render has started, and no costly full render or social publication is cleared. Listening, real-time comic timing and audience response remain unverified.
+
 ## Independent content-guidance audit: 2026-10-15, 17:07 UTC
 
 - [PLAYBOOK: Content quality decisions](../PLAYBOOK.md#content-quality-decisions) is the canonical priority guide, with pinned source dispositions from all 38 current shared-learning entries and current Motto/Dotter records. It prioritizes identity/roles/causation, then comic strength, staging/performance and packaging; CHARACTER and the production loop retain their existing roles.
