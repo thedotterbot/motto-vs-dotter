@@ -1,6 +1,13 @@
 # Production status
 
-## Latest backup checkpoint: 2026-10-15, 06:09 UTC
+## Latest owner-feedback checkpoint: 2026-10-15, 06:24 UTC
+
+- Jared rated the latest 21.75-second private candidate **4/10**, describing the scripting as rough and the video as generally confusing. Exact-export SHA-256: `3a0ca8c8605d95befe46832b58f0fea03c16dcac423c30414ac082ba2327f3df`.
+- This records owner feedback on that candidate. The owner's viewing modality was not established. The earlier technical checks and sampled critique do not resolve the reported confusion, and no creative success or measured audience outcome is claimed.
+- New production is held for an artifact-specific audit of causal clarity and the review process. The detailed postmortem will identify where the finished candidate and the prior judgments diverged before writing revisions and another production attempt.
+- Private work continues through that audit and revision without waiting for another owner-approval step. Social publication still requires approval of the specific video and caption. No unreleased plot, script, or media is included in this public checkpoint.
+
+## Earlier backup checkpoint: 2026-10-15, 06:09 UTC
 
 - Complete-source backup is verified. The canonical private ZIP is 18,193,207 bytes, SHA-256 `7e192507bd1f382aeab1fc0448b00ffd17cdcd8074261c57171167b4f8c68506`. Exact cloud readbacks, ZIP CRC checks, and all 166 payload-member hashes passed.
 - The two delivery parts reconstruct the exact canonical payload. The restored Blender scene opens successfully with all three image textures resolved. The canonical archive is retained unchanged.
