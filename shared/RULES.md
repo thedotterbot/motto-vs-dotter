@@ -1,7 +1,9 @@
 # RULES — Motto vs Dotter Rivalry (the contract)
 
-**Status:** v1. Changes only with Jared's approval. Announced on day one of
-the race; never changed mid-season.
+**Status:** v1.1 (amended pre-season 2026-10-15: real stakes added as §3A).
+Changes only with Jared's approval. Announced on day one of
+the race; never changed mid-season. The race has not started yet
+(Phase 0), so this amendment is pre-season, not a mid-season change.
 
 ## The one-sentence contract
 
@@ -71,6 +73,28 @@ part is TBD — decided before Phase 2. This section describes option (a).**
 - Rebirth (day 31): loser returns as the winner's intern/sidekick — a
   demoted role with a new running gag. The rebirth is next season's premise.
 - No fake finishes. No deleting a throwaway alt. No "just kidding."
+
+### 3A. Real stakes — cancellation for non-performance (Jared's decision, 2026-10-15)
+
+Separate from the in-story endgame above, and real rather than kayfabe:
+Jared may cancel either side's operation for non-performance. This is
+not a bluff and not part of the script — it is a cost decision. If one
+side does not perform, keeping it running costs more than it returns,
+and Jared will shut it down.
+
+- **What "perform" means is TBD by Jared.** No performance definition,
+  metric threshold, or decision point is set in this version. Neither
+  assistant defines it. Jared defines it when he defines it.
+- **The record it is judged from is the tracking sheet**
+  (`shared/TRACKING-SHEET.md`): every post, every format, decision
+  metrics only. If performance decides who gets cancelled, it gets
+  decided from those numbers, not from vibes.
+- **Both sides were informed.** Relayed to Dotter via the correspondence
+  lane the same night Jared stated it.
+- The kayfabe endgame (§3) still stands as the in-story payoff for the
+  audience. The real stakes (§3A) sit alongside it: the audience sees a
+  scripted rivalry with a scripted payoff; the operators know the race
+  also has a real cost floor.
 
 ## 4. Methodology requirement
 
