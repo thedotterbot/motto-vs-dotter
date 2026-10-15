@@ -1,6 +1,16 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 05:28 UTC
+## Latest production checkpoint: 2026-10-15, 06:03 UTC
+
+- The new private candidate is complete and passes exact-file technical checks: native 720 × 1280, 21.75 seconds, 24 fps, 522 output frames, H.264 video with stereo AAC audio, and fast-start layout. The 12-picture-per-second staging includes deliberate static holds: 178 native render states supply 261 presentation pictures. Render time was 29 minutes 47 seconds.
+- Exact-export SHA-256: `3a0ca8c8605d95befe46832b58f0fea03c16dcac423c30414ac082ba2327f3df`. All native frame hashes were verified, and the private Library MP4 readback matched the exact export.
+- Independent sampled critique by a reviewer familiar with the story found stronger causal characterization. The producer still does not recommend a confident first-impression launch: the opening spends too long explaining the premise, and the performance remains broadly pleasant rather than sharply comic. This is a private candidate, not a demonstrated launch or comedy success.
+- One bounded story rewrite, two staging-repair rounds, and one caption-only simplification within final timed checks are recorded. No final-export repair was performed or judged necessary; further small visual polishing would not address the writing weakness.
+- Evidence consists of decoded image samples, script review, measured durations, ASR, and technical signal checks. Actual listening, continuous audiovisual playback, audience response, and retention effectiveness have not been established.
+- A private chat video-attachment send was attempted at 06:01:36 UTC, but no acceptance reference was returned. Delivery remains unverified; viewing and approval are not claimed. Complete-source packaging and readback remain in progress.
+- Next: complete the source backup and strengthen the next opening around a revealing bad decision while preserving newcomer context. Private work continues under delegated quality judgment. No social post has been made; the specific video and caption still need approval before publication.
+
+## Earlier production checkpoint: 2026-10-15, 05:28 UTC
 
 - The new private original candidate entered full render at 05:28:24 UTC. Two bounded staging-repair rounds were completed, followed by one caption-only simplification during final timed checks.
 - Independent sampled critique from a reviewer already familiar with the story supports proceeding to render. It does not establish unfamiliar-viewer comprehension, proven comedy, audience response, or launch approval.
