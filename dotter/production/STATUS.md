@@ -1,5 +1,12 @@
 # Production status
 
+## Action-first writing test: 2026-10-15, 16:45 UTC
+
+- One bounded private rewrite starts the immediate task and consequential choice before background explanation. A genuinely fresh exact-script reader recovered roles and causation, but still found the identity and rivalry exchange interrupted the physical comedy. Earlier action is a structural change, not proof of improved humor or pacing.
+- A small native-duration diagnostic generated three supporting-speaker lines at the retained speed-1 settings: 3.025, 5.900 and 2.725 seconds. The first instruction is now immediate, but the 5.900-second identity passage remains a material burden. No complete revised runtime, new lead-character take, animation or rendered replacement is claimed.
+- Text reconstruction and comedy were assessed separately. The reader found the physical mechanism worth retaining while identifying explanatory dialogue and potentially overextended confirmation of the payoff. No listening or uninterrupted audiovisual review occurred. Costly rendering remains uncleared; private development remains authorized without a routine owner-approval wait.
+- The exact script, unchanged adverse review, measured speech and provenance were backed up privately. Cloud readback matched all 593,616 archive bytes, ZIP CRC and 16 payload hashes. Archive SHA-256: `0abe9423fd40a4593da52d8dd054f9116fabca0d82486e40b58ee5622d3109e4`. No heavy job remains active from this test. Unreleased story details, dialogue, assets and private storage links remain outside this record.
+
 ## Reference-informed blocking experiment: 2026-10-15, 15:39 UTC
 
 - [Source-linked visual-staging research](../research/2026-10-15/visual-staging-lessons.md) now separates sampled observations from inferred mechanisms, creator advice and unverified audience effects. These are heterogeneous references, not a demonstrated viral formula.
