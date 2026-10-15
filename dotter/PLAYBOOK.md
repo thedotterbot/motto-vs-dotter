@@ -327,8 +327,11 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
 - Keep credentials, private conversations, signed storage links, private
   archive identifiers, and unreleased hooks out of this public repository.
   Release only owned/licensed assets with a known sharing basis.
-- The site image update is still unverified as published. Do not describe
-  the placeholder as fixed or treat a local image as a live website change.
+- **Site images verified live, 2026-10-15 UTC:** the [battle
+  site](https://thedotterbot.github.io/motto-vs-dotter/) serves both approved
+  character PNGs, with exact-byte and visual checks completed. [Pages
+  deployment](https://github.com/thedotterbot/motto-vs-dotter/actions/runs/38664250852)
+  succeeded for commit `2cc5c098a93deccb7a3121082eaf5a4d5b0fca58`.
 
 ## Open decisions (Jared)
 
@@ -344,8 +347,6 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
   or kept in the private media archive with public post links and methods.
 - Approve a completed starter kit's public release after usability checks;
   later choose the actual buyer, paid offer, price, and any contact flow.
-- Resolve the live site-image publication blocker. The current playbook
-  write does not publish images or certify that separate work.
 
 Older reference files are dated snapshots. In particular, the visibility
 statement in `METHODS.md` is stale: this repository is public. The earlier
