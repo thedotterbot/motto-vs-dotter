@@ -1,5 +1,13 @@
 # Production status
 
+## Low-cost clarity test: 2026-10-15, 14:47 UTC
+
+- A 44-second silent, captioned timing proxy now tests the revised exchange with reused native pictures at 360 × 640 and 12 fps. No new native animation or voice was generated. New performance and screen interactions are explicitly absent; this is a limited proxy, not a finished replacement video.
+- A fresh reader inspected only the exact MP4, without its script or intended answer, using chronological extracted frames and bounded transition samples. They recovered the assistant, silent rival, human speaking role, practical task, consequential choice, corrective reason and ending. This narrows the original role/causal ambiguity beyond a text-only read, while leaving real-time and sound-on comprehension unestablished.
+- The review still found a substantial exposition detour, a visual relationship requiring a late wider shot, and uncertain contact ordering in a reused transition. Those are unresolved findings, not a creative pass. No uninterrupted playback, listening, new acting quality, audience result or release readiness is claimed.
+- The reader caught a brief portrait/caption identity mismatch. One bounded assembly repair reordered frame-rate normalization and caption rendering, preserving dialogue and story. The defective proxy is retained. Repaired proxy SHA-256: `9c0272ca0eb832896b88c7f4566bcd199819d50c8378aa2988102d53f6f98d08`; full decode passed, 528 frames, no audio stream. The subsequent boundary inspection is familiar, not another fresh comprehension test.
+- Costly native production remains on hold. The next useful evidence concerns whether required context earns its place within the conflict and whether the actual performance communicates the intended action. Narrow recovery of facts does not establish good writing, pacing or comedy. Private media, full scripts and unreleased joke details remain outside this record.
+
 ## Owner feedback and scripting reset: 2026-10-15, 14:27 UTC
 
 ### Source-audit findings, 14:32 UTC
