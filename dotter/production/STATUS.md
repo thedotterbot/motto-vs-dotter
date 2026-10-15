@@ -1,5 +1,13 @@
 # Production status
 
+## Bounded physical-staging diagnostic: 2026-10-15, 19:35 UTC
+
+- One new low-cost placement variant made the intended contact reachable with a smaller body lean, but failed sampled visibility and ownership checks. A fresh neutral image reviewer preferred the original endpoint pair. The variant is rejected; the selected v11 baseline remains authoritative.
+- Five native 288 × 512 diagnostic poses were rendered. Source measurements also exposed an invalid supporting-arm target. The builder recorded these checks but did not enforce them as a pre-render stop; future diagnostics must assert required contact/target thresholds before picture rendering. Numerical contact did not override the adverse visual result.
+- All 83 checked mesh coordinate/topology/material-name signatures matched the original source, and frozen inputs remained unchanged. These checks do not establish collision freedom, continuity, or acting quality. Earlier affected shots were inventoried but not rebuilt after the local failure; no globally consistent comparison or continuous passage was assembled.
+- The private source/evidence archive passed exact-byte Library readback, ZIP CRC and 34 payload hashes. The native scene reopened successfully. The shared heavy-job lease was available at closure; no render remains active from this diagnostic.
+- The next useful question requires coordinated physical staging and contact checks rather than another isolated endpoint adjustment. Script, voices and core mechanism remain frozen. No costly full render or social publication is cleared. Listening, real-time comic timing and audience response remain unverified.
+
 ## Bounded native acting test: 2026-10-15, 18:05 UTC
 
 - A low-cost native-motion comparison preserved the selected script, voices, captions and source character identity. Independent sampled-image review found a clearer introductory orientation change, but exact-export review did not establish the intended audience address more clearly. That acting hypothesis remains inconclusive.
