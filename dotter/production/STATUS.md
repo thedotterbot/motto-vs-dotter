@@ -1,5 +1,12 @@
 # Production status
 
+## Candidate stopped after owner changed debut brief: 2026-10-15, 20:58 UTC
+
+- The owner superseded this candidate with a script-first, standalone debut brief. The active lower-resolution render was stopped at 20:57:59 UTC; its process exited and the shared heavy-job lease was verified released. No further render is active from this pass.
+- Thirty native PNGs are retained: fifteen reviewed preview samples and fifteen additional opening pictures. No render batch, full video or encoded performance candidate was completed. The prior render-start entry remains historical and does not imply completion.
+- The verified source checkpoint, failed previews and stopped progress are preserved privately. Render clearance was revoked and the project launcher is guarded against accidental restart. No new concept or script was started by this production pass after the stop direction.
+- Future work must follow the owner's revised debut brief and settle the script first. This checkpoint makes no new story, listening, audience-result or publication claim; unreleased material remains private.
+
 ## Lower-resolution continuous review render started: 2026-10-15, 20:54 UTC
 
 - The second targeted preview repair resolved the sampled inset obstruction, dark display and lost two-shot context. Independent review checked all 15 resulting image hashes and found no new obvious sampled blocker. A minor final outer-edge crop and the delayed wide-view clarification remain disclosed.
