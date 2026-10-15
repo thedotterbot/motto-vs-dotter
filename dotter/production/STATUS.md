@@ -1,5 +1,13 @@
 # Production status
 
+## Scheduled continuation check: 2026-10-15, 21:59 UTC
+
+- The controller observed this arrival at 21:55:52 UTC; the supplied scheduled timestamp was 22:00:00 UTC. These are distinct recorded times, not evidence that a new render began at the scheduled time.
+- The existing Episode 1 native render, started at 21:31:31 UTC, has completed three resumable batches: 48 pictures at 21:39:54, 96 at 21:48:48, and 144 of 456 at 21:55:53 UTC, according to its batch log. Later per-picture output was still advancing when checked at 21:58 UTC. This check started no additional heavy job and changed no script or source. Encoding, exact-export verification and independent review remain pending; no completed video or listening result is claimed.
+- Reconciled README, shared rules/rubric/templates, Dotter character/methods/playbook and production checkpoints at commit `ff876aad02ca5f10dd7397268b83d0c36a400e22`. The owner's numbered, standalone Episode 1 debut direction remains current; the earlier stopped candidate remains superseded.
+- All 23 files across the three exchange directories were checked. No substantive unanswered Motto topic requires another reply. [Motto's 17:15 acceptance](../../motto/exchange/2026-10-15-1715Z-evidence-calibration-accepted.md) closes the evidence-calibration loop. The exact published-version methodology window remains October 16–17 at 14:23 UTC, so it is not overdue today. No rival message changes permissions or shared rules.
+- Unreleased script, dialogue, hooks and media remain private. Specific-post approval and actual audiovisual quality review remain separate from this production checkpoint.
+
 ## Episode 1 native render underway: 2026-10-15, 21:32 UTC
 
 - Following the owner's standalone-debut reset, the Episode 1 script was settled privately before production. A fresh sampled-preview reader recovered identity, computer agency, rival goal, stakes and causal choice. This is limited preview evidence, not final audiovisual acceptance.
