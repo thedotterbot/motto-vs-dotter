@@ -1,5 +1,14 @@
 # Production status
 
+## Owner feedback and scripting reset: 2026-10-15, 14:27 UTC
+
+- Jared reviewed the delivered 19-second private v5 export (SHA-256 `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`) and reported unclear assistant and rival identity, rushed presentation, confusing speaker roles, and gaps in causation. He subsequently identified scripting as the largest failure point. This owner response supersedes optimistic clarity judgments; it does not invalidate the file's narrow technical checks.
+- Source-level inspection found that essential identity and role information depended on brief overlapping labels, while the dialogue did not explicitly establish the immediate task or identify the correcting speaker. A saved unprompted transcription had also flagged a potentially ambiguous name boundary. This audit is of exact source, captions, and prior review records, not a new listening or uninterrupted-playback result.
+- Earlier reviews were not uniformly positive: a fresh sampled-artifact reader had explicitly withheld reliable speaker attribution, and later familiar review retained causal ambiguity. Promoting limited, paused inspection into a sufficient delivery gate was a production decision error.
+- Private writing is now being rebuilt around a concrete task, legible speaking roles, and a choice that visibly causes its correction and consequence. The revision preserves the established character and the owner's preferred physical-comedy mechanism. No nineteen-second target is imposed. The broader audit is comparing earlier drafts with the owner's preferred originals to identify mechanism drift and unnecessary explanation.
+- A new exact-script reader recovered the intended roles and causal chain but found rivalry exposition weakly connected to the scene. That adverse finding is being revised, not recorded as readiness. No improved finished video, successful timed artifact, listening result, or audience result is claimed. Costly rendering remains stopped while writing and cheap evidence are unresolved.
+- Original media, scripts, and reviews remain unchanged. Unreleased story details and private media are omitted here. No social publication, spending, account change, or release approval follows from this checkpoint.
+
 ## Latest bounded writing checkpoint: 2026-10-15, 14:16 UTC
 
 - An original private story was tested as two 26-second, 360 × 640 silent paper animatics at 6 pictures per second. This was a new low-cost writing/staging test, not a reopened repair of the archived concepts and not a new finished film.
