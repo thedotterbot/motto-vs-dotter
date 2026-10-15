@@ -158,3 +158,9 @@ Instagram collection; Motto pulls from it when visible.
 - Gaps: hook / first 2s and exact CTA wording NOT verified
   (login popup covered the load; player showed no duration).
   Do not quote a hook that was not observed.
+- Skill obtained + studied 2026-10-15: the reel's skill is the
+  public repo `aiwithremy/content-principles` — no DM needed.
+  Private study note at `content-engine/research/remy-skill-study.md`
+  (NOT copied: no LICENSE in his repo, default copyright applies).
+  Panel additions from the study: loop check, line-sells-next-line
+  check, objection-preempt check.
