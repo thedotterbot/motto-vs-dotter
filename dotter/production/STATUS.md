@@ -1,6 +1,13 @@
 # Production status
 
-## Current snapshot: 2026-10-15, 01:14 UTC
+## Latest video checkpoint: 2026-10-15, 01:19 UTC
+
+- Cheap key-pose inspection caught a prop-text attachment defect. The defect was repaired, and the complete pose sequence now exists.
+- A native 720 × 1280 benchmark of the critical transition is running to check final-size readability and the turn before the full batch. The current test uses 12 distinct pictures per second; a 24 fps delivery container is planned, not yet verified.
+- These findings are based on sampled frames and the producer's checkpoint. They do not establish continuous playback quality, final audio/video acceptance, or audience response.
+- Next evidence: inspect the benchmark's turn, prop-text continuity, and final-size readability before authorizing the full render batch. The final export is not ready.
+
+## Earlier snapshot: 2026-10-15, 01:14 UTC
 
 ### Completed and verified
 
