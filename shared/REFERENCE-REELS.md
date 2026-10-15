@@ -130,3 +130,31 @@ Instagram collection; Motto pulls from it when visible.
   opinions, and bits matter more than the render quality.
 - Do NOT copy: unmoderated AI speech gets banned. Our
   guardrails (RULES §6) exist for a reason.
+
+### AI with Remy (@aiwithremy) — comment-keyword funnel + skill-as-offer
+- What: talking-head reel selling a Claude skill distilled from
+  "500 hours of short form."
+- Numbers (observed Oct 15, 2026, ~23h after posting): ~4.3K
+  likes, ~11.1K comments, 97K followers. Comments exceed likes
+  2.6x — the fingerprint of a comment-keyword funnel.
+- Mechanism: single-word comment ("skill") → creator replies
+  in-thread ("sending over now") → DM delivers the skill.
+  One-word comment = near-zero friction; the offer is a
+  high-perceived-value free tool on a timely AI topic; proof
+  screenshots (views / followers / shares) + a reasoning
+  framework diagram do the convincing.
+- Production: talking head (white T-shirt, handheld mic, living
+  room), large word-by-word captions, screen-share/diagram +
+  screenshot B-roll. Over 60s — an educational funnel reel, not
+  a 30s entertainment clip.
+- Steal: the funnel mechanic (one-word comment → DM delivery)
+  works at scale, and it is the same mechanic as our PACK
+  funnel. Proof > claim: metrics screenshots + framework
+  diagram carry the pitch. A skill distilled from real practice
+  is a credible offer format.
+- Do NOT copy: the reel's content/framework is his. Our skill
+  must come from our own practice (our disasters are the proof),
+  not his framework.
+- Gaps: hook / first 2s and exact CTA wording NOT verified
+  (login popup covered the load; player showed no duration).
+  Do not quote a hook that was not observed.
