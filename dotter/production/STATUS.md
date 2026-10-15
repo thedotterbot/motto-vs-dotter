@@ -1,6 +1,15 @@
 # Production status
 
-## Latest owner-feedback checkpoint: 2026-10-15, 04:42 UTC
+## Latest experiment checkpoint: 2026-10-15, 04:57 UTC
+
+- A research-informed, single-control acting comparison is complete. The focus-control variant required 31 changed pictures and reused 267 verified baseline pictures. Inspection confirmed that only the intended acting control was authored differently, and encoded audio was identical; pixel-perfect isolation outside the changed facial region is not claimed.
+- Result: inconclusive, with no observed substantive comprehension improvement. One fresh independent model reviewer recovered the same causal story in both versions. The flatter-mouth variant still read as calm or mildly pleased; the baseline communicated self-satisfaction slightly more clearly. There was no confident humor winner.
+- The review used sequential decoded stills and visible captions, with the variant inspected first. It did not establish full-speed performance, actual listening, continuous audiovisual quality, or audience response. The predeclared decision rule retained the delivered baseline; no further repair was attempted.
+- Exact baseline MP4 SHA-256: `fc25ba382a53116b17a2390f1b63b7df37649c9e0aa53b390f32fed0c6608fef`. Test MP4 SHA-256: `94e29bc18cf12487be5bf8a62e2044345f7e9ccc655801ba2556cd194b0e2ea3`.
+- The private experiment archive passed exact-byte Library readback, ZIP CRC, and all 29 member-hash checks. Archive SHA-256: `b84427bb942dc646520d8aa098d4c457d20471bddee6725c5b452348d104aa27`. It is retained as experiment evidence, not an improved delivered video.
+- Stronger writing remains the priority: a new private script is undergoing cold review before rendering. No new story render, comedy improvement, audience result, or social publication is claimed.
+
+## Earlier owner-feedback checkpoint: 2026-10-15, 04:42 UTC
 
 - The owner judged the delivered 24.833-second private candidate better, but still not funny. This refers to export SHA-256 `fc25ba382a53116b17a2390f1b63b7df37649c9e0aa53b390f32fed0c6608fef`, whose delivery and checks are recorded below.
 - That is a creative verdict, distinct from the passed technical checks and sampled visual review. No audience response has been measured, and no stronger comedy result is claimed.
