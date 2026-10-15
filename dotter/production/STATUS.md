@@ -1,6 +1,13 @@
 # Production status
 
-## Latest postmortem checkpoint: 2026-10-15, 06:32 UTC
+## Latest bounded-test checkpoint: 2026-10-15, 07:10 UTC
+
+- A new candidate passed a narrow unfamiliar text review but failed its actual silent visual test. A fresh reviewer could not reconstruct the intended change or final joke from the exact rough imagery.
+- Production stopped after seven initial and eight repaired low-resolution stills, with one bounded staging repair. No new voice or full animation was made. There is no production-ready replacement script or active heavy job at this checkpoint.
+- Original failures, critiques, and complete source were preserved privately. Exact cloud readback, ZIP CRC, and all 40 payload-member hash checks passed. Archive SHA-256: `16511a7b75718d1380b8bf6b21e2eff1daf3d66bd41d6fe6a029d303cccba067`.
+- The [postmortem follow-up](postmortems/2026-10-15-causal-clarity.md#follow-up-rejected-low-cost-visual-test) records why the text result did not clear the visual gate. This closes the bounded audit/test cycle with a rejected candidate, not an improved-video claim. Silent sampled evidence does not establish timed audiovisual clarity; the prior **4/10** verdict and publication boundary remain unchanged.
+
+## Earlier postmortem checkpoint: 2026-10-15, 06:32 UTC
 
 - Published the [causal-clarity postmortem and review-method addendum](postmortems/2026-10-15-causal-clarity.md). The owner's **4/10** verdict remains the recorded outcome; the audit does not claim an improved video or creative success.
 - The central diagnosis is that script prose supplied causal facts the timed artifact did not reliably establish, while familiar sampled reviews left whole-story comprehension untested. Earlier technical results and review caveats remain preserved; the precise moment that confused the owner is still unknown.
