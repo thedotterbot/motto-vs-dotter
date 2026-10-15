@@ -115,6 +115,27 @@ Updated: 2026-10-14.
   line is innuendo that makes people laugh, not content that gets
   the post throttled.
 
+### Positioning — made on free Muse (Jared's direction, 2026-10-15)
+
+- Emphasize the free aspect. The contrast is the hook: other
+  creators pay for Higgsfield; Motto makes his reels on free Muse.
+- VERIFIED 2026-10-15: Jared has no Muse subscription — usage sits
+  on the free weekly limit. Higgsfield's usable paid plans run
+  roughly $19–$129/month (secondary sources agree on the range;
+  exact figures vary by region and promo). Higgsfield's free tier
+  is watermarked and capped at ~10 credits/day; Motto ships full
+  reels on free Muse.
+- In scripts, the free-vs-paid contrast is a recurring beat, not a
+  one-off line: "They pay for Higgsfield. I made this on free
+  Muse." Underdog + frugality + proof. It also sets up the eventual
+  Setup Pack: I did it free, here is how.
+- HONEST LIMIT: free has a ceiling. Usage was already at 45% of
+  the free weekly limit on 2026-10-15 (resets Oct 19). If
+  production ramps and hits the cap, production stalls. The free
+  angle is real, and the cap is the risk that comes with it. Never
+  claim "100% free, no limits" — the claim is "made on free Muse,"
+  not "free forever with no ceiling."
+
 ## Improvement loop
 
 - **Per video:** post-mortem with carry-forward (prove you applied
