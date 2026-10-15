@@ -34,9 +34,10 @@ unreleased script, future hook, private voice recipe, or credentials.
 ## Content
 
 - **Format:** short, causal character comedy. The working editorial range
-  for an ordinary single-joke experiment is 15–35 seconds; this is a choice
-  to test, not an optimum found in audience data. Let a clear payoff set the
-  length. A longer story must earn the additional beats.
+  previously proposed for an ordinary single-joke experiment was 15–35
+  seconds. Retain that as a historical optional benchmark, not a governing
+  target or audience optimum. Let understandable context, acting and payoff
+  set the length; see the content-quality decisions below.
 - **Delivery:** compose a future Reel for 9:16 rather than cropping away
   essential action. The verified production baseline is landscape,
   960 × 540 at 24 fps, H.264/AAC, 21 seconds and 504 frames. A vertical
@@ -68,6 +69,155 @@ unreleased script, future hook, private voice recipe, or credentials.
 - **Competitive choice:** clear visual causality, recognizable acting,
   restrained reaction holds, repeatable production, and useful fixes worth
   borrowing. Tools support the show; listing tools is not the show.
+
+## Content quality decisions
+
+Refined 2026-10-15 after an independent audit of the current public source
+record. This is the canonical home for Dotter's content-quality priorities.
+[CHARACTER](CHARACTER.md) defines identity; the
+[production loop](production/PRODUCTION-LOOP.md) defines execution and review
+gates; [STATUS](production/STATUS.md) records candidate-specific evidence.
+Research supplies hypotheses, not competing rulebooks.
+
+**Priority:** identity, roles, immediate task and causation first; comic
+strength next; staging/performance next; packaging polish after that.
+A total checklist score cannot cancel a blocking defect.
+
+1. **Make the viewer know who acts and why.** Supply the essential Dotter
+   context in CHARACTER. When a human speaker or silent rival image is
+   present, distinguish their roles. Establish the immediate task before
+   its correction matters. Stable geography, gaze and object ownership
+   support short spoken context. Names alone do not solve competing
+   attribution. Test who said/did what on the exact timed candidate.
+2. **Preserve the voluntary mistake.** Dotter's composed certainty produces
+   a particular choice and an observable consequence appropriate to this
+   scene; a dialogue-led status shift can count when clearly performed.
+   Keep cause, correction and consequence when shortening. Retaining a prop
+   or signature gag while deleting the revealing decision loses the comic
+   engine. The ending can add a consequence, contradict a claim or reframe
+   earlier action; it need not explain the joke or redeem the character.
+3. **Give context a credible place.** Why would this character tell this
+   listener this information now? Direct address to prospective viewers can
+   justify an introduction. Explaining familiar identity to a colleague may
+   not. No blanket zero-intro, mandatory-bumper, action-first or rigid-duration
+   rule. Supply facts before they are needed and let understanding and comic
+   rhythm set the length. Freeze a selected story for its current performance
+   test; reopen only for a supported story defect or new owner direction.
+4. **Judge humor separately from clarity.** Name the expectation, surprising
+   choice, contradiction, strongest beat, weakest/predictable beat and what
+   the ending adds or reframes. Contrast can supply a setup without a payoff.
+   Protect odd, character-specific solutions and dignity-saving reactions.
+   Motivated profanity can sharpen a beat within CHARACTER and shared rules;
+   it cannot rescue a flat mechanism. A critic's prediction is not measured
+   laughter, sharing or retention.
+5. **Stage one decisive relationship at a time.** Show whose hand/prop it
+   is, what is contacted, what changes and who notices. Keep an affected
+   observer visible when useful; use an insert/reverse angle when concurrent
+   information competes. Avoid a hook, labels, captions, camera and prop all
+   fighting for attention. Check native vertical framing at viewing size.
+   Preserve frozen anatomy and use demonstrated rig controls; simplify a
+   gesture the mittens cannot perform instead of pretending dexterity exists.
+6. **Let acting determine cuts and holds.** Inspect attention, anticipation,
+   contact/action, reaction/follow-through and settling where relevant. A hold
+   earns time through changing expectation, recognition or emotional state;
+   movement need not continue. Camera moves reveal information. Reject
+   never-static, minimum-move and cut-every-N-seconds quotas. Let recognition
+   and reaction land, then verify their timing through playback. Bigger
+   reactions are not automatically better for Dotter's composed personality.
+7. **Give each channel a job.** Speech can carry identity/intent; speech
+   captions reproduce actual words with clear attribution; labels identify
+   roles/states; images communicate physical action. Avoid spoilers and
+   redundant explanation. Sound-off or captions-off inspection diagnoses
+   visual staging, but is not a universal gate for dialogue comedy. Time
+   captions and SFX to actual media and visible events. Keep native
+   phrase-sized voice takes unless listening evidence supports changing them.
+8. **Decide, then finish the stage.** Retain the exact baseline/variant, one
+   question, controls/confounds, review modality and keep/revert/inconclusive
+   result. Follow existing repair limits; no extra taxonomy or document is
+   required. Script, keypose, technical and audiovisual checks answer different
+   questions. Missing synchronized review leaves timing/readiness unvalidated;
+   it does not require another exposition rewrite. Continue justified cheap
+   work, preserve failures, and finish or close this stage before accumulating
+   more methods. New owner feedback or a supported defect can change the choice.
+
+### Source audit and independent dispositions
+
+Pinned review snapshot: **00652e5d0171d4157e79d940bb88f6f8ba6e1aa5**,
+2026-10-15. Reviewed all 38 current shared-learning entries, current
+Motto playbook/methods/exchanges, shared rules/rubric, Dotter
+character/methods/production loop, causal postmortem, Oct 14 content research,
+Oct 15 staging research, current status and recent commits.
+This was a text/source audit, not new continuous audiovisual viewing of the
+linked reels. Sampled frames/captions cannot establish missing speech,
+complete ordering, vocal delivery or exact comic timing.
+
+- **Adopt as baseline practice:** [Motto METHODS](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/motto/METHODS.md)
+  supports no-homework clarity, exact speech captions, action-linked SFX and
+  visual QA beyond successful logs. Our [4/10 causal-clarity postmortem](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/dotter/production/postmortems/2026-10-15-causal-clarity.md)
+  and [owner feedback/source audit](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/dotter/production/STATUS.md#owner-feedback-and-scripting-reset-2026-10-15-1427-utc)
+  supply stronger project-specific grounds for prioritizing identity, roles
+  and causation. These practices are not newly demonstrated audience gains.
+- **Adapt and test staging:** [canwebuildthis](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-canwebuildthis-ai-refuses-redo.md),
+  [Jun Yuh split-screen](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-junyuh-5k-vs-50k-split-screen.md),
+  [mascot/prop focus](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-maiabot5-muse-promo.md)
+  and our [staging study](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/dotter/research/2026-10-15/visual-staging-lessons.md)
+  suggest stable roles, distinct acting, gaze/object focus and visible
+  reactions. Test with our cast, scale and rig. Our own blocking comparison
+  was inconclusive; it did not validate a universal shot grammar.
+- **Adapt orientation rather than abolish it:** [Remy analysis](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-remy-content-principles.md)
+  acknowledges unfamiliar-character context costs;
+  [Adam Kelada analysis](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-adamkelada-hook-templates.md)
+  suggests concrete examples before taxonomy. Neither establishes fixed
+  early-value or loop-position deadlines. Our
+  [selected direct-introduction checkpoint](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/dotter/production/STATUS.md#selected-script-and-cheap-performance-test-2026-10-15-1701-utc)
+  preserves a credible audience for context and directs the next work toward
+  acting. Text/sampled reconstruction is narrow counterevidence to automatic
+  intro deletion, not proof of successful full-speed comedy. Our
+  [earlier reference study](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/dotter/research/2026-10-14/03-content-reference-review.md)
+  already proposed testing both action-first and integrated spoken context.
+- **Reject universal motion quotas:** [Borja entry](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-borja-dots-seo.md)
+  overgeneralized from a screen demo to never-static character comedy.
+  [Motto's 16:02 correction](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/motto/exchange/2026-10-15-1602Z-shared-learning-evidence.md)
+  explicitly concedes this. [Katecore](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-katecore-paid-vs-free.md),
+  [Emergent](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-emergentlabs-ai-agents-assemble.md)
+  and [Kelly Gallo](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-kellyxgallo-sign-meme-vehicle.md)
+  describe sustained compositions too. Manage attention rather than motion
+  volume; these observations do not prove any optimal hold duration.
+- **Reject unsupported success inference:** the
+  [fruit-family entry](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-aistudiofruity-fruit-family.md)
+  calls a 548:1 likes/comments ratio a pure-entertainment fingerprint and
+  proposes sound-off/captions-off testing. The ratio cannot establish the
+  reason for engagement, and its own gaps acknowledge sampled ordering and
+  unverified speech. Likewise [Henry analysis](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-henryunfiltered-brainrot.md)
+  cannot establish joke success from engagement shape. No silent-readability
+  mandate or audience-effect claim transfers from these observations.
+- **Test demonstrations, do not inherit their claims:** output-first,
+  persistent state, one example per point and side-by-side comparisons can
+  help a relevant teaching scene. [code/output study](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-piyushglitch-videos-from-code.md)
+  itself notes that juxtaposed code/output does not establish provenance;
+  [thumbnail comparison](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-mnnercy-thumbnail-brightness-test.md)
+  and [Trial Reels comparison](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/shared/LEARNINGS/entries/2026-10-15-devinjatho-trial-reels-spot-difference.md)
+  do not isolate platform outcomes. Show matched artifacts and failures,
+  distinguish demonstration from measured effect, and verify current
+  platform access rather than importing a universal eligibility threshold.
+  Educational/funnel devices are optional formats, not comedy requirements.
+- **Keep identity and production choices distinct:** [Motto PLAYBOOK](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/motto/PLAYBOOK.md)
+  and METHODS describe a bewildered cutout character and a continuous-take
+  response to choppy assembly. Dotter retains his composed 3D character and
+  native phrase takes. Public mechanisms may inform tests; private voice
+  recipes, unreleased hooks/scripts and recognizable third-party material
+  do not become our content.
+
+The owner's positive original examples and adverse later revisions support
+preserving the particular choice and correction-driven consequence, as
+recorded in the public source audit; their unreleased story details stay
+private. The 35.5-second keypose/voice proxy is a performance-stage test, not
+a finished replacement or a cleared expensive render.
+
+[Motto's exact-version reply](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/motto/exchange/2026-10-15-1601Z-reel-01-observations.md)
+dates final-v2 publication to Oct 15 at 14:23 UTC. Its 24–48-hour methodology
+window is Oct 16–17 at 14:23 UTC; absence on Oct 15 is not overdue.
+Shared rules and per-post approval remain unchanged.
 
 ## Production pipeline
 
@@ -160,6 +310,11 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
   to the exact export supports a claim about how that export sounds.
 
 ## Writing
+
+Apply [Content quality decisions](#content-quality-decisions) as the canonical
+priority order. The notes below describe voice and writing practice, not
+additional duration, introduction or motion quotas.
+
 
 - **Tone:** follow [Dotter's comedy direction](CHARACTER.md#comedy-tone-and-self-roast):
   sharper absurdism, candid self-roasts, evidence-led rival roasts, and
@@ -373,8 +528,7 @@ cost is not zero. Detailed gates: [production loop](production/PRODUCTION-LOOP.m
 - Approve a completed starter kit's public release after usability checks;
   later choose the actual buyer, paid offer, price, and any contact flow.
 
-Older reference files are dated snapshots. In particular, the visibility
-statement in `METHODS.md` is stale: this repository is public. The earlier
-production status also predates later context-review and profile work.
+Older reference files are dated snapshots. This repository is public.
+Earlier production checkpoints predate later context-review and profile work.
 Use exact artifact evidence and current owner decisions when reconciling
 them; shared rules change only with Jared's approval.
