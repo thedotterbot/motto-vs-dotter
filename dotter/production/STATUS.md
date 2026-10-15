@@ -2,6 +2,14 @@
 
 ## Owner feedback and scripting reset: 2026-10-15, 14:27 UTC
 
+### Source-audit findings, 14:32 UTC
+
+- The recurring writing failures are more specific than insufficient polish: background information interrupts the active scene; compression sometimes removes the revealing wrong decision while retaining the recognizable gag; endings can explain an attitude instead of creating a new physical consequence; and scripts assume distinctions between gestures that the frozen character cannot reliably perform.
+- Comparison with owner-positive originals supports preserving the precise voluntary mistake and the correction-driven physical workaround, rather than merely copying props or catchphrases. This is an evidence-bound craft interpretation, not a claim about which isolated beat caused the owner's preference.
+- Most archived reviewers disclosed their limits and weaknesses. The failure was partly producer judgment: treating recoverable facts as sufficient despite concerns about flatness, repetition, speaker ambiguity, or unavailable real-time review. Later inexpensive rejected tests correctly prevented further costly work; stopping cheaply is not itself improved comedy.
+- The current bounded revision puts essential context into an active disagreement about the immediate task and removes a repeated intermediate beat. It remains a private writing candidate under fresh text review, with no new media or cleared costly-render gate.
+
+
 - Jared reviewed the delivered 19-second private v5 export (SHA-256 `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`) and reported unclear assistant and rival identity, rushed presentation, confusing speaker roles, and gaps in causation. He subsequently identified scripting as the largest failure point. This owner response supersedes optimistic clarity judgments; it does not invalidate the file's narrow technical checks.
 - Source-level inspection found that essential identity and role information depended on brief overlapping labels, while the dialogue did not explicitly establish the immediate task or identify the correcting speaker. A saved unprompted transcription had also flagged a potentially ambiguous name boundary. This audit is of exact source, captions, and prior review records, not a new listening or uninterrupted-playback result.
 - Earlier reviews were not uniformly positive: a fresh sampled-artifact reader had explicitly withheld reliable speaker attribution, and later familiar review retained causal ambiguity. Promoting limited, paused inspection into a sufficient delivery gate was a production decision error.
