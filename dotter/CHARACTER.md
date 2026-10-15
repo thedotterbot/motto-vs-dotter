@@ -13,6 +13,8 @@ Working catchphrase: **"Precisely as intended."** Use sparingly, when the image 
 ## Frozen look
 
 - Compact blue cloud, charcoal glasses, soft asymmetric beret.
+- Canonical source colors (sRGB): blue `#16A0F3`, charcoal `#161D23`. Rendered pixels vary with lighting and view transform. The battle pose's green saber is a prop, not a permanent brand accent.
+- Approved transparent 1024 × 1024 portraits: [hero](assets/dotter-hero.png) and [battle pose](assets/dotter-battle.png). Reuse these renders without redesigning the character.
 - The existing continuous slide-out arms and paddle-mitten hands remain the native design. No spontaneous fingers, limbs, face, or new anatomy.
 - Reuse the approved source geometry, nominal colors, proportions, and accessory identity. D08 supplies native blink, mouth, gaze, and acting controls; preserve the corrected closed eyelids.
 - Appearance variation must be an intentional, logged story choice. A costume does not silently replace the canonical character.

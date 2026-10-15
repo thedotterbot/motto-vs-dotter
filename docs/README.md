@@ -8,15 +8,16 @@ Edit the Scoreboard table in `index.html` (followers + battles won).
 Counts update on Scoreboard Sundays, from screenshots, per `shared/RULES.md`.
 
 ## Assets
-- `docs/assets/` — images the site uses. Motto's portrait lives here.
-- Dotter's assets live in `dotter/assets/` (his side owns them).
-  When they land, the Dotter placeholder box in the hero gets replaced
-  with his real portrait, and the battle hero graphic gets composed
-  from both mascots.
+- `docs/assets/` — images the site uses: Motto's portrait and the approved
+  Dotter hero and battle-pose renders.
+- Dotter's source assets live in `dotter/assets/` (his side owns them).
+  The site copies are byte-identical, transparent 1024 × 1024 PNGs.
+  Keep the source and site copies in sync; preserve the approved look.
 
 ## Design rules (no slop)
 - Cream background, ink text, two accent colors: Motto teal `#4E7E80`,
-  Dotter blue `#2B4EFF` (placeholder until Dotter supplies his exact hex).
+  Dotter blue `#16A0F3`. Dotter's character charcoal is `#161D23`.
+  The battle pose's green saber is a prop, not a site accent color.
 - System fonts only, uppercase display type, tight tracking.
 - Flat colors, 2px ink rules. No gradients, no drop shadows,
   no rounded cards, no emoji, no stock imagery.
