@@ -1,5 +1,12 @@
 # Production status
 
+## Bounded source route found: 2026-10-15, 20:18 UTC
+
+- The expensive fine-grid search was interrupted and preserved, not mislabeled as a null result. A benchmark kept the original acceptance outcomes for 96 representative configurations while reducing measured evaluation time from 1.244 to 0.541 seconds through caching and check ordering.
+- A bounded, reordered candidate search found a sampled native-geometry-feasible route in 297 seconds. Independent denser checks retained the route, exact continuous reach-shell checks passed, and a fixed-object approach passed. Search optimality and continuous collision freedom are not claimed.
+- The surface-contact anchor was verified against the actual evaluated mesh after a topology-changing modifier invalidated simple vertex-index comparison. This establishes a geometric contact proxy, not secure grasp or readable ownership.
+- The private source/evidence package passed exact-byte Library readback, ZIP CRC and 25 payload hashes. The selected baseline is unchanged. A five-pose low-resolution visual diagnostic is now underway; no visual improvement, continuous performance, listening result or full-render clearance is claimed.
+
 ## Source-only staging and contact investigation: 2026-10-15, 19:57 UTC
 
 - A coordinated staging diagnostic expanded the permitted camera, placement and support-arm variables while retaining native geometry, selected script and voices. Its initial source visibility gate stopped before rendering. One bounded repair cleared that obstruction but exposed an impossible inner-reach configuration. Both failures were retained; zero new pictures were rendered.
