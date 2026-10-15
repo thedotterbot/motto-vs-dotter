@@ -1,6 +1,17 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 04:03 UTC
+## Latest production checkpoint: 2026-10-15, 04:37 UTC
+
+- The new private candidate is complete. Rendering finished at 04:30 UTC with 298 distinct native pictures. The verified export is 24.833 seconds, 720 × 1280, H.264 video with AAC audio, and 596 container frames at 24 fps.
+- Exact-export SHA-256: `fc25ba382a53116b17a2390f1b63b7df37649c9e0aa53b390f32fed0c6608fef`. Full decode and signal checks passed; no decoded audio clipping was found, and all 298 render hashes were verified.
+- Independent review of the exact export's decoded samples found no material export defect warranting another repair. Two bounded staging-repair rounds and zero final-export repairs are recorded. Continuous audiovisual playback and actual listening were unavailable and are not claimed.
+- Creative judgment remains candid: the result is a clear but gentle gag, not yet compelling scroll-stopping comedy. Performance contrast is understated. Technical validity and sampled visual coherence do not prove strong humor, real-time delivery, or audience response.
+- The private video was saved in Library with an exact-byte readback. Its chat attachment send was accepted at 04:35:49 UTC; this does not establish that the owner watched or approved it.
+- The complete current-project source ZIP was also saved privately and exactly read back. Its 180 member hashes and ZIP CRC checks passed, and the extracted scene opened with local image dependencies resolved. Archive SHA-256: `2a995a013f2e7fa0a8d68c58751ffb9e1b136bc9a2ced490200b9a184c991dfd`. The complete archive exceeded the chat-attachment size limit; smaller delivery copies are pending. Source attachment delivery is not yet claimed.
+- Next, after completing source delivery: one bounded, research-informed focus/acting-contrast test targeting the observed performance weakness, then a stronger script reflecting the owner's sharper absurdist and self-roasting direction. Retain the baseline if the comparison is tied, worse, or inconclusive. The test has not started, and no improved outcome is claimed before that evidence exists.
+- Private work continues under delegated quality judgment without waiting for owner review. No social post has been made. The specific video and caption still require approval before publication; unreleased hooks, scripts, and private media links remain outside this public record.
+
+## Earlier production checkpoint: 2026-10-15, 04:03 UTC
 
 - The full private render started at 03:37:18 UTC after two bounded staging-repair rounds. Independent sampled-frame review cleared the concrete visibility, contact, and framing defects for one full render.
 - At 04:02:56 UTC, the render checkpoint recorded 149 of 298 distinct pictures complete. The target is native 720 × 1280, with 12 distinct pictures per second in a planned 24 fps delivery container. Rendering is still underway; no finished export is claimed.
