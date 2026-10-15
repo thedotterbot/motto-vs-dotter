@@ -1,6 +1,12 @@
 # Production status
 
-## Latest experiment checkpoint: 2026-10-15, 11:50 UTC
+## Latest delivery checkpoint: 2026-10-15, 12:00 UTC
+
+- The completed 19-second native vertical export v5 was sent as a private video attachment; the send was accepted at 12:00:29 UTC. Exact-export SHA-256: `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`. This closes the pending video-send state below; acceptance does not establish viewing or approval.
+- The complete source archive and all four smaller source parts remain privately stored with the verified readbacks, CRC checks, and 235 payload-member hashes recorded below. The source parts have not been sent as chat attachments.
+- The overnight candidate is complete. No heavy render job is active, and the two rejected low-cost experiments remain separate from that finished export. Review limits and creative judgments are unchanged. No social post has been made; publication still requires approval of the specific video and caption.
+
+## Earlier experiment checkpoint: 2026-10-15, 11:50 UTC
 
 - Two bounded private experiments ended without a second finished film. The earlier completed 19-second native vertical export v5 remains unchanged, with private attachment delivery pending. No heavy render job is active at this checkpoint.
 - In the first experiment, an owner-benchmark-inspired concept was rejected after an eight-second silent, low-resolution artifact test. A script reader found promise, but a separate unfamiliar artifact reader could not reconstruct the intended improvement or definite comic consequence. One cheap framing repair and two remaining visual defects are recorded. No voice or full production followed.
