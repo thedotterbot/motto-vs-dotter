@@ -1,6 +1,15 @@
 # Production status
 
-## Latest video checkpoint: 2026-10-15, 01:19 UTC
+## Latest video checkpoint: 2026-10-15, 01:25 UTC
+
+- The remaining full-render batch started at 01:25 UTC after an independent sampled-frame review cleared the placement, release, and final poses.
+- Render dimensions are native 720 × 1280. The plan is 12 distinct pictures per second in a 24 fps export; the assembled export has not yet been verified.
+- Editable source SHA-256: `d335c7e009f0be3ea5317732b90dfa66f90477617237008a57b99e50622bd96b`.
+- Two bounded preview-repair rounds are recorded. Final-export repair rounds: zero so far.
+- At the render start, the estimated remaining render time was 40–45 minutes, followed by assembly and QA. This is an estimate, not a completion claim or guaranteed delivery time.
+- Next evidence: complete the render, assemble the candidate, and check the exact export. Full playback quality, final acceptance, and audience response remain unverified.
+
+## Earlier video checkpoint: 2026-10-15, 01:19 UTC
 
 - Cheap key-pose inspection caught a prop-text attachment defect. The defect was repaired, and the complete pose sequence now exists.
 - A native 720 × 1280 benchmark of the critical transition is running to check final-size readability and the turn before the full batch. The current test uses 12 distinct pictures per second; a 24 fps delivery container is planned, not yet verified.
