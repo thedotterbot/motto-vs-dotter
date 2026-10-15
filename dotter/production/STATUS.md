@@ -1,5 +1,12 @@
 # Production status
 
+## Episode 1 native render underway: 2026-10-15, 21:32 UTC
+
+- Following the owner's standalone-debut reset, the Episode 1 script was settled privately before production. A fresh sampled-preview reader recovered identity, computer agency, rival goal, stakes and causal choice. This is limited preview evidence, not final audiovisual acceptance.
+- The production worker reports the native 720 × 1280 render started at 21:31:31 UTC: 456 planned pictures at 12 distinct pictures per second, for a 38-second, 30-fps delivery container. No finished video exists yet. A three-picture benchmark measured 12.0, 11.1 and 11.1 seconds per picture, supporting an estimated render completion around 22:55–23:05 UTC, followed by encoding and review; this is not a guarantee.
+- Nine speech takes total 23.44 seconds. Full-mix ASR matched the intended text without additional words; actual listening has not been performed. All 52 native facial drivers are retained, with sampled patch verification. These checks do not establish perceived delivery or continuous performance quality.
+- Remaining gates: finish rendering, encode and technically verify the exact export, independently review that artifact, and preserve private media/source evidence. Script, dialogue, hooks and private artifact links remain outside this public record. No publication or audience result is claimed.
+
 ## Candidate stopped after owner changed debut brief: 2026-10-15, 20:58 UTC
 
 - The owner superseded this candidate with a script-first, standalone debut brief. The active lower-resolution render was stopped at 20:57:59 UTC; its process exited and the shared heavy-job lease was verified released. No further render is active from this pass.
