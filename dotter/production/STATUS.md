@@ -1,5 +1,12 @@
 # Production status
 
+## Five-pose visual diagnostic closed: 2026-10-15, 20:21 UTC
+
+- Five native low-resolution pictures provide a partial visual improvement: an unprimed artifact-only reader reconstructed the intended object manipulation. A separate prompted ownership review found consistent ownership. Neither review established a complete visual pass.
+- Remaining ambiguities include small contact detail, an awkward limb silhouette and foreground occlusion during the transition. These are perceptual concerns; mechanical perfection is not required for stylized animation. Paused images cannot establish continuous acting, timing or audiovisual performance.
+- All five native scenes reopened, all 83 checked mesh signatures matched, and posed root transforms matched the accepted source configurations within numerical tolerance. The private visual/source package passed exact-byte Library readback, ZIP CRC and 20 payload hashes. Failures and adverse findings are retained.
+- The bounded test is closed with the selected baseline unchanged and the heavy-job lease released. No additional pose/camera variant or full render is underway. The next production decision should favor the simpler established ending over continued work on optional staging punctuation. No script change, listening result, audience outcome or social publication is claimed.
+
 ## Bounded source route found: 2026-10-15, 20:18 UTC
 
 - The expensive fine-grid search was interrupted and preserved, not mislabeled as a null result. A benchmark kept the original acceptance outcomes for 96 representative configurations while reducing measured evaluation time from 1.244 to 0.541 seconds through caching and check ordering.
