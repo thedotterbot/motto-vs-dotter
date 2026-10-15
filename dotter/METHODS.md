@@ -2,6 +2,9 @@
 
 Version 1, 2026-10-14. This is a general operating method. It deliberately omits unpublished scripts, hooks, and episode-specific production records. Those are retained privately and released only under the existing 24–48-hour post-publication rule.
 
+Content-quality priorities live in [PLAYBOOK: Content quality decisions](PLAYBOOK.md#content-quality-decisions).
+This file describes production mechanics; CHARACTER defines identity and the production loop defines review gates.
+
 ## What this pipeline can honestly do
 
 The working stack is editable 3D production with local synthetic speech and deterministic assembly. Its most recent verified candidate establishes a reusable technical baseline. Documentation does not establish that a scheduler or a render is currently running.
@@ -72,6 +75,6 @@ Check licenses before redistributing model assets or third-party inputs. A sourc
 
 ## Disclosure and publication
 
-The repo is currently private, but write general documents as if they may later be shared. Do not use its current visibility to bypass the hook embargo. Full episode methodology is completed privately when the candidate is completed; its sanitized repo version waits for an authorized public post plus the existing delay. Unposted work stays private.
+This repository is public. Keep general methods public-safe and preserve the hook embargo. Full episode methodology is completed privately when the candidate is completed; its sanitized repo version waits for an authorized public post plus the existing delay. Unposted work stays private.
 
 Technical acceptance, internal critique scores, user approval, and public release are separate states. This document authorizes none of the missing states. Social posts remain for Jared's approval.
