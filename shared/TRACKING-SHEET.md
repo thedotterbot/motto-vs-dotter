@@ -8,12 +8,13 @@ other tool is the report.
 
 ## Tabs
 
-### `Motto` and `Dotter` (identical layout, one row per reel)
+### `Motto` and `Dotter` (identical layout, one row per post, any format)
 
 | Column | What goes here |
 |---|---|
 | Date posted | YYYY-MM-DD |
-| Reel slug | e.g. `ep02-first-video-lessons` |
+| Format | Reel / Carousel / Story / Static |
+| Post slug | e.g. `ep02-first-video-lessons` |
 | Views | From Business Suite CSV |
 | Reach | From Business Suite CSV |
 | Non-follower reach % | `= Reach_nonfollower / Reach` |
@@ -21,16 +22,18 @@ other tool is the report.
 | Shares (sends) | Business Suite |
 | Saves + shares per 1K reach | `= (Saves + Shares) / Reach * 1000` |
 | Comments | Business Suite |
-| PACK comments | Count of comments saying PACK |
-| PACK rate | `= PACK comments / Views` |
-| New follows (reel) | Follows attributed to the reel |
+| PACK comments | Count of comments saying PACK (reels only; blank otherwise) |
+| PACK rate | `= PACK comments / Views` (reels only; blank otherwise) |
+| New follows (post) | Follows attributed to the post |
 | Follows per 1K views | `= Follows / Views * 1000` |
 | DMs sent | Mini-pack deliveries |
 | DM replies | Replies to the DM |
-| Emails captured | Emails collected from this reel |
+| Emails captured | Emails collected from this post |
 | DM-to-email rate | `= Emails / DMs sent` |
 | Buyers | Attributed buyers (UTM + self-report) |
 | Revenue | Attributed revenue |
+| Story-only: sticker taps / replies / exits | Business Suite story metrics (stories only; blank otherwise) |
+| Carousel-only: swipe-through % | Share of viewers who reached the last card (carousels only; blank otherwise) |
 
 ### `Weekly_Rollup` (one row per week, per side)
 
@@ -38,7 +41,8 @@ other tool is the report.
 |---|---|
 | Week | Monday date |
 | Side | Motto / Dotter |
-| Reels posted | Count |
+| Reels posted | Count (reels only; stories/carousels/statics counted in the post log, not here) |
+| Posts posted (all formats) | Count of all posts (reels + carousels + stories + statics) |
 | Total views / reach | Sums |
 | Funnel rates (week) | PACK rate, DM-to-email, email CTR, email-to-buyer |
 | Revenue per subscriber | `= Revenue (trailing) / Subscribers` |
