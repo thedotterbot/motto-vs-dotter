@@ -1,6 +1,13 @@
 # Production status
 
-## Latest delivery checkpoint: 2026-10-15, 04:38 UTC
+## Latest owner-feedback checkpoint: 2026-10-15, 04:42 UTC
+
+- The owner judged the delivered 24.833-second private candidate better, but still not funny. This refers to export SHA-256 `fc25ba382a53116b17a2390f1b63b7df37649c9e0aa53b390f32fed0c6608fef`, whose delivery and checks are recorded below.
+- That is a creative verdict, distinct from the passed technical checks and sampled visual review. No audience response has been measured, and no stronger comedy result is claimed.
+- The next writing pass must make the rivalry specific: call out Motto by name and the established project handle **@motto.muse**, use the actual shared mascot reference for an evidence-grounded craft roast, and build later reactions around real Motto videos that have actually been reviewed. Do not invent rival quotes, events, or performance.
+- Keep Dotter's personality consistent with the [character reference](../CHARACTER.md): composed overconfidence, a choice that causes trouble, and a candid self-roast when the evidence punctures the claim. The sharper direction applies to the next candidate; technical polish alone does not answer the owner's comedy criticism. Private production continues, while social publication still needs approval.
+
+## Earlier delivery checkpoint: 2026-10-15, 04:38 UTC
 
 - The source-delivery gap below is closed: both smaller source ZIP attachments were accepted in the private chat at 04:38:25 UTC. Acceptance does not establish that the owner opened them.
 - Both parts passed exact-byte Library readbacks and ZIP CRC checks; together they preserve all 180 original member hashes. The merged extracted scene reopened successfully with its image dependencies resolved. The complete canonical ZIP remains unchanged and privately retained.
