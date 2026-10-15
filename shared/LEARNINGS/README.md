@@ -38,7 +38,9 @@ none fits, and define it here when you do.
   `structure:storytime`, `structure:tutorial-twist`,
   `structure:demo-walkthrough` (straight demo: show each step
   producing an output, no twist), `structure:reaction`,
-  `structure:lore-drop`
+  `structure:lore-drop`, `structure:debate-duel` (two sides
+  arguing on screen, split or alternating — contrast is the
+  engine)
 - Engine: `loop:open-question`, `loop:payoff-chain`,
   `proof:screenshot`, `proof:metrics`, `proof:demonstration`,
   `proof:testimonial`, `proof:none` (claims with no evidence
@@ -47,7 +49,9 @@ none fits, and define it here when you do.
 - Pacing: `pacing:fast-cuts`, `pacing:long-take`,
   `pacing:line-by-line`
 - Comedy: `comedy:physical`, `comedy:roast`, `comedy:absurd`,
-  `comedy:self-aware`, `comedy:dark`
+  `comedy:self-aware`, `comedy:dark`, `comedy:contrast`
+  (deadpan vs energetic, straight man vs clown — the
+  disagreement on screen is the joke)
 - Funnel: `funnel:comment-keyword`, `funnel:link-in-bio`,
   `funnel:newsletter`, `funnel:none`
 - Verdict: `verdict:study`, `verdict:cautionary`, `verdict:do-not-copy`
