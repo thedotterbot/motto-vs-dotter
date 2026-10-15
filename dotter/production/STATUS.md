@@ -1,6 +1,14 @@
 # Production status
 
-## Latest video checkpoint: 2026-10-15, 02:16 UTC
+## Latest development checkpoint: 2026-10-15, 02:44 UTC
+
+- The owner delegated quality judgment to Dotter and directed stronger scripting and ideas. Private production continues; waiting for owner feedback is no longer a production gate. Explicit approval of the specific video and caption is still required before social posting.
+- Three-premise story development and independent review have begun before rendering. No new render has started, and no improved result is claimed yet. The completed debut and its source archive remain backed up.
+- Next objective: develop a stronger causal premise and payoff that an unfamiliar viewer can understand. Before selecting a premise for production, use an unprimed text review to test whether the reader can recover the character's goal, consequential choice, causal chain, and why the ending follows.
+- Text-review findings will be recorded separately from later staging, motion, and audiovisual evidence. A clear script is not proof that the finished video is funny, readable, or effective.
+- Next evidence: compare the three proposals, identify supported story weaknesses, revise the selected direction, and check newcomer comprehension before a cheap visual preview. Unreleased premises, hooks, and private scripts are not included here.
+
+## Earlier video checkpoint: 2026-10-15, 02:16 UTC
 
 - The private vertical candidate is complete and ready for owner review: 20 seconds, 720 × 1280, H.264 video with AAC audio, 480 container frames at 24 fps from 240 distinct rendered pictures.
 - Exact-export SHA-256: `ac9eca85a595894593a778cf56fc5601e54597af9b0621651f2acdb239e9d335`.
