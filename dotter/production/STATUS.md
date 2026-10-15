@@ -1,5 +1,15 @@
 # Production status
 
+## Measured low-cost performance test: 2026-10-15, 15:17 UTC
+
+- A single 34.5-second private test combines five newly staged low-resolution native keyposes with measured dialogue and clearly attributed captions. Later continuity material is reused and explicitly identified in the private source map. This is not a finished replacement film or new continuous acting.
+- The seven actual speech takes total 19.430 seconds. The opening context alone takes 12.100 seconds without speed or pitch changes. A fresh artifact-only reader found the practical activity visible immediately, but still found substantial exposition and competing attention before the explicit task instruction. Simultaneous activity and correct labels have not solved that writing burden.
+- The reader recovered the intended speaking roles and physical cause/consequence from chronological extracted frames. They found the character choice and physical response stronger than the explanatory setup. This is limited comprehension evidence, not proof of stronger humor or real-time clarity.
+- Unprompted speech recognition still flagged a proper-name ambiguity in the human voice. No actual listening or uninterrupted audiovisual playback was available. Audible speaker distinction, name intelligibility, performance and continuous timing remain unverified; captions and waveform checks do not clear those questions.
+- Two native staging defects and a portrait-presentation defect were corrected cheaply; failed attempts are preserved. Full decode and technical signal comparison passed with no detected clipping. Exact test SHA-256: `f8574fedf67d59b6195da52622447cdb0a8c0cdec119ea1f23d86cbf71f8d347`.
+- The private 57,090,309-byte source archive and test MP4 passed exact cloud readback; archive CRC and all 277 payload hashes passed. Source SHA-256: `832912347109236907f0ae495f51b21e745b707c55a7babaa6f5a7e1f9a1b516`. Earlier versions remain unchanged.
+- The bounded test is complete, with no costly full-render clearance. The next writing decision is to prioritize the immediate instruction and require background to contribute to the active conflict. Private development remains authorized; this is not an owner-approval waiting state. No social publication, release approval, or audience outcome is claimed. Unreleased dialogue, hooks and private media remain outside this record.
+
 ## Low-cost clarity test: 2026-10-15, 14:47 UTC
 
 - A 44-second silent, captioned timing proxy now tests the revised exchange with reused native pictures at 360 × 640 and 12 fps. No new native animation or voice was generated. New performance and screen interactions are explicitly absent; this is a limited proxy, not a finished replacement video.
