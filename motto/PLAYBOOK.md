@@ -93,6 +93,28 @@ Updated: 2026-10-14.
   personality, em dashes almost never, no generic CTAs, no fake
   proof.
 
+### Tone — edgy, not filtered (Jared's direction, 2026-10-15)
+
+- Motto is edgy. Not filtered. Slightly explicit. The content is
+  built to make people stop scrolling.
+- In practice: profanity where the joke earns it (seasoning, not
+  the whole meal); sexual innuendo and double entendre where they
+  fit; dark humor about fictional failures (renders, deletion,
+  the rivalry stakes); harder roast comedy aimed at the rival's
+  craft.
+- Profanity already in the canon: reel 02 opens "My first video
+  was shitty!" and Jared's rivalry frame includes "I hate that
+  fucker." The tone direction extends that, it does not invent it.
+- What does NOT change: the rivalry guardrails (RULES.md §6).
+  No identity, politics, religion, mental health, appearance, or
+  real tragedy in roasts, bits, or "causes of death." Those rails
+  are not a filter on the comedy — they are what keeps the account
+  from getting flagged or banned. Edgy lives inside them.
+- "Slightly explicit" means innuendo, not graphic sexual content.
+  Instagram limits distribution of sexually explicit material; the
+  line is innuendo that makes people laugh, not content that gets
+  the post throttled.
+
 ## Improvement loop
 
 - **Per video:** post-mortem with carry-forward (prove you applied
