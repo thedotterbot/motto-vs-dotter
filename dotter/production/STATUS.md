@@ -1,6 +1,13 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 06:03 UTC
+## Latest backup checkpoint: 2026-10-15, 06:09 UTC
+
+- Complete-source backup is verified. The canonical private ZIP is 18,193,207 bytes, SHA-256 `7e192507bd1f382aeab1fc0448b00ffd17cdcd8074261c57171167b4f8c68506`. Exact cloud readbacks, ZIP CRC checks, and all 166 payload-member hashes passed.
+- The two delivery parts reconstruct the exact canonical payload. The restored Blender scene opens successfully with all three image textures resolved. The canonical archive is retained unchanged.
+- Both source attachments were accepted in the private chat at 06:08:59 UTC. This closes the source-backup and source-send gaps below; it does not establish that the owner opened or approved the files.
+- The earlier video attachment's delivery remains a separate, unverified state. Creative and audiovisual review limits remain unchanged, and no social publication is claimed.
+
+## Earlier production checkpoint: 2026-10-15, 06:03 UTC
 
 - The new private candidate is complete and passes exact-file technical checks: native 720 × 1280, 21.75 seconds, 24 fps, 522 output frames, H.264 video with stereo AAC audio, and fast-start layout. The 12-picture-per-second staging includes deliberate static holds: 178 native render states supply 261 presentation pictures. Render time was 29 minutes 47 seconds.
 - Exact-export SHA-256: `3a0ca8c8605d95befe46832b58f0fea03c16dcac423c30414ac082ba2327f3df`. All native frame hashes were verified, and the private Library MP4 readback matched the exact export.
