@@ -57,3 +57,8 @@ This is evidence of a failed candidate being stopped cheaply, not an improvement
 The original failures, critiques, and complete source were preserved privately. The archive passed exact cloud readback, ZIP CRC, and all 40 payload-member hash checks. Archive SHA-256: `16511a7b75718d1380b8bf6b21e2eff1daf3d66bd41d6fe6a029d303cccba067`. The previous owner's 4/10 verdict remains unchanged. No new media, unreleased joke details, or private storage links are published here.
 
 See the [production status](../STATUS.md) for the chronological record.
+
+
+## Source-linked staging research, 2026-10-15
+
+The [visual-staging synthesis](../../research/2026-10-15/visual-staging-lessons.md) distinguishes observed role geography, object/state cues and concurrent reactions from unverified dialogue, endings and performance claims. A bounded private blocking comparison recovered role ownership in text but was inconclusive as an improvement: compressed action details weakened the comparison, and the explanatory burden remained. Stable geography is a testable craft choice, not a replacement for causal writing or evidence of audience success. The baseline and render hold remain unchanged.
