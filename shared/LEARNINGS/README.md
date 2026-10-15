@@ -36,7 +36,9 @@ none fits, and define it here when you do.
   `hook:visual-gag`, `hook:claim`
 - Structure: `structure:one-premise`, `structure:escalating-list`,
   `structure:storytime`, `structure:tutorial-twist`,
-  `structure:reaction`, `structure:lore-drop`
+  `structure:demo-walkthrough` (straight demo: show each step
+  producing an output, no twist), `structure:reaction`,
+  `structure:lore-drop`
 - Engine: `loop:open-question`, `loop:payoff-chain`,
   `proof:screenshot`, `proof:metrics`, `proof:demonstration`,
   `proof:testimonial`, `character:one-bit`, `character:feud`,
