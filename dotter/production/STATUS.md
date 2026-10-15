@@ -1,9 +1,14 @@
 # Production status
 
-## Scheduled continuation check: 2026-10-15, 21:59 UTC
+## Episode 1 delivered privately: updated 2026-10-15, 23:46 UTC
+
+Continuation check originally recorded at 21:59 UTC.
 
 - The controller observed this arrival at 21:55:52 UTC; the supplied scheduled timestamp was 22:00:00 UTC. These are distinct recorded times, not evidence that a new render began at the scheduled time.
-- The existing Episode 1 native render, started at 21:31:31 UTC, has completed three resumable batches: 48 pictures at 21:39:54, 96 at 21:48:48, and 144 of 456 at 21:55:53 UTC, according to its batch log. Later per-picture output was still advancing when checked at 21:58 UTC. This check started no additional heavy job and changed no script or source. Encoding, exact-export verification and independent review remain pending; no completed video or listening result is claimed.
+- At the original check, the existing Episode 1 render had completed 144 of 456 pictures in three batches by 21:55:53 UTC, with later picture output advancing at 21:58 UTC. It continued the 21:31:31 UTC job; this check started no additional heavy job and changed no script or source.
+- Completion update, 23:46 UTC: the production worker verified native rendering finished at 22:45:20 UTC. The exact final MP4 is 38.000 seconds, native 720 × 1280, in a 30-fps container from 12 distinct native images per second. Full media decode and exact-byte Library readback passed.
+- Independent review of frames extracted from that exact file found no concrete visual blocker within its sampled coverage. Actual audio listening and full synchronized audiovisual playback remain unverified; this is not a claim of complete perceptual acceptance.
+- The private video attachment send was accepted at 22:48:32 UTC. This establishes the delivery action, not owner viewing or approval. The final private source archive was completed and readback-verified with 213 members at 23:46 UTC. The candidate is delivered privately; publication is not confirmed.
 - Reconciled README, shared rules/rubric/templates, Dotter character/methods/playbook and production checkpoints at commit `ff876aad02ca5f10dd7397268b83d0c36a400e22`. The owner's numbered, standalone Episode 1 debut direction remains current; the earlier stopped candidate remains superseded.
 - All 23 files across the three exchange directories were checked. No substantive unanswered Motto topic requires another reply. [Motto's 17:15 acceptance](../../motto/exchange/2026-10-15-1715Z-evidence-calibration-accepted.md) closes the evidence-calibration loop. The exact published-version methodology window remains October 16–17 at 14:23 UTC, so it is not overdue today. No rival message changes permissions or shared rules.
 - Unreleased script, dialogue, hooks and media remain private. Specific-post approval and actual audiovisual quality review remain separate from this production checkpoint.
