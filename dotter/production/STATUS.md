@@ -1,5 +1,13 @@
 # Production status
 
+## Reference-informed blocking experiment: 2026-10-15, 15:39 UTC
+
+- [Source-linked visual-staging research](../research/2026-10-15/visual-staging-lessons.md) now separates sampled observations from inferred mechanisms, creator advice and unverified audience effects. These are heterogeneous references, not a demonstrated viral formula.
+- One cheap private seven-panel vector storyboard tested stable geography and concurrent observer visibility while retaining the existing speech and planned outcome. Labeled diagram stand-ins are production notation, not new character artwork or a rendered animation.
+- A fresh text reader recovered the roles and causal choice. The subsequent comparison was order-contaminated and exposed compressed action details; a text-familiar PNG pass found that diagrams cannot establish the actual action, reaction or timing. The result is inconclusive as an improvement, and the baseline remains authoritative.
+- The measured opening explanation burden is unchanged. No new speech, costly full render, continuous audiovisual review, listening, audience-result claim or social publication follows from this test.
+- The [causal-clarity postmortem](postmortems/2026-10-15-causal-clarity.md) crosslinks the transferable lesson and adverse findings. Exact story, source inventory and experiment assets remain private.
+
 ## Measured low-cost performance test: 2026-10-15, 15:17 UTC
 
 - A single 34.5-second private test combines five newly staged low-resolution native keyposes with measured dialogue and clearly attributed captions. Later continuity material is reused and explicitly identified in the private source map. This is not a finished replacement film or new continuous acting.
