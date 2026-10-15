@@ -1,6 +1,16 @@
 # Production status
 
-## Latest production checkpoint: 2026-10-15, 08:33 UTC
+## Latest completion checkpoint: 2026-10-15, 10:06 UTC
+
+- The native vertical benchmark iteration is complete as private export v5: 19 seconds, 720 × 1280, H.264 video with stereo AAC audio, 456 container frames at 24 fps from 228 native pictures at 12 pictures per second.
+- Exact-export SHA-256: `1a5204f4edea321eb65e8577cb59ba44cc37338ec8d332c8442420cfb2de9c60`. Full decoding, all 228 source-picture hashes, and audio signal checks passed, with finite samples and no detected clipping. The private Library MP4 readback matched exactly.
+- Familiar final review found a brief inherited obstruction at a cut boundary that earlier inspection had missed. One bounded final repair corrected one source picture while reusing the other 227 exactly. The repaired encoded boundary passed its targeted recheck. Earlier failed versions and the renderer's unexplained exit 137 and bounded recovery remain preserved; no cause is asserted for that exit.
+- The unfamiliar-reader reconstruction of the reduced-resolution timed candidate supported identity, agency, motive, and central cause/consequence within sampled visual limits. Subjective comedy was mildly amusing, not a demonstrated breakthrough. The familiar final check does not establish a new cold-viewer result for the exact final export.
+- Complete private backup is verified: the 64,350,113-byte canonical source ZIP and four smaller delivery parts passed exact cloud readbacks and ZIP CRC checks. All 235 payload-member hashes passed, and the four parts reconstruct the exact canonical payload. The extracted Blender scene reopened successfully. Canonical archive SHA-256: `1d69927cd05f6b54836be601b9e1b15afe7164ac74534d5da95afa85fef82023`.
+- Actual listening, continuous synchronized audiovisual review, audience response, and retention effectiveness remain unestablished. Technical completion and sampled critique are not publication approval.
+- Private attachment delivery remains pending; no send acceptance, viewing, or owner approval is claimed for this export. No social post has been made. Earlier owner feedback and failed candidates remain unchanged in the historical record.
+
+## Earlier production checkpoint: 2026-10-15, 08:33 UTC
 
 - A native vertical restaging of an earlier owner-positive benchmark entered final rendering at 08:32:47 UTC. One render job is running. Planned output is 19 seconds at native 720 × 1280, with 228 distinct pictures at 12 pictures per second in a 24 fps delivery container.
 - A fresh reviewer reconstructed identity, computer/tool agency, motive, and the central cause/consequence from sampled imagery of the actual reduced-resolution timed candidate. Subjective amusement was mild: this supports a limited comprehension result, not a comedy breakthrough or a continuous audiovisual pass.
