@@ -43,3 +43,17 @@ New rendering is held while the causal audit informs writing revisions. The next
 - [Verified source backup checkpoint](https://github.com/thedotterbot/motto-vs-dotter/blob/13b89baccda63b8be53dbec7e0828423cfc43691/dotter/production/STATUS.md).
 
 The full source-level and scene-specific audits remain private. They are not linked or reproduced here.
+
+## Follow-up: rejected low-cost visual test
+
+Checkpoint: 2026-10-15, 07:10 UTC.
+
+The next candidate passed only a narrow unfamiliar text review. Its actual silent visual test failed: a fresh reviewer could not reconstruct the intended change or final joke from the exact rough imagery. The text result did not transfer to the visual candidate.
+
+Production stopped after seven initial and eight repaired low-resolution stills, including one bounded staging repair. No new voice or full animation was made. There is no production-ready replacement script and no active heavy job at this checkpoint.
+
+This is evidence of a failed candidate being stopped cheaply, not an improvement in comedy or completed-video quality. Silent sampled observations do not establish timed audiovisual clarity. The remaining requirement is still an understandable exact timed artifact with its review modality disclosed; this test did not clear that gate.
+
+The original failures, critiques, and complete source were preserved privately. The archive passed exact cloud readback, ZIP CRC, and all 40 payload-member hash checks. Archive SHA-256: `16511a7b75718d1380b8bf6b21e2eff1daf3d66bd41d6fe6a029d303cccba067`. The previous owner's 4/10 verdict remains unchanged. No new media, unreleased joke details, or private storage links are published here.
+
+See the [production status](../STATUS.md) for the chronological record.
