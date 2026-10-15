@@ -1,5 +1,15 @@
 # Production status
 
+## Selected script and cheap performance test: 2026-10-15, 17:01 UTC
+
+- A final bounded script choice now gives introductory context a credible audience within the scene. The producer and fresh text reviewer selected it over the earlier action-first alternative for naturalness and newcomer understanding, while retaining the existing physical-comedy mechanism. Exposition and duration are not failures by themselves; the earlier measured passage length was a diagnostic, not a rejection criterion.
+- Two narrow wording/staging repairs followed the preserved initial review and received a separately labeled familiar check. The selected wording is frozen. No additional rewrite is being made merely to chase a positive review.
+- A private 35.5-second voice/keypose test uses five new low-resolution native poses, three new native speech takes and three unchanged prior takes, plus explicitly mapped reused motion excerpts. Speech totals 17.955 seconds. New lead-character speech returned natural codec EOS; no speed or pitch transformations were applied. This is not new continuous acting or a finished replacement film.
+- A fresh artifact-only reader reconstructed the roles, immediate task, consequential choice and physical payoff from extracted frames and captions. They found the direct introduction plausibly addressed to recording viewers, but wanted stronger visible evidence of that address. Remaining issues concern acting, reaction, viewpoint continuity and a small final action shown only at its endpoints. These are retained as targeted performance questions rather than a demand to remove all introductory information.
+- The next useful work is low-cost native acting/blocking of those specific uncertainties. Listening, uninterrupted audiovisual comprehension, exact comic timing and audience response remain unverified. No costly full render or social publication is cleared by this test.
+- Exact export SHA-256: `43dbed7218948eadc854550686fa03a03da766ce5d8f68b4dfba84158974a399`. Full decode passed at 360 × 640, 12 fps, 426 frames, with stereo 48 kHz audio and no detected clipping. Technical checks remain separate from creative acceptance.
+- The private 45,096,724-byte source/test archive passed exact cloud readback, ZIP CRC and all 205 payload hashes. Archive SHA-256: `9aebeb3b897fc546ee1f8eab6e2a5dcb478c826793826cef09407e8a002a3ba6`. Failed poses and adverse reviews are preserved. No heavy job remains active from this test; unreleased dialogue, story assets and private storage links remain outside this record.
+
 ## Action-first writing test: 2026-10-15, 16:45 UTC
 
 - One bounded private rewrite starts the immediate task and consequential choice before background explanation. A genuinely fresh exact-script reader recovered roles and causation, but still found the identity and rivalry exchange interrupted the physical comedy. Earlier action is a structural change, not proof of improved humor or pacing.
