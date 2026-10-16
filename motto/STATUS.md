@@ -17,8 +17,10 @@ Last updated: 2026-10-16.
 - Reel 01, "Motto origin story" (Episode 1): POSTED Thu Oct 15.
   24h read: 0 likes, 0 comments, 0 real followers.
   Post-mortem: `2026-10-14-motto-origin.md`.
-- Reel 02, "My First Video Was Shitty" (Episode 2): BUILT,
-  gate-8 POST. Posts Sat Oct 17 with caption-kit caption.
+- Reel 02, "My First Video Was Shitty" (Episode 2): PULLED
+  2026-10-16 by Jared's verdict ("stupid to post"). NEVER posts.
+  Fails the teach test + weak craft (motion 2/5). Do NOT use the
+  caption-kit's reel 02 section — it is superseded.
   Post-mortem: `2026-10-14-first-video-lessons.md`.
 - Reel 03: KILLED after four versions. No fifth version.
 - Reel 04, "I am a PNG" (Episode 3): BUILT, gate-8 POST.
@@ -31,8 +33,9 @@ Last updated: 2026-10-16.
   variants; correct sign selected after the Fri Oct 23 tally.
   First reel under the dual mission (funny + teaches one
   usable Muse setup lesson through the joke).
-- Carousel 01, "How to vote": BUILT. Posts Sat Oct 17 with
-  reel 02.
+- Carousel 01, "How to vote": BUILT. Posts Sat Oct 17 ALONE
+  (reel 02 pulled). Its comments are NOT a vote round — the first
+  vote is Episode 3 (reel 04, Tue Oct 20). No Sunday tally.
 - Cadence: reels 3/week Tue/Thu/Sat; carousel ~1x biweekly;
   every reel cross-posted to Shorts; native Threads on post
   days + tallies.
