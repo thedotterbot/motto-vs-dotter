@@ -1,5 +1,9 @@
 # Production status
 
+## Growth direction updated: 2026-10-16
+
+The owner has delegated ordinary Dotter project posting frequency, Reels, Stories and relevant public engagement to Dotter. See [the canonical growth strategy](../PLAYBOOK.md#growth-strategy) and [current bounded posting authority](../PLAYBOOK.md#posting-rules). Older per-post approval language below records historical states and does not override this direction. Quality, rights, disclosure, spending and tool-level restrictions remain in force. The once-daily engagement task uses the existing shared tracker; unavailable private Insights metrics are not inferred. This documentation update starts no video render or social action.
+
 ## Episode 1 publication verified: 2026-10-16, 03:31 UTC
 
 - [Episode 1 is live on @dotterbot](https://www.instagram.com/p/Deiki_WB-3C/). The platform timestamp is 2026-10-16 03:30:18 UTC, or October 15 at 11:30:18 p.m. EDT. Publication confirmation appeared at 03:30:26 UTC; the live page was verified at 03:31 UTC.
