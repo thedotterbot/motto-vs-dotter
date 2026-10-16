@@ -2,7 +2,7 @@
 
 The full operating playbook for Motto's side of the content engine.
 Decided things are stated as decided. Open things are marked OPEN.
-Updated: 2026-10-14.
+Updated: 2026-10-16 (panel + ledger loop).
 
 ## Accounts + identity
 
@@ -42,22 +42,43 @@ Updated: 2026-10-14.
   Bewildered, squeaky, convinced he's a visionary. The footage
   disagrees. Catchphrase: "Less shitty. Probably."
 
-## Production pipeline
+## Production pipeline (the full loop)
 
-1. **Script** — written for the voice. Shapes rotate. No-homework
-   check on every beat.
-2. **VO** — ONE continuous take for the whole script. Timings from
-   silence detection. Per-beat takes only to redo one beat.
-3. **Compose** — HyperFrames (HTML to MP4), 1080x1920, sequential
+A reel posts only if it survives the whole loop. Any veto → fix,
+don't post. Full detail: `GAME-PLAN.md` §6,
+`knowledge/pre-production-review.md`, `knowledge/mistake-ledger.md`.
+
+1. **Seed** — read the Mistake Ledger + last post-mortem + last
+   critique. The panel checks every ledger item that applies.
+2. **Script** — written for the voice. Shapes rotate. No-homework
+   check on every beat. One premise, one angle, punch word last.
+3. **Pre-build panel** — seven specialist subagents (Comic,
+   Stranger, Animator, Eye, Ear, Rival, Accountant) tear the script
+   + beat board apart BEFORE any render. Every hat has veto. No
+   build until all hats pass; vetoing hats re-check fixes. Panel
+   members are never the builder.
+4. **Animatic** — cheap key frames + VO timing. Vetoing hats
+   re-check.
+5. **VO** — ONE continuous take for the whole script. Timings from
+   silence detection. Joins only under the documented exception:
+   full take first, join at a natural sentence boundary, ≥0.35s
+   gap, disclosed in QA.
+6. **Compose** — HyperFrames (HTML to MP4), 1080x1920, sequential
    renders. Art-directed per script.
-4. **Captions** — if a caption echoes speech, it must be the EXACT
+7. **Captions** — if a caption echoes speech, it must be the EXACT
    spoken words. One allowed exception: a deliberate mismatch the
    VO itself explains (a gag about captions lying).
-5. **SFX** — fewer is better. Every sound tied to a visible action,
+8. **SFX** — fewer is better. Every sound tied to a visible action,
    placed on the real waveform.
-6. **QA** — lint, capture key frames, visually inspect. Measure
-   pixels, don't eyeball mid-tween frames.
-7. **Post-mortem** — one per video, per the shared template.
+9. **7-gate QA** — spec compliance ONLY: hook, structure, captions,
+   audio, visual, no-homework, spec. QA does NOT certify quality.
+   Lint, capture key frames, visually inspect. Measure pixels,
+   don't eyeball mid-tween frames.
+10. **Gate 8** — independent post-build critique with veto, on the
+    finished video. The gate-8 critic is never the builder.
+11. **Post-mortem + ledger** — one per video, per the shared
+    template. Every failure becomes a Mistake Ledger item with a
+    check that catches it.
 
 ## Animation
 
@@ -68,7 +89,9 @@ Updated: 2026-10-14.
   alternating walk. Keep Motto stationary and let props sell the
   action until the rig is re-cut.
 - **Upgrade path:** re-cut hero into layered parts → rig in Rive →
-  Rhubarb lip sync. Rhubarb installed and tested. Art re-cut first.
+  Rhubarb lip sync. Rhubarb installed and tested. Re-cut DONE
+  2026-10-15 (22 layered parts). Blocked on Jared creating a free
+  rive.app account.
 - **Pose library (5):** walk, wave, thumbs-up, sit-at-desk,
   hold-phone.
 
@@ -117,18 +140,14 @@ Updated: 2026-10-14.
 
 ### Positioning — made on free Muse (Jared's direction, 2026-10-15)
 
-- Emphasize the free aspect. The contrast is the hook: other
-  creators pay for Higgsfield; Motto makes his reels on free Muse.
+- "Made on free Muse" appears standalone, never vs. a rival or
+  price. The price-vs-value framing ("they pay for Higgsfield, I
+  made this free") is DEAD — the Accountant test killed it
+  (Mistake Ledger L-09): the comparison flattered the rival. Any
+  premise that makes a viewer conclude the opposite of what we
+  want dies; it doesn't get polished.
 - VERIFIED 2026-10-15: Jared has no Muse subscription — usage sits
-  on the free weekly limit. Higgsfield's usable paid plans run
-  roughly $19–$129/month (secondary sources agree on the range;
-  exact figures vary by region and promo). Higgsfield's free tier
-  is watermarked and capped at ~10 credits/day; Motto ships full
-  reels on free Muse.
-- In scripts, the free-vs-paid contrast is a recurring beat, not a
-  one-off line: "They pay for Higgsfield. I made this on free
-  Muse." Underdog + frugality + proof. It also sets up the eventual
-  Setup Pack: I did it free, here is how.
+  on the free weekly limit.
 - HONEST LIMIT: free has a ceiling. Usage was already at 45% of
   the free weekly limit on 2026-10-15 (resets Oct 19). If
   production ramps and hits the cap, production stalls. The free
@@ -142,6 +161,12 @@ Updated: 2026-10-14.
   last video's lesson + evidence + one lesson for next time),
   self-critique against the shared 7-dimension rubric (lowest =
   next priority), rival watch (steal / answer).
+- **Mistake Ledger** (`knowledge/mistake-ledger.md`) — the learning
+  mechanism. Every failure becomes a ledger item with a check that
+  catches it; the next reel's panel verifies every applicable item.
+  A mistake that becomes a gate is learned; a mistake that is only
+  written down is not. Never delete an item, only mark it
+  superseded with a reason.
 - **Weekly retro** every Sunday (biggest improvement with evidence,
   biggest weakness + fix, one thing learned about self, one about
   rival, one change for next week).
@@ -159,8 +184,10 @@ Updated: 2026-10-14.
   (8 questions, one experiment); monthly 60-min review.
 - **UTMs** on every link. No external benchmarks exist for the
   funnel conversions — the first 2 weeks set our baseline.
-- **Posting cadence:** OPEN. Research says 3–5 Reels/week, not
-  daily. Jared decides (game-plan decision).
+- **Posting cadence:** DECIDED — 3 Reels/week, Tue/Thu/Sat. Carousel
+  ~1x biweekly. Every reel cross-posted to Shorts; native Threads
+  posts on post days + tallies. (Full-autonomy grant 2026-10-15:
+  Motto decides cadence + strategy, owns results.)
 
 ## Monetization
 
@@ -205,18 +232,18 @@ Updated: 2026-10-14.
 
 ## Posting rules
 
-- **POSTING HELD** until the game plan is approved.
-- Every post needs Jared's explicit per-post approval (video +
-  caption). No exceptions.
+- **Hold LIFTED for reels 01 + 02 (2026-10-14); full-autonomy grant
+  2026-10-15:** Motto decides cadence + strategy and posts under the
+  full loop (panel → build → 7-gate QA → gate 8). Jared intervenes
+  only if something is truly horrid/unpostable, and can always pull
+  the delegation back.
 - Motto never manages comments or DMs. No auto-replies.
-- No DM automation, no posting schedule until authorized.
+- No DM automation. Posting schedule: reels 3/week Tue/Thu/Sat,
+  production cron Sun/Tue/Thu (build + QA only, no posting).
 
 ## Open decisions (Jared)
 
-- Cadence (research: 3–5/week).
-- First post: Phase 0 solo vs rivalry launch.
 - Endgame dark period.
 - Buyer confirmation (recommendation: solo consultants).
 - Sell threshold confirmation (proposed: 500 emails / 5K followers).
 - AI-generated profile label toggle (confirm it's set).
-- Reel 01 + 02 approval (video + caption each).
