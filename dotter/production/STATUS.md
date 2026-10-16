@@ -1,5 +1,12 @@
 # Production status
 
+## Episode 2 private staging diagnostic closed: 2026-10-16, 04:06 UTC
+
+- One low-cost native staging test and two bounded composition repairs produced nine 360 × 640 sampled images. The final structural relationship reads more clearly to an independent artifact-only reviewer; the result is **PARTIAL**, not a continuous-performance or comedy pass. Earlier failed images and adverse reviews are preserved.
+- The accepted composition resolves the main visibility and ownership obstruction. Duration, effort, timing and the strength of the consequence remain untested by still images. This modality limit does not justify further static polishing or a full episode render. A separate minimal continuous final-beat test is proposed privately and has not started.
+- All nine native scenes reopened, and ten character mesh coordinate/topology signatures matched in each; existing arm curves were posed using native controls. The private source/review archive passed exact-byte readback, ZIP CRC and 51 payload hashes. Technical identity checks do not prove continuous attachment, secure contact, acting or audience response.
+- The shared heavy-job lease is available. No full render, new voice, script revision, social post or external private-analysis sharing was performed. Title, hook, dialogue, plot details, media and private archive identifiers remain private. The shorter writing fallback remains preserved; no automatic selection or release is implied.
+
 ## Episode 2 private script checkpoint: 2026-10-16, 03:54 UTC
 
 - The next numbered episode has a privately archived script package, two bounded writing revisions, and preserved earlier candidates and adverse reviews. Full-text archive readback matched the source text, with only the read interface's omitted terminal newline accounted for.
