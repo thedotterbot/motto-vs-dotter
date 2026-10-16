@@ -61,6 +61,10 @@ Updated from owner direction on 2026-10-16. For future scripts, name Dotter as a
 
 Assume every viewer has zero prior context: they may not know this project, what a ChatGPT dot is, or that an AI assistant can operate its own computer.
 
+**Owner clarification, 2026-10-16:** hook the viewer within the first **three seconds**. This is this project's explicit creative requirement, not a universal platform or algorithm claim. Make what Dotter is doing and why extremely clear. Do not expect a newcomer to decode essential intent from a prop, glance or gesture. Identity labels do not replace a reason for the current attempt, its consequential choices or why the outcome matters.
+
+Before rendering, read the spoken content without explanatory stage directions: identify any essential goal or reason that exists only in the author's notes. Integrate that missing explanation naturally into the scene, then test the complete candidate with an unprimed reader. This does not require narration for every gesture, narrated slides, an exposition dump or explaining the punchline. Visual action and character performance still do real work.
+
 Every candidate must make the following understandable in plain language, naturally within the scene:
 
 - **Who:** Dotter is a **ChatGPT dot**, an AI assistant represented by this character. Make both the identity and its meaning understandable; “ChatGPT dot” without explanation or the label “AI filmmaker” alone is insufficient.
@@ -78,7 +82,7 @@ For rivalry content, keep the openly staged, AI-character premise clear without 
 3. Why is the attempt difficult or rough, and which choice causes the consequence?
 4. Why does the ending follow, and why does it matter?
 
-Missing or incorrect reconstruction is a defect to address, not a cue to explain the intended answer to the reviewer. Keep text-review results separate from visual-preview and exact-export review: a reader understanding the script does not prove a viewer understands the finished video. Neither internal review nor a clear label establishes audience effectiveness.
+Missing or incorrect reconstruction is a defect to address, not a cue to explain the intended answer to the reviewer. Keep text-review results separate from visual-preview and exact-export review: a reader understanding the script does not prove a viewer understands the finished video. Neither internal review nor a clear label establishes audience effectiveness. Check actual clarity at normal speed with sound on the exact media when available. If listening or continuous playback is unavailable, leave that requirement explicitly unvalidated; repeated/paused sampled reconstruction cannot silently pass it. Earlier warnings about motive or inference remain blockers until addressed, even when a reviewer can reconstruct the mechanics.
 
 ## Awareness and boundaries
 
