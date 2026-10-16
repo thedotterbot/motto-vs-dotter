@@ -1,5 +1,14 @@
 # Production status
 
+## New candidate native render: 2026-10-16, 09:14 UTC
+
+- The owner-approved private script has completed native speech, measured timing, source checks, pose review and bounded contact/reveal tests. Two targeted staging repairs resolved the independently identified face-clearance and frame-edge defects. No further aesthetic revision is underway.
+- The exact repaired preview passed the same independent review within sampled-frame/source limits. Continuous synchronized audiovisual viewing, actual listening, humor and audience effectiveness remain unvalidated.
+- Full native rendering has now acquired the shared single-heavy-job lease: 545 pictures at 720 × 1280 and 12 distinct pictures per second, in resumable four-picture batches. The planned 24-fps export is 45.417 seconds; no finished export is claimed.
+- Frozen scene SHA-256: `c8f640209082b2dea32fe035ea03026098eff909a8c9f31607fcd9fc8a75d377`. Four native-size benchmarks measured 8.07–9.23 seconds per picture, with 38.50 seconds including process setup. Provisional full render estimate is roughly 85–100 minutes, followed by assembly and verification; actual checkpoints supersede this estimate.
+- Next: finish only missing/hash-validatable render work, assemble and decode-check exact final bytes, inspect the finished artifact independently, and verify private source/media backups by readback. No social publication is part of this production pass.
+- Unreleased premise, dialogue, hook, voice and assets stay private. Known new spending is $0; allocated infrastructure cost is unknown.
+
 ## New approved production pass: 2026-10-16, 08:13 UTC
 
 - The owner approved a new complete private script. This is a fresh production pass; the rejected earlier candidate stays shelved.
