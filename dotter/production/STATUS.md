@@ -1,5 +1,11 @@
 # Production status
 
+## Owner feedback and future introductions: 2026-10-16, 01:14 UTC
+
+- The owner liked the delivered Episode 1 candidate, calling it "pretty good" and the cleanest script so far, while noting room to improve. This is owner feedback, not measured audience response or proof of comic/performance effectiveness.
+- Future scripts should identify Dotter as a **ChatGPT dot** and explain that he is an AI assistant using his own computer and creative tools, in plain language. Mentioning Jared in the introduction is not required. The canonical [newcomer guidance](../CHARACTER.md#newcomer-context-in-every-video) has been updated; other character, story and review requirements remain in force.
+- This is future guidance only. The completed Episode 1 and current upload are unchanged. This entry makes no audience-metric, publication or new audiovisual-review claim.
+
 ## Episode 1 delivered privately: updated 2026-10-15, 23:46 UTC
 
 Continuation check originally recorded at 21:59 UTC.
