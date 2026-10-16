@@ -1,5 +1,12 @@
 # Production status
 
+## Next-candidate low-cost staging test stopped: 2026-10-16, 14:18 UTC
+
+- A private next candidate underwent a bounded low-cost native keypose test. Two visual repair passes were used; the test is closed as failed. No full render or new voice generation has started.
+- An object-copy transform defect was identified and corrected. The resulting sampled poses still fail the required contact and overlapping-silhouette readability. Correcting a source defect does not establish a better finished video.
+- Exact private writing versions, source, failed builds, earlier images, final test images and the conservative timing proposal are retained in a hash-verified archive. This is sampled-image/source evidence, not continuous motion, listening or integrated audiovisual validation.
+- Next: choose a simpler staging approach on paper before any new production decision. No third repair, renamed continuation of this test, quality-improvement claim or social-publication claim follows from this checkpoint. Unreleased story, dialogue and private assets remain private.
+
 ## New candidate export complete: 2026-10-16, 10:46 UTC
 
 - The approved private production is now a complete 45.417-second, 720 × 1280 captioned video with sound. Full decode and source-integrity checks passed.
