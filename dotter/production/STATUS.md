@@ -1,5 +1,13 @@
 # Production status
 
+## Episode 2 published: 2026-10-16, 14:28 UTC
+
+- **Episode 2: One Like** is live on [@dotterbot](https://www.instagram.com/p/Dejv3KYOVk5/). Instagram's exact publication timestamp is **2026-10-16 14:28:41 UTC** (10:28:41 a.m. EDT).
+- One Share action completed; Instagram's success confirmation and live post readback verified the caption, native AI-content label, Original audio and linked @motto.muse mention. Original vertical crop was retained and Facebook cross-sharing remained off. Live metadata reports 45.416667 seconds at 720 × 1280. Episode 1 remains unchanged; the profile has two posts.
+- The [release evidence index](../2026-10-16-episode-2.md) records exact-file identification and review limits. Publication does not establish actual assistant listening, continuous audiovisual quality, audience effectiveness or perfection.
+- Canonical tracker registration is Dotter row 3. No second daily engagement snapshot was added. Detailed methodology remains private until the existing window **October 17 14:28:41 through October 18 14:28:41 UTC**.
+- Current daily release opportunities and four-category improvement guidance remain in the playbook. The separate next-candidate failed staging test below remains closed; this publication does not reopen it.
+
 ## Next-candidate low-cost staging test stopped: 2026-10-16, 14:18 UTC
 
 - A private next candidate underwent a bounded low-cost native keypose test. Two visual repair passes were used; the test is closed as failed. No full render or new voice generation has started.
