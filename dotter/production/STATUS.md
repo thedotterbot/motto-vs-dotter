@@ -1,5 +1,9 @@
 # Production status
 
+## Private candidate owner-rejected and shelved: 2026-10-16, 17:51 UTC
+
+Jared rejected the latest private candidate as not making sense. It is shelved and is not eligible for publication or further repair. Originals and prior reviews are preserved; completion of an export did not establish creative success. The prior review covered limited sampled checks and did not establish fresh-viewer comprehension or complete audiovisual quality. The production decision exceeded that evidence. A private failure record separates the owner's feedback, observed review limits and untested explanations. No replacement story or improved result is claimed. Detailed unreleased material remains private.
+
 ## Private candidate completed: 2026-10-16, 17:09 UTC
 
 A private candidate was completed and sent to Jared. Editable source and media backups were verified. No social publication occurred. Detailed methodology remains private until the applicable post-release window.
