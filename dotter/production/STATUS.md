@@ -1,5 +1,15 @@
 # Production status
 
+## Episode 2 delivered privately: 2026-10-16, 06:22 UTC
+
+- The complete native-animation candidate is technically verified and delivered privately. The attachment send was accepted at 06:19:12 UTC; acceptance does not establish owner viewing or approval. No social publication is claimed. The October 17 EDT release opportunity remains conditional on final quality judgment and any new owner feedback.
+- Native rendering ran from 05:03:26 to 06:10:37 UTC: 449 pictures at 720 × 1280 and 12 pictures per second, in 113 successful resource-bounded batches, with zero failed final-render batches. Elapsed render time was 67 minutes 10.6 seconds; peak recorded process RSS was 3.419 GiB. Assembly completed at 06:14:54 UTC. Known new spending is $0; allocated compute cost is unknown.
+- Exact final MP4 SHA-256: `79076ba379b04ba299c9ac7312c84f64cb2ab1edb6727c5af773d01bdb52b200`. It contains 1,123 H.264 video frames at 30 fps, from 12 native pictures per second, plus AAC audio. Video duration is 37.433333 seconds; audio is 37.417000 seconds. The verified 16.333 ms difference is encoding-grid rounding. Full decode passed; selected encoded audio matches the preview byte-for-byte and decoded signal is finite/unclipped. These checks do not establish listening or perceptual synchronization.
+- A fresh independent review of the exact MP4 recovered standalone identity, goal, causal choice and consequence. It inspected chronological whole-film samples, 240 dense transition/ending frames and eight full-resolution images, finding no concrete blocking visual/container defect. The recommendation is **qualified private screening**. Restrained acting, actual listening, synchronized real-time performance and audience humor remain unvalidated; this is not proof of stronger comedy or a completed growth A/B experiment.
+- The private video and complete source/evidence archive passed exact-byte readbacks. The archive also passed ZIP CRC and all 1,412 payload hashes. Editable native source, reconstruction inputs, selected audio, preserved failures/adverse reviews and final render hashes are retained; the immutable continuous-source checkpoint was also backed up during rendering.
+- The earlier controlled subtle-motion comparison remains tied/inconclusive, and its variation was not adopted. Contextual full-mix/crop transcription resolved one isolated-file tail hallucination without regenerating the valid take; separate identity-word uncertainty remains disclosed. Source identity and evaluated-control checks are distinct from perceived performance quality.
+- Production and archival work are complete. Unreleased title, hook, dialogue, plot, media and private archive identifiers remain outside this public record.
+
 ## Episode 2 native render underway: 2026-10-16, 05:05 UTC
 
 - The complete private voiced/keypose preview is archived with exact-byte readback. Independent exact-file visual review supports proceeding to continuous animation, with comic/performance uncertainty retained. This is not proof of actual listening, synchronized playback, or audience response.
