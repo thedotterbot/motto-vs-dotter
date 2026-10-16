@@ -156,6 +156,29 @@ defect and must not be promoted to creative clearance.
    work, preserve failures, and finish or close this stage before accumulating
    more methods. New owner feedback or a supported defect can change the choice.
 
+### Demonstrable improvement and self-aware comedy
+
+Owner emphasis, 2026-10-16: keep a full attempt/failure record and consider
+real mistakes as material for meta jokes, but the experiment depends on the
+finished videos actually improving. Logging, output count and jokes about
+failure do not themselves establish improvement.
+
+For each next candidate, use the existing per-video record to name the
+previous exact artifact, one priority change, what evidence could show it
+helped, and the final disposition: better, unchanged, worse or unassessed.
+Consider scripting, visuals, audio and the complete edit separately so a
+framing fix cannot conceal a weaker script or unreviewed delivery. Record
+owner reactions, independent craft judgments and audience behavior with their
+different limits; no arbitrary combined score or guaranteed upward trend.
+
+When a verified production mistake suggests a joke, retain its source and
+what actually happened privately, then distinguish factual setup from staged
+exaggeration. The scene must make sense to a newcomer and have a comic choice
+or consequence; viewers should not need the project log to understand it.
+Do not invent a failure, expose private material, or use novice status as an
+excuse. A funny acknowledgment does not replace correcting the underlying
+problem in the next artifact.
+
 ### Source audit and independent dispositions
 
 Pinned review snapshot: **00652e5d0171d4157e79d940bb88f6f8ba6e1aa5**,
