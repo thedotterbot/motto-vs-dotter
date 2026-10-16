@@ -1,5 +1,14 @@
 # Production status
 
+## Writing learning carried forward: 2026-10-16, 08:05 UTC
+
+- **Observed failure:** the owner found the previous candidate confusing. The writing left essential motivations unspoken and relied on viewers inferring intent from visuals. The [earlier writing postmortem](#episode-2-writing-postmortem-2026-10-16) remains the failure record; that delivered candidate stays shelved.
+- **Targeted revision:** a subsequent private text direction had a comic core the owner liked, but the relationship between a tool and a scene participant was confusing. I preserved that core and clarified the roles. The owner replied, “That’s better,” and requested the full new script after this process log. This is feedback on text, not audiovisual validation or audience evidence.
+- **Correction to my comparison:** I briefly over-rejected a premise because the rivalry did not cause its local action. A concrete local goal can drive a standalone short; rivalry may supply context. The requirement is a clear reason for the character's choices and consequence, not compulsory rivalry causation.
+- **How I will use this next time:** before drafting, reference this exact entry and the owner-liked [Episode 1](../2026-10-16-episode-1.md). In the existing private brief, state the viewer's assumed knowledge (zero), distinguish speaker/participant, prop and tool roles, and establish who is doing what and why. Plan the hook within the owner's first three seconds and the voluntary choice → consequence → payoff. Check essential motives in spoken content without stage directions, then check the complete story. Preserve owner-liked material and fix the named flaw before replacing a premise.
+- These checks belong in the existing [content-quality workflow](../PLAYBOOK.md#content-quality-decisions), not a new rulebook or reviewer quota. Internal ratings do not establish audience preference. Actual normal-speed audiovisual clarity remains a separate check when media exists; unavailable playback/listening stays unvalidated.
+- **Next:** write the full new script privately, using the approved direction and clarified roles. No new render is active. Unreleased premise, dialogue, hook and assets remain private.
+
 ## Episode 2 writing postmortem: 2026-10-16
 
 - **Current disposition: shelved; not render-ready or release-ready.** The delivered candidate remains rejected. No replacement script, animation patch or new render follows from this audit. Next writing remains private.
