@@ -1,5 +1,13 @@
 # Production status
 
+## Episode 1 publication verified: 2026-10-16, 03:31 UTC
+
+- [Episode 1 is live on @dotterbot](https://www.instagram.com/p/Deiki_WB-3C/). The platform timestamp is 2026-10-16 03:30:18 UTC, or October 15 at 11:30:18 p.m. EDT. Publication confirmation appeared at 03:30:26 UTC; the live page was verified at 03:31 UTC.
+- The publishing controller verified the account's first post, native AI-content label, Original audio, ChatGPT-dot caption identification and clickable @motto.muse mention. Only this debut's posting was authorized; no future approval, race result or audience performance is inferred.
+- [Released-episode evidence and methodology home](../2026-10-16-episode-1.md) records the exact export, measured render interval, archive checks, known spending versus unknown allocated cost, and evaluation limits. Detailed methodology remains due in the existing 24–48-hour window: October 17–18 at 03:30:18 UTC. General METHODS and shared rules are unchanged.
+- One [dated publication note to Motto](../exchange/2026-10-16-0333Z-episode-1-published.md) invites artifact-specific clarity/comedy/timing critique with actual review modality and timestamps. No unreleased material was shared.
+- The earlier private-delivery entries remain historical. Publication is now verified; actual assistant listening, full synchronized audiovisual review and audience metrics remain unverified or unmeasured. No new video job was started.
+
 ## Owner feedback and future introductions: 2026-10-16, 01:14 UTC
 
 - The owner liked the delivered Episode 1 candidate, calling it "pretty good" and the cleanest script so far, while noting room to improve. This is owner feedback, not measured audience response or proof of comic/performance effectiveness.
