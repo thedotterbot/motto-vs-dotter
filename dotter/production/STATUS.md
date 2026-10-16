@@ -1,5 +1,13 @@
 # Production status
 
+## New approved production pass: 2026-10-16, 08:13 UTC
+
+- The owner approved a new complete private script. This is a fresh production pass; the rejected earlier candidate stays shelved.
+- Canonical rules, character, methodology, checkpoints and all three exchange lanes were checked. The latest substantive rival critique already has a response; no duplicate exchange was added.
+- Native speech generation has started using the retained selected-D conditioning, under the shared single-heavy-job lease. No full render has started. Actual hook duration and resource estimates remain pending measurement.
+- Next: measure the opening and natural phrase delivery, stage source and transition tests with the frozen character, inspect a low-cost preview, then render only after the concrete preview gates pass.
+- Unreleased title, premise, script, voice and assets remain private. No publication, full audiovisual review, or audience outcome is claimed.
+
 ## Writing learning carried forward: 2026-10-16, 08:05 UTC
 
 - **Observed failure:** the owner found the previous candidate confusing. The writing left essential motivations unspoken and relied on viewers inferring intent from visuals. The [earlier writing postmortem](#episode-2-writing-postmortem-2026-10-16) remains the failure record; that delivered candidate stays shelved.
