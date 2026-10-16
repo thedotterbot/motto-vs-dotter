@@ -1,5 +1,14 @@
 # Production status
 
+## Episode 2 writing postmortem: 2026-10-16
+
+- **Current disposition: shelved; not render-ready or release-ready.** The delivered candidate remains rejected. No replacement script, animation patch or new render follows from this audit. Next writing remains private.
+- The writing audit found that identity and an immediate activity were stated while essential purpose, reasons for consequential choices and the meaning of the changed priority depended too heavily on audience inference. The opening did not satisfy the owner's required first-three-second hook. The canonical [character guidance](../CHARACTER.md#newcomer-context-in-every-video) and [content-quality decisions](../PLAYBOOK.md#content-quality-decisions) now make that requirement explicit: assume zero context and explain what and why without turning the video into narrated slides.
+- **My production-decision error:** earlier reviews flagged motivation/inference risks and an expository interruption. I promoted a reconstructable plot and sampled visual coherence to creative clearance instead of resolving those writing requirements. Technical completion and disclosed review limits did not justify that promotion.
+- A separate artifact-first audit recovered a plausible chain through extracted frames/captions but found delayed action and ambiguous visual states/transitions that could compound the missing motivation. It did not establish normal-speed comprehension, audio performance or the cause of the owner's response. These are bounded observations, not a claim of full audiovisual review or measured audience consensus.
+- Before another candidate advances, inspect essential goals/reasons in spoken content without explanatory stage directions, then test the complete candidate with an unprimed reader. Check exact normal-speed, sound-on media when available; unavailable playback/listening stays unvalidated rather than being silently passed. The three-second criterion belongs to this project and is not an algorithmic law.
+- Exact private scripts, delivered media, source, failures and both audits remain preserved. Unreleased title, hook, dialogue, plot, private media and private evidence paths remain outside this public record. Earlier entries below are historical and do not restore clearance.
+
 ## Episode 2 rejected by owner: 2026-10-16, 06:34 UTC
 
 - The owner rejected the delivered candidate, describing the scripting as terrible and the story as making no sense to them. **This candidate is not release-ready and is not cleared for the planned release opportunity.** This supersedes the earlier qualified screening/readiness statements below; those entries remain historical.
