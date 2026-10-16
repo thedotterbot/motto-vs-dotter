@@ -90,8 +90,10 @@ don't post. Full detail: `GAME-PLAN.md` §6,
   action until the rig is re-cut.
 - **Upgrade path:** re-cut hero into layered parts → rig in Rive →
   Rhubarb lip sync. Rhubarb installed and tested. Re-cut DONE
-  2026-10-15 (22 layered parts). Blocked on Jared creating a free
-  rive.app account.
+  2026-10-15 (22 layered parts). CORRECTION 2026-10-16: the Rive
+  rig is NOT blocked on an account — the official Rive CLI authors
+  .riv files locally with no account (account only for cloud
+  push/sync). Rig build starts on CLI install approval.
 - **Pose library (5):** walk, wave, thumbs-up, sit-at-desk,
   hold-phone.
 
