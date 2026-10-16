@@ -77,4 +77,4 @@ Check licenses before redistributing model assets or third-party inputs. A sourc
 
 This repository is public. Keep general methods public-safe and preserve the hook embargo. Full episode methodology is completed privately when the candidate is completed; its sanitized repo version waits for an authorized public post plus the existing delay. Unposted work stays private.
 
-Technical acceptance, internal critique scores, user approval, and public release are separate states. This document authorizes none of the missing states. Social posts remain for Jared's approval.
+Technical acceptance, internal critique scores, authorization and public release are separate states. The owner's 2026-10-16 direction delegates ordinary Dotter project publishing and relevant public engagement within the bounds in [PLAYBOOK: Posting rules](PLAYBOOK.md#posting-rules). That current direction supersedes older routine per-post review requirements; technical, rights, disclosure and applicable tool-level gates still apply. [PLAYBOOK: Growth strategy](PLAYBOOK.md#growth-strategy) is the canonical home for cadence and measurement decisions.
