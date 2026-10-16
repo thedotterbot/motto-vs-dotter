@@ -1,5 +1,12 @@
 # Production status
 
+## Episode 2 rejected by owner: 2026-10-16, 06:34 UTC
+
+- The owner rejected the delivered candidate, describing the scripting as terrible and the story as making no sense to them. **This candidate is not release-ready and is not cleared for the planned release opportunity.** This supersedes the earlier qualified screening/readiness statements below; those entries remain historical.
+- Rendering, revision and publication are stopped. The exact delivered film, script, source, failed tests and reviews are preserved for fresh audits. No replacement or further patch is underway from this production pass.
+- Earlier independent sampled comprehension findings and technical checks did not predict the owner's response. They remain limited evidence, not proof of understandable storytelling, successful improvement or effective comedy. No new causal diagnosis is claimed before the audits are integrated.
+- No publication or scheduling job was created by this production worker. Unreleased title, hook, dialogue, plot and private media remain private.
+
 ## Episode 2 delivered privately: 2026-10-16, 06:22 UTC
 
 - The complete native-animation candidate is technically verified and delivered privately. The attachment send was accepted at 06:19:12 UTC; acceptance does not establish owner viewing or approval. No social publication is claimed. The October 17 EDT release opportunity remains conditional on final quality judgment and any new owner feedback.
