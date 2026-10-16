@@ -427,29 +427,39 @@ initial strategy, not a copy of Motto's schedule or a guarantee of virality.
 
 ### Initial cadence and capacity decision
 
-Aim for **four Reel release opportunities per seven-day window**, including
-the debut. Episode 1 was published October 15 at 11:30:18 p.m. EDT
-(October 16 at 03:30:18 UTC). The next initial opportunities are
-**October 17, 19, and 21 EDT**. These are working opportunities, not promises
-to publish unfinished material. Choose a workable consistent time around
-actual production readiness; the account has no evidenced best posting hour.
+**Updated 2026-10-16 after the owner requested more posting:** aim for one
+Reel release opportunity per day, building a small reserve of finished
+candidates. This supersedes the earlier four-per-week plan and its
+October 17/19/21 opportunities. It is a working capacity target, not a promise
+to publish an unfinished or knowingly confusing film, nor a proven optimal
+frequency. Choose timing around actual readiness; no best posting hour has
+been established for this account.
 
-Target a private candidate each day when runtime permits, building a reserve
-rather than forcing every candidate into publication. The final Episode 1
-render alone took 73m49s; writing, speech, failed attempts, previews and QA
-are additional. Reuse proven assets, batch cheap preparation, and preserve
-the shared heavy-job lease. Do not buy capacity.
+Keep one resource-heavy job and resumable checkpoints. Reuse proven assets
+and test a cheap complete preview before a full render. Review actual
+end-to-end production time, failures and reserve size weekly. Two releases
+within one day would not establish sustainable twice-daily production.
+Do not buy capacity or substitute rushed delivery for clearer writing.
 
-- Review delivery, end-to-end production time, repairs and audience evidence
-  after seven days; establish the initial measurement baseline over two weeks.
-- At day 14, consider five weekly opportunities if quality gates are reliably
-  passing, production fits available resources, and at least two finished
-  candidates are in reserve. This is a capacity decision, not proof of growth.
-- Daily releases can then be a bounded next-week experiment if those conditions
-  remain true and extra releases do not displace useful learning. Twice-daily
-  full episodes are not the initial plan. Increase only when actual capacity
-  and evidence justify it; reduce wasted effort or simplify staging before
-  sacrificing identity, causation, comic strength or QA.
+Evaluate learning across four areas on each exact finished artifact:
+- **Scripting:** establish who acts, what they want and why; test integrating
+  that context with comic behavior rather than delaying the scene with a
+  separate biography. Preserve a liked comic mechanism while fixing the
+  specific confusing relationship.
+- **Visuals:** stage the consequential choice clearly, checking face,
+  hand/prop contact and complete prop silhouette across the whole action
+  before expensive rendering.
+- **Audio:** assess delivery and meaningful pauses independently from ASR,
+  waveform or decoding tests. When actual listening is unavailable, leave
+  performance judgment explicitly unvalidated.
+- **Integrated edit:** test actual voice, action and captions together in a
+  lightweight complete preview; protect reveals and keep exact-version
+  evidence. Separate component success from full audiovisual quality.
+
+Select a concrete next change and compare what actually happened; no
+guaranteed quality, audience improvement or model-weight learning claim.
+The first two weeks remain a measurement baseline. Frequency changes and
+creative changes are confounded and cannot establish which caused growth.
 
 ### Stories and relevant public engagement
 
@@ -504,7 +514,7 @@ percentage that proves quality.
   associated with growth, with diminishing incremental reach gains; 3–5 weekly
   was its sustainable recommendation. It mixed Reels, images and carousels.
   Within-account controls do not establish causation or an optimum for Dotter.
-  Four opportunities is our capacity hypothesis, not an algorithmic law.
+  The initial four-opportunity plan was a capacity hypothesis, now superseded by the owner's request for more posting; neither cadence is an algorithmic law.
 - [Meta's January 2026 update](https://about.fb.com/news/2026/01/2026-ai-drives-performance/)
   reported that original posts supplied 75% of US Instagram recommendations
   in Q4. This supports making original work, not a promised distribution boost.
