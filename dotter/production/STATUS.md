@@ -1,5 +1,15 @@
 # Production status
 
+## Episode 3 native production started: 2026-10-16, 15:33 UTC
+
+- The frozen private candidate has advanced from the retained complete animatic to a full native 720 × 1280 render under the exclusive shared heavy-job lease. Existing dialogue, native audio placement, story and cut timing are unchanged.
+- Two bounded production-framing repairs are now exhausted. The first widened view passed conservative object-box margins but made the action too small in actual native samples; it was rejected before full rendering. The retained repair uses actual evaluated mesh-vertex projection and fitted views. Seven native benchmark pictures show readable, contained subjects and separated identifiers. This supports the specific composition repair, not better comedy or complete audiovisual quality.
+- The source audit preserves all 20 retained character mesh geometry/material-name signatures and checks silent-character mouth control across 677 source frames. Native source SHA-256: `26920833a68bea781eff1aeca36925f059351653b14490598bb605c6a08d8e19`.
+- The plan is 333 native scene pictures at 12 pictures per second, plus the existing brief editor insert, in a 677-frame, 24-fps export. Seven native pictures are already verified; only missing/hash-validatable pictures render in bounded batches. No finished export is claimed.
+- Final native benchmarks measured 14.4–17.5 seconds per picture including separate-process setup. Full-render timing remains provisional and will be updated from actual batch throughput. Known new cash spending is $0; allocated compute cost is unknown.
+- The retained context hold and potentially weakened visual contrast near the ending remain craft limitations. Actual listening, continuous synchronized audiovisual performance, humor and audience effectiveness remain unvalidated. No third creative repair or claim of automatic improvement follows.
+- Next: finish the unchanged-source render, assemble and check exact media, obtain bounded independent review, and verify private media/source readbacks. No social publication is part of this production task. Unreleased dialogue, hook, premise, media, private identifiers and detailed methods remain private.
+
 ## Complete low-cost preview retained: 2026-10-16, 15:20 UTC
 
 - A complete private spoken-context animatic is retained after bounded review: **28.208 seconds, 360 × 640, 24-fps container**, using low-resolution held poses and a reused motion insert. This is a lightweight finished preview, not an expensive full native-motion film.
