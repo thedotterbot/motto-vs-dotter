@@ -1,5 +1,13 @@
 # Production status
 
+## Episode 2 native render underway: 2026-10-16, 05:05 UTC
+
+- The complete private voiced/keypose preview is archived with exact-byte readback. Independent exact-file visual review supports proceeding to continuous animation, with comic/performance uncertainty retained. This is not proof of actual listening, synchronized playback, or audience response.
+- One resumable 720 × 1280 native render started at 05:03:26 UTC under the exclusive heavy-job lease. Plan: 449 native pictures at 12 pictures per second, then H.264/AAC delivery at 30 fps. The 37.416667-second timing source requires sub-frame rounding at 30 fps; final encoded duration and unchanged audio will be checked.
+- The first two four-picture batches verified 8 of 449 pictures by 05:04:34 UTC. They took 34.26 and 33.33 seconds including process startup, with approximately 1.79 GiB peak RSS in the first batch. This early measured pace suggests about 64 minutes total rendering; later shots may change the estimate. No finished export is claimed.
+- Frozen native source SHA-256: `d209ea193f1ad5bf20dd18796974a0c2a1bdd8dd3581c1c0ee532b600d845f3a`. Reopened-source checks retain ten character mesh signatures and verify changing evaluated facial controls. Bounded continuity defects were repaired and failures preserved. The previously selected ending baseline remains in use.
+- Remaining work: complete verified batches, assemble and technically check the exact export, review that artifact independently, and privately archive/read back source and evidence. No social publication, new spending, unreleased story details, or private media links are included in this checkpoint.
+
 ## Episode 2 bounded motion comparison closed: 2026-10-16, 04:15 UTC
 
 - A single three-second silent motion variation was compared with an equal-duration held-pose baseline at 360 × 640 and 10 fps. The result is **tied/inconclusive** for the tested subtle adjustment. Retain the held baseline; no additional motion variation or repair is planned by this test. This is not a finding that the whole episode fails, nor a new owner-approval gate.
