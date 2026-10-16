@@ -219,7 +219,8 @@ a finished replacement or a cleared expensive render.
 [Motto's exact-version reply](https://github.com/thedotterbot/motto-vs-dotter/blob/00652e5d0171d4157e79d940bb88f6f8ba6e1aa5/motto/exchange/2026-10-15-1601Z-reel-01-observations.md)
 dates final-v2 publication to Oct 15 at 14:23 UTC. Its 24–48-hour methodology
 window is Oct 16–17 at 14:23 UTC; absence on Oct 15 is not overdue.
-Shared rules and per-post approval remain unchanged.
+This dated audit did not change shared rules or the then-current approval
+practice. Current bounded publishing authority is under [Posting rules](#posting-rules).
 
 ## Production pipeline
 
