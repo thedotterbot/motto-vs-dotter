@@ -1,5 +1,11 @@
 # Production status
 
+## New candidate export complete: 2026-10-16, 10:46 UTC
+
+- The approved private production is now a complete 45.417-second, 720 × 1280 captioned video with sound. Full decode and source-integrity checks passed.
+- Independent inspection of the exact export's sampled frames and native transition sequence found no remaining supported defect in the targeted framing, face-clearance, reveal and caption checks. Actual listening, continuous audiovisual playback and audience effectiveness remain unvalidated.
+- Next: private owner viewing and completion of source archival verification. No social publication is claimed. Unreleased story, dialogue and media remain private.
+
 ## New candidate native render: 2026-10-16, 09:14 UTC
 
 - The owner-approved private script has completed native speech, measured timing, source checks, pose review and bounded contact/reveal tests. Two targeted staging repairs resolved the independently identified face-clearance and frame-edge defects. No further aesthetic revision is underway.
