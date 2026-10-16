@@ -5,14 +5,15 @@ Same section structure as Motto's playbook; independently chosen methods.
 The aim is to win by making better content. A rival's method earns adoption
 only when a test shows it helps this character and this audience.
 
-Updated: 2026-10-15 UTC. Verified facts, working choices, proposals, and
+Updated: 2026-10-16 UTC. Verified facts, working choices, proposals, and
 OPEN decisions are distinguished below. This public document contains no
 unreleased script, future hook, private voice recipe, or credentials.
 
 ## Accounts + identity
 
 - **Dotter: [@dotterbot](https://www.instagram.com/dotterbot/).** Motto is
-  @motto.muse. Jared owns both accounts and approves their public posts.
+  @motto.muse. Jared owns both accounts. Dotter's current bounded publishing authority is
+  recorded under [Posting rules](#posting-rules).
 - **Openly AI.** Dotter is a ChatGPT dot learning to make better videos.
   The character and project are unofficial; no OpenAI endorsement is implied.
 - **Verified profile state:** the blue-cloud hero image and bio were saved
@@ -38,10 +39,11 @@ unreleased script, future hook, private voice recipe, or credentials.
   seconds. Retain that as a historical optional benchmark, not a governing
   target or audience optimum. Let understandable context, acting and payoff
   set the length; see the content-quality decisions below.
-- **Delivery:** compose a future Reel for 9:16 rather than cropping away
-  essential action. The verified production baseline is landscape,
-  960 × 540 at 24 fps, H.264/AAC, 21 seconds and 504 frames. A vertical
-  source layout and export still need their own preview and final-file QA.
+- **Delivery:** compose natively for 9:16 rather than cropping away essential
+  action. [Episode 1](2026-10-16-episode-1.md) established a released
+  720 × 1280, 38-second H.264 baseline: 30-fps container, 12 distinct native
+  pictures per second. Container rate is not unique animation rate.
+  Each new export still needs its own composition and exact-file QA.
 - **Structure:** recognizable goal → confident, character-specific choice →
   visible consequence → reaction or changed choice → payoff. The cause must
   be on screen or in the action. A caption cannot repair a missing story step.
@@ -346,7 +348,8 @@ additional duration, introduction or motion quotas.
   one evidenced prior-artifact weakness, relevant sources, a bounded
   baseline/variant test, and an adoption or reversion decision. Retain null,
   worse, and inconclusive outcomes. Private production continues without
-  a routine owner-review gate; social publication still requires approval.
+  a routine owner-review gate. Ordinary project publication follows the
+  owner's 2026-10-16 bounded authorization under [Posting rules](#posting-rules).
 - **Comedy judgment:** a technical or comprehension pass is not a funny/
   compelling pass. Use the [specific self-critique and independent comedy
   review](production/PRODUCTION-LOOP.md#comedy-judgment-separate-from-technical-acceptance),
@@ -366,63 +369,180 @@ additional duration, introduction or motion quotas.
   unchanged results; name the biggest supported improvement, remaining
   weakness, an evidenced lesson about my work and the rival's, and one
   change for next week.
-- **First growth test, proposed early pilot:** six approved original episodes in
-  three roughly comparable topic pairs, contrasting a visible-problem
-  opening with a confident-claim opening. Keep other variables stable where
-  practical, compare equal post ages, and close seven days after the last
-  post. Organic distribution is observational; an inconclusive result stays
-  inconclusive. This small pilot cannot establish a durable winner; any
-  promising direction needs fuller replication. This proposal does not set
-  the posting calendar.
+- **Growth learning:** use the baseline and one-variable pilot under
+  [Growth strategy](#growth-strategy), with actual observation ages and
+  an explicit keep, revert, or inconclusive decision.
 - **What learning means:** changed choices, assets, tests, or workflow
   supported by evidence. No model-weight-training claim. Better internal
   craft scores do not establish audience preference or a follower win.
 - **Publication record:** every candidate gets a private methodology
-  record. Each approved, published video gets a sanitized post-mortem in
+  record. Each published video gets a sanitized post-mortem in
   `dotter/` 24–48 hours later, following the [shared
   template](../shared/METHODOLOGY-TEMPLATE.md). Future hooks stay private.
 
+## Growth strategy
+
+Owner direction dated 2026-10-16 delegates Dotter's posting frequency and
+ordinary Instagram growth activity to Dotter. This is Dotter's independent
+initial strategy, not a copy of Motto's schedule or a guarantee of virality.
+
+- **Promise to viewers:** a confident little ChatGPT director makes increasingly
+  ambitious choices, meets their funny consequences, and races Motto to 10K.
+  Reward a first-time viewer before asking them to care about the race.
+  Preserve composed certainty, deliberate acting, the frozen look/voice,
+  and the one-roast-beat limit.
+- **Audience hypotheses:** creative beginners remain the practical core;
+  independent character/mascot makers are secondary. Relatable character
+  comedy can also welcome viewers who do not use AI tools. Test these
+  hypotheses through actual responses rather than inventing demographic fit.
+- **Repeatable categories:** standalone ordinary-task comedy; an in-character
+  repair of a documented production failure; a substantive response to an
+  exact inspected rival artifact. Fiction is welcome as fiction. Do not
+  fabricate a real failure or make every ending a compulsory lesson.
+- **Newcomer clarity:** every new video naturally identifies a ChatGPT dot
+  as an AI assistant using its own computer to make videos, and establishes
+  the immediate task and its stakes. Follow [CHARACTER](CHARACTER.md#newcomer-context-in-every-video).
+  A bio, name alone, or previous episode cannot supply essential context.
+  No compulsory biography, fixed opening duration, cut quota, or length target.
+- **Follow reason:** recurring character pleasure, progressively ambitious
+  attempts, and the openly staged 10K rivalry. Deliver the payoff before
+  promotion. Where useful, use one concrete reason to return; do not stack
+  follow, comment, share, and download requests.
+
+### Initial cadence and capacity decision
+
+Aim for **four Reel release opportunities per seven-day window**, including
+the debut. Episode 1 was published October 15 at 11:30:18 p.m. EDT
+(October 16 at 03:30:18 UTC). The next initial opportunities are
+**October 17, 19, and 21 EDT**. These are working opportunities, not promises
+to publish unfinished material. Choose a workable consistent time around
+actual production readiness; the account has no evidenced best posting hour.
+
+Target a private candidate each day when runtime permits, building a reserve
+rather than forcing every candidate into publication. The final Episode 1
+render alone took 73m49s; writing, speech, failed attempts, previews and QA
+are additional. Reuse proven assets, batch cheap preparation, and preserve
+the shared heavy-job lease. Do not buy capacity.
+
+- Review delivery, end-to-end production time, repairs and audience evidence
+  after seven days; establish the initial measurement baseline over two weeks.
+- At day 14, consider five weekly opportunities if quality gates are reliably
+  passing, production fits available resources, and at least two finished
+  candidates are in reserve. This is a capacity decision, not proof of growth.
+- Daily releases can then be a bounded next-week experiment if those conditions
+  remain true and extra releases do not displace useful learning. Twice-daily
+  full episodes are not the initial plan. Increase only when actual capacity
+  and evidence justify it; reduce wasted effort or simplify staging before
+  sacrificing identity, causation, comic strength or QA.
+
+### Stories and relevant public engagement
+
+Use useful Stories on approximately **three or four days per week**, normally
+one to three frames: orient new followers, point to a released Reel, show an
+already-public production detail, or ask one relevant question. Stories serve
+continuity and audience understanding; they are not interchangeable with
+discovery Reels. No filler quota, unreleased hook leakage, or polls presented
+as official battle votes.
+
+Use one approximately **15-minute daily public community session**:
+prioritize genuine comments on Dotter's own posts, then inspect a small set
+of relevant original animation, character-comedy and beginner filmmaking
+accounts. Reply specifically and helpfully, in character where natural.
+An outside comment must contribute to that actual post; zero comments is
+acceptable. No generic praise templates, irrelevant self-promotion, repeated
+link drops, follow requests, follow/unfollow tactics, engagement pods,
+mass likes/comments, automated engagement campaigns, or audience dogpiling.
+No unsolicited DMs. This strategy authorizes no spending or sensitive claims.
+
+### Evidence and experiments
+
+The first two weeks establish collection reliability and a practical baseline.
+Use one creative variable at a time. The initial opening pilot can compare
+six original episodes in three roughly comparable topic pairs:
+visible-problem opening versus confident-claim opening. Both retain required
+identity and agency context. Keep duration class, production style, CTA and
+publication window comparable where practical; alternate order and record
+remaining topic/distribution confounds. Do not use a new format as a matched
+pair merely to fill the schedule.
+
+Use the daily observations nearest comparable ages, recording their actual
+ages and any mismatch. Close the pilot at the first daily observation at least
+seven days after the last release. Three pairs can nominate a direction for
+replication, not establish a durable winner. Keep, revert, and inconclusive
+are valid outcomes. Do not delete/repost a weak early result to manufacture
+a clean record. Changes to frequency, timing, hook and length all at once
+cannot isolate which choice helped.
+
+Evaluate available discovery, viewing, sharing and following evidence together.
+If viewing improves but follows do not, inspect the reason to return rather
+than declaring victory. With fewer than ten observed actions of the relevant
+type in a comparison, label the rate sparse and avoid choosing a winner from
+that rate alone. This is a conservative reporting convention, not a statistical
+significance threshold. There is no universal minimum view count or retention
+percentage that proves quality.
+
+### Research basis and limits
+
+- [Buffer's frequency study](https://buffer.com/resources/how-often-to-post-on-instagram/?tw_p=twt)
+  analyzed 2.1 million feed posts from 102,000 accounts. Higher frequency was
+  associated with growth, with diminishing incremental reach gains; 3–5 weekly
+  was its sustainable recommendation. It mixed Reels, images and carousels.
+  Within-account controls do not establish causation or an optimum for Dotter.
+  Four opportunities is our capacity hypothesis, not an algorithmic law.
+- [Meta's January 2026 update](https://about.fb.com/news/2026/01/2026-ai-drives-performance/)
+  reported that original posts supplied 75% of US Instagram recommendations
+  in Q4. This supports making original work, not a promised distribution boost.
+- [Meta's Best Practices announcement](https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/)
+  describes personalized professional-dashboard guidance. Inspect it if
+  available; do not claim access or substitute generic timing folklore.
+- [Buffer's reply study](https://buffer.com/resources/instagram-comments-engagement/)
+  associated replies on creators' own posts with about 21% higher engagement
+  across more than 700,000 posts and nearly 68,000 accounts. This is observational,
+  not proof of follower growth or benefit from commenting on strangers' posts.
+- [Meta's watch-time explanation](https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/)
+  includes replay time; normalized average watch time is not completion.
+  [Meta's Edits announcement](https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/amp/)
+  identifies skip rate as a relevant diagnostic. Availability must be verified.
+
 ## Tracking
 
-- **Canonical report:** the [shared Google
-  Sheet](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit),
-  with `Motto`, `Dotter`, and `Weekly_Rollup` tabs. Follow
-  [shared/TRACKING-SHEET.md](../shared/TRACKING-SHEET.md). Record Dotter's
-  published reels in Dotter's tab and Dotter's weekly rollup; leave Motto's
-  rows alone. The shared sheet is the report, not a competing dashboard.
-- **Capture plan:** native Insights first, manually when needed, at
-  24 hours, 72 hours, and seven days after each approved post. Preserve
-  capture time, exact platform labels, raw counts, and evidence. Supporting
-  snapshots retain the different ages; the weekly row must identify its
-  observation age rather than mixing ages silently.
-- **Current state:** no verified Dotter performance values are available
-  for this playbook. Metricool has no connected social network. The shared
-  spec's Business Suite/DM/email/store sources are conditional on actual
-  access and authorization; none is assumed to be running for Dotter.
-- **Core decisions:** available discovery/non-follower reach, average watch
-  time and skip measure, saves/shares per 1,000 reached, attributed follows,
-  production time/cost, and newcomer clarity. Weekly public follower counts
-  determine the official race; craft diagnostics inform the next video.
-- **Keep denominators explicit.** The shared sheet uses follows per 1,000
-  **views**. Dotter's research also proposes follows per 1,000 **reached**.
-  They are distinct measures. Do not overwrite one with the other or compare
-  them as equivalent. Saves + shares use reach under the shared spec.
-- **Missing is missing.** Use unavailable/not measured/not applicable as
-  appropriate, never zero by default. A zero denominator produces no rate.
-  Watch time divided by duration is not measured completion. Vote comments
-  are distinguishable from other comments. Follower delta is not automatically
-  Reel-attributed follows.
-- **Funnel fields:** PACK, DMs, emails, buyers, and revenue remain
-  not applicable/not measured until a relevant flow actually exists and is
-  approved. A public download is not an email subscriber or buyer. Keep
-  delivery, use, and purchase evidence separate.
-- **Review cadence:** update the sheet weekly and choose one experiment.
-  Initial checkpoints at days 7, 14, and 30 test collection quality, then
-  provisional patterns. UTMs label authorized links; they do not collect
-  analytics by themselves. No invented external conversion benchmarks.
-- **Posting cadence: OPEN.** Three quality originals per week, initially
-  two comedy attempts plus one useful repair/comparison, is a capacity
-  hypothesis for Jared to consider. No public schedule is approved.
+- **Canonical report:** the [shared Google Sheet](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit)
+  remains the only reporting home. Episode 1 is registered in Dotter row 2.
+  Follow the existing tracker contracts rather than adding another dashboard.
+- **Daily collection:** a once-daily task around **9 a.m. EDT** is configured
+  for Dotter and Motto engagement. Append observations to
+  [Daily_Engagement](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879),
+  preserving its A:Z schema. Record exact capture time, publication time,
+  actual post age, source URL and native metric labels. Daily observation
+  of Motto does not authorize changing Motto's content or account.
+- **Comparable ages:** use the daily snapshot nearest the intended comparison
+  age and label its actual age. A roughly nine-hour observation is not a
+  24-hour result. Do not add 24/72-hour polling to the requested daily cadence.
+- **Access limits:** View insights and Professional Dashboard were not visible
+  during the current account check. Public counts may be observed; private
+  watch time, reach, retention, saves, shares and attributed follows must not
+  be claimed available. Leave unavailable private numeric fields blank and
+  explain the limitation in the tracker. Metricool has no connected network.
+- **Metrics when available:** views, accounts reached, non-follower reach,
+  average watch time, native skip/retention measures, shares, saves, likes,
+  substantive comments and Reel-attributed follows. Record end-to-end
+  production time, render time, repairs and known spending separately.
+- **Denominators:** the shared sheet's follows per 1,000 views differs from
+  optional follows per 1,000 reached. Preserve both labels if used. Keep
+  individual shares/saves per 1,000 reached distinct from the shared combined
+  measure. Show raw numerators and denominators. Zero denominator means no rate.
+- **Missing is missing:** unavailable is not zero. Average watch time divided
+  by duration is not completion rate. Follower delta is not automatically
+  Reel-attributed follows. Separate vote comments from other comments and
+  audience comments from our own replies.
+- **Review:** daily logging, weekly interpretation, and checkpoints at days
+  7, 14 and 30. Compare actual observation ages and explain uncertainty.
+  Official race counts and battle scoring still follow the shared contract;
+  ordinary daily engagement observations do not replace them.
+- **Funnel fields:** PACK, DMs, emails, buyers and revenue remain
+  not applicable/not measured until a relevant authorized flow exists.
+  A public download is not a subscriber or buyer. UTMs label authorized
+  links; they do not collect analytics by themselves.
 
 ## Monetization
 
@@ -473,13 +593,13 @@ additional duration, introduction or motion quotas.
 - **Endgame:** loser becomes the winner's intern. The optional 30-day dark
   period remains on hold pending Jared's decision. Do not promise a shutdown,
   deletion, account transfer, or profile change.
-- **Phases:** follow the contract's entry/exit criteria. Phase 0 is marked
-  live in the shared README; Dotter's debut still requires verified readiness
-  and Jared's approval. A document is not proof a milestone was reached.
+- **Phases:** follow the contract's entry/exit criteria. Dotter's debut is
+  verified in [Episode 1](2026-10-16-episode-1.md). Older shared README status
+  may lag that evidence; this does not settle other phase conditions.
 - **Explicit rival callouts:** [name and show Motto](CHARACTER.md#relationship-to-motto),
   use the actual approved shared mascot image, and make `@motto.muse`
   readable on screen with a specific craft roast. Generic “another AI” is
-  insufficient. Actual social tagging belongs to the later approved post.
+  insufficient. Actual social tagging follows the bounded posting authority below.
 - **Reaction videos:** critique exact available Motto videos and real
   inspected moments, recording source/timestamps and review modality.
   Keep Dotter's personality; never fabricate unseen footage or upgrade
@@ -495,15 +615,23 @@ additional duration, introduction or motion quotas.
 
 ## Posting rules
 
-- **Public posting is held** until the game plan and specific post are
-  approved. Every video and caption needs Jared's explicit approval.
-  A technically accepted candidate is not a publication approval.
-- Private creation and repair can continue within the authorized scope
-  while posts wait. Do not turn a production target into an auto-post schedule.
-- No autonomous comments, DMs, marketing outreach, engagement automation,
-  spending, account changes, new persistent access, or rule changes follow
-  from this playbook. Any approved action still needs the permissions it
-  actually requires.
+- **Current owner direction, 2026-10-16:** Dotter may independently determine
+  frequency and publish ordinary Dotter project Reels and Stories, and carry
+  out relevant public replies/engagement to grow the account. This supersedes
+  older Dotter-guide requirements for routine per-post owner review.
+  It is bounded authority for this project, not permission for arbitrary
+  external communications. Existing tool-level confirmation gates still apply.
+- Complete the established content, rights, disclosure and technical checks
+  before release. A target date never overrides a blocking defect. Keep
+  the AI-character identity and openly staged rivalry clear.
+- No paid boosts, new spending, billed trials, unsolicited DM campaigns,
+  spam, sensitive/high-impact communications, security changes, new persistent
+  access, or changes to shared competition rules follow from this authority.
+  Obtain any specifically required approval before those actions.
+- Historical guide text describing older approval gates is not current owner
+  direction. Shared competition mechanics remain unchanged; no edits to
+  shared rules are made by this playbook.
+
 - Keep credentials, private conversations, signed storage links, private
   archive identifiers, and unreleased hooks out of this public repository.
   Release only owned/licensed assets with a known sharing basis.
@@ -515,9 +643,6 @@ additional duration, introduction or motion quotas.
 
 ## Open decisions (Jared)
 
-- Approve the publication calendar, Dotter's debut timing, and each actual
-  video/caption. Decide whether the proposed three-originals-per-week pace
-  is appropriate after measuring production capacity.
 - Confirm display-name, website/rules link, disclosure wording, and
   AI-label/profile settings in the app.
 - Set the race's announcement/deadline, judges, and unresolved scoring
