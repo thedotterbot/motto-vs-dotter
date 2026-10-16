@@ -57,11 +57,13 @@ Owner direction updated 2026-10-15: make the rival concrete and recognizable in 
 
 ## Newcomer context in every video
 
-Updated from owner direction on 2026-10-15. Assume every viewer has zero prior context: they may not know this project, what a ChatGPT dot is, or that an AI assistant can operate its own computer.
+Updated from owner direction on 2026-10-16. For future scripts, name Dotter as a **ChatGPT dot** and explain the unfamiliar term through plain-language AI-assistant and computer agency context. Mentioning Jared in the introduction is not required. This guidance does not reopen the completed Episode 1 or change its current upload.
+
+Assume every viewer has zero prior context: they may not know this project, what a ChatGPT dot is, or that an AI assistant can operate its own computer.
 
 Every candidate must make the following understandable in plain language, naturally within the scene:
 
-- **Who:** Dotter is an AI assistant represented by this character. The label “AI filmmaker” alone is insufficient.
+- **Who:** Dotter is a **ChatGPT dot**, an AI assistant represented by this character. Make both the identity and its meaning understandable; “ChatGPT dot” without explanation or the label “AI filmmaker” alone is insufficient.
 - **Agency:** he uses his own computer and creative tools to make the videos. Make that connection legible rather than assuming the viewer knows how the work happens.
 - **Purpose:** why he is making videos and why this attempt matters. In a rivalry episode, explain who Motto is and the relevant competition or stakes.
 - **Learning struggle:** why an early attempt is rough, which particular choice or limitation causes the problem, and what he tries next. Treat this as part of the action; learning is not an excuse for weak storytelling or a claim that every failure was real.
