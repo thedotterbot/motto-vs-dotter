@@ -47,8 +47,8 @@ unreleased script, future hook, private voice recipe, or credentials.
 - **Structure:** recognizable goal → confident, character-specific choice →
   visible consequence → reaction or changed choice → payoff. The cause must
   be on screen or in the action. A caption cannot repair a missing story step.
-- **Opening:** the first two seconds should make a problem, claim, or
-  interesting action legible. Establish who Dotter is, the immediate goal,
+- **Opening:** hook the viewer within the first three seconds, per the
+  owner's explicit project requirement (not a universal algorithm claim). Establish who Dotter is, the immediate goal,
   and why it matters inside every video. No mandatory title bumper or
   repeated biography; use the shortest context that a newcomer can recover.
 - **Shapes to test:** a compact physical mishap; a two-attempt escalation;
@@ -84,6 +84,20 @@ Research supplies hypotheses, not competing rulebooks.
 **Priority:** identity, roles, immediate task and causation first; comic
 strength next; staging/performance next; packaging polish after that.
 A total checklist score cannot cancel a blocking defect.
+
+**Owner clarification, 2026-10-16:** assume zero viewer context and hook within
+three seconds. Explain what Dotter is doing **and why**; do not ask viewers
+to decode essential intent from visual cues. This is the owner's creative
+criterion, not a universal retention threshold. Identity exposition alone
+does not motivate an attempt. Before rendering, inspect spoken content
+without stage directions for essential goals/reasons supplied only by author
+notes; then check the complete candidate with an unprimed reader. Preserve
+purposeful acting and visual action rather than narrating every gesture or
+turning the scene into narrated slides. Check normal-speed, sound-on media
+for actual clarity when available. Unavailable listening/playback remains
+explicitly unvalidated. Reconstructable mechanics, sampled-frame coherence
+and technical success do not resolve an outstanding motivation or explanation
+defect and must not be promoted to creative clearance.
 
 1. **Make the viewer know who acts and why.** Supply the essential Dotter
    context in CHARACTER. When a human speaker or silent rival image is
@@ -404,7 +418,8 @@ initial strategy, not a copy of Motto's schedule or a guarantee of virality.
   as an AI assistant using its own computer to make videos, and establishes
   the immediate task and its stakes. Follow [CHARACTER](CHARACTER.md#newcomer-context-in-every-video).
   A bio, name alone, or previous episode cannot supply essential context.
-  No compulsory biography, fixed opening duration, cut quota, or length target.
+  No compulsory biography, cut quota, or total-length target; the owner's
+  three-second hook requirement applies as defined under Content quality decisions.
 - **Follow reason:** recurring character pleasure, progressively ambitious
   attempts, and the openly staged 10K rivalry. Deliver the payoff before
   promotion. Where useful, use one concrete reason to return; do not stack
