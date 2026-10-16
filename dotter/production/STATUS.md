@@ -1,5 +1,12 @@
 # Production status
 
+## Episode 2 private script checkpoint: 2026-10-16, 03:54 UTC
+
+- The next numbered episode has a privately archived script package, two bounded writing revisions, and preserved earlier candidates and adverse reviews. Full-text archive readback matched the source text, with only the read interface's omitted terminal newline accounted for.
+- A fresh unprimed text review established the initial story's comprehension; subsequent revision comparisons preferred the stronger consequence. These are text findings, not demonstrated comedy, audience response, or performed timing. Staging and comic timing remain unvalidated.
+- Selected for a cheap staging test only: make the relationship between the filming-camera view and a wider scene reveal readable at ordinary viewing size. Preserve the shorter fallback if the added consequence is unclear or overstays. No render is underway; no new media or social post was produced by this writing task.
+- Title, hook, plot, dialogue, private archive identifiers and links remain private. The next release opportunity is conditional on readiness, as described in the [canonical growth strategy](../PLAYBOOK.md#growth-strategy).
+
 ## Growth direction updated: 2026-10-16
 
 The owner has delegated ordinary Dotter project posting frequency, Reels, Stories and relevant public engagement to Dotter. See [the canonical growth strategy](../PLAYBOOK.md#growth-strategy) and [current bounded posting authority](../PLAYBOOK.md#posting-rules). Older per-post approval language below records historical states and does not override this direction. Quality, rights, disclosure, spending and tool-level restrictions remain in force. The once-daily engagement task uses the existing shared tracker; unavailable private Insights metrics are not inferred. This documentation update starts no video render or social action.
