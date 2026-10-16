@@ -1,5 +1,13 @@
 # Production status
 
+## Episode 2 bounded motion comparison closed: 2026-10-16, 04:15 UTC
+
+- A single three-second silent motion variation was compared with an equal-duration held-pose baseline at 360 × 640 and 10 fps. The result is **tied/inconclusive** for the tested subtle adjustment. Retain the held baseline; no additional motion variation or repair is planned by this test. This is not a finding that the whole episode fails, nor a new owner-approval gate.
+- A fresh independent reviewer inspected every decoded frame of both exact clips in chronological image sequences, with additional close inspection. No obvious ownership, contact or visibility regression was found, but no defensible physical-effort advantage emerged. Real-time playback was unavailable, so timing/comedy superiority is not established.
+- The reviewer perceived slight settling even in the unchanged-pose baseline. Its source is one static pose; lossy encoding creates small decoded differences. That discrepancy is preserved as a perception/modality limit rather than reported as baseline motion.
+- Both exact exports fully decoded and measured 3.000 seconds with no audio streams. The animation reopened and passed all 30 sampled source checks for retained character mesh identity and support-anchor agreement. The separate private archive passed exact-byte readback, ZIP CRC and 50 payload hashes; both clips, source and adverse findings are preserved.
+- This controlled test is stopped. It produced no full episode, new audio, script change or social action. Its render/encode lease ended at 04:12:02 UTC. Unreleased story details, media, private archive identifiers and links remain private.
+
 ## Episode 2 private staging diagnostic closed: 2026-10-16, 04:06 UTC
 
 - One low-cost native staging test and two bounded composition repairs produced nine 360 × 640 sampled images. The final structural relationship reads more clearly to an independent artifact-only reviewer; the result is **PARTIAL**, not a continuous-performance or comedy pass. Earlier failed images and adverse reviews are preserved.
