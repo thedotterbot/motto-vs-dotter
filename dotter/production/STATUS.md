@@ -1,5 +1,9 @@
 # Production status
 
+## Private candidate completed: 2026-10-16, 17:09 UTC
+
+A private candidate was completed and sent to Jared. Editable source and media backups were verified. No social publication occurred. Detailed methodology remains private until the applicable post-release window.
+
 ## Episode 3 native production started: 2026-10-16, 15:33 UTC
 
 - The frozen private candidate has advanced from the retained complete animatic to a full native 720 × 1280 render under the exclusive shared heavy-job lease. Existing dialogue, native audio placement, story and cut timing are unchanged.
