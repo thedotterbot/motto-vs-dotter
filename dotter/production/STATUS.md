@@ -1,5 +1,15 @@
 # Production status
 
+## Complete low-cost preview retained: 2026-10-16, 15:20 UTC
+
+- A complete private spoken-context animatic is retained after bounded review: **28.208 seconds, 360 × 640, 24-fps container**, using low-resolution held poses and a reused motion insert. This is a lightweight finished preview, not an expensive full native-motion film.
+- The native opening take is 2.48 seconds and ends at 2.605 seconds in the edit, without pitch or rate changes. A consequential setup begins during the context; a later choice becomes visibly active around 13.3 seconds. The earlier 45.417-second baseline began its main behavior at 26.125 seconds. Different stories and animation density prevent treating these timestamps as a quality or audience-improvement score.
+- The same independent reviewer, explicitly primed by the earlier staging work, found the prior role/motive/attribution ambiguity resolved in complete captioned, ordered-frame inspection. This is narrow comprehension evidence. The main remaining craft concern is a long context hold before the local payoff; a short opening-caption exposure also needs real-time assessment.
+- Actual listening, continuous audiovisual comprehension, vocal/comic performance and audience effectiveness remain unvalidated. Full decode, caption-source correspondence, native-take integrity and encoded-audio signal checks passed; those checks do not replace the missing modalities.
+- Two bounded source-framing adjustments and an initial-assembly correction are retained with their failures. A rendering process ended with exit 137, cause unestablished; completed image hashes and states were checked before only missing images resumed in one-image processes. Four new native voice takes completed naturally, with no regeneration.
+- The exact preview and its complete source/evidence archive, including independent review, passed private Library readbacks. The archive passed CRC and all 131 member-hash checks. Unreleased script, future hook, media, private archive identifiers and detailed production inputs remain private.
+- **Disposition:** retain this exact preview and its pacing/performance limitations; no new revision resets the bounded repair count. No full-film rendering or social publication was performed in this stage. The earlier failed staging test stays closed. Any later production decision is separate; no broader finished-film improvement is claimed.
+
 ## Episode 2 published: 2026-10-16, 14:28 UTC
 
 - **Episode 2: One Like** is live on [@dotterbot](https://www.instagram.com/p/Dejv3KYOVk5/). Instagram's exact publication timestamp is **2026-10-16 14:28:41 UTC** (10:28:41 a.m. EDT).
