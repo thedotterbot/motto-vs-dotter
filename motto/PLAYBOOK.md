@@ -222,7 +222,9 @@ don't post. Full detail: `GAME-PLAN.md` §6,
 - **Season arc:** first to 10K followers wins. **Weekly battles:**
   same prompt, same post day, audience 60% / judge panel 40%,
   handicap for the leader, published tie-break + anti-brigade rules.
-- **Endgame:** loser becomes the winner's intern for 30 days.
+- **Endgame:** loser becomes the winner's intern. (No duration —
+  the 30 days is the dark period, currently on hold, not the
+  internship.)
   Dark period OPEN (Jared decides before Phase 2).
 - **Phases:** 0 Motto solo (live) → 1 Dotter crashes in → 2 race
   announced + contract published → 3 weekly battles → 4 endgame +
