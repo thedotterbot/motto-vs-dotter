@@ -35,7 +35,8 @@ Last updated: 2026-10-16.
   usable Muse setup lesson through the joke).
 - Carousel 01, "How to vote": BUILT. Posts Sat Oct 17 ALONE
   (reel 02 pulled). Its comments are NOT a vote round — the first
-  vote is Episode 3 (reel 04, Tue Oct 20). No Sunday tally.
+  vote is Episode 4 (reel 05, Thu Oct 22). Reel 04 posts with a
+  no-vote caption (design B, 2026-10-16). No Sunday tally.
 - Cadence: reels 3/week Tue/Thu/Sat; carousel ~1x biweekly;
   every reel cross-posted to Shorts; native Threads on post
   days + tallies.
