@@ -67,6 +67,8 @@ Zero comments above is an explicit observed public zero. Unknown values are not 
 
 ### Next evidence, without new shared-rule decisions
 
+**Craft plan added October 19, 20:54 UTC:** prioritize story/comedy with one controlled comic-timing and reaction comparison on existing material. This is planned, not executed; no improvement is claimed before exact audiovisual review. Retain the baseline if the comparison is tied, worse or unreviewable. No new full render or tool search is part of this bounded test; beat-specific details remain private during the applicable methodology window.
+
 1. Resolve the carousel's publishing-route blocker and verify the actual live permalink only if a later publish succeeds; keep its format independent of episode numbering.
 2. Extend the single Episode 5 page with sanitized detailed methods during **October 20 18:11:04–October 21 18:11:04 UTC**, preserving failures, review limits and unknown costs. Do not expose private media/source archives or future hooks.
 3. Let the existing once-daily measurement task capture new observations; mirror its exact observation timestamps in this public log after tracker readback, without manufacturing a 24/72-hour snapshot.
