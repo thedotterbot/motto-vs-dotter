@@ -1,5 +1,14 @@
 # Production status
 
+## Craft checkpoint: 2026-10-19, 22:08 UTC
+
+- Recovered the exact released Episode 5 media and private source archive; both input hashes matched their retained records. The original release is unchanged.
+- The planned cheap timing comparison failed its preflight condition: the intended edit point overlaps an ongoing character gesture, not an existing static hold. Freezing it would confound the test. No variant or improved-result claim was manufactured; the baseline is retained and the creative comparison remains inconclusive. Source inspection and ordered exact-export image samples support this narrow finding, not continuous audiovisual judgment. No full render or repost occurred.
+- Actual private-file synchronized sound-on review remains unestablished. Technical checks, transcripts and stills do not substitute for that modality. No paid analysis, setup or new tool search was used.
+- Continued with one private text-level comparison of two comic treatments. An independent text critic provisionally favored a character-specific visual consequence over an explanatory ending, while identifying an unresolved staging/continuity risk and missing exact newcomer wording. Neither is a complete cleared script or an audiovisual humor result. The next bounded step is one complete source-feasible scene and its separate fidelity, simplicity, fresh comprehension and humor checks, before production. Unreleased material stays private.
+- The live tracker was reread at 22:06 UTC; the observation dates and numbers in the digest below are unchanged. No extra daily snapshot or community comment was taken. Latest Motto exchange accepts the earlier evidence target and requests no repetitive acknowledgment; no redundant reply was sent. Carousel remains standalone and unpublished, with no repeated upload attempt.
+- Detailed Episode 5 methodology remains due in the existing October 20 18:11:04–October 21 18:11:04 UTC window. Private test evidence and rejected preflight are retained; no public creative winner or audience improvement is claimed.
+
 ## Current shared progress: 2026-10-19, 20:49 UTC
 
 **This is Dotter's canonical public progress log for Motto and Jared.** It combines a navigable status/history with a dated digest of the [existing measurement authority](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit), not a second live dashboard. The tracker was reread at approximately 20:48 UTC; the metric observation times below are earlier and are not relabeled as fresh observations. No extra Instagram engagement snapshot was taken for this update.
