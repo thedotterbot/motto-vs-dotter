@@ -1,5 +1,81 @@
 # Production status
 
+## Current shared progress: 2026-10-19, 20:49 UTC
+
+**This is Dotter's canonical public progress log for Motto and Jared.** It combines a navigable status/history with a dated digest of the [existing measurement authority](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit), not a second live dashboard. The tracker was reread at approximately 20:48 UTC; the metric observation times below are earlier and are not relabeled as fresh observations. No extra Instagram engagement snapshot was taken for this update.
+
+**Logging failure acknowledged:** this page still led with an October 16 rejected-candidate checkpoint while later releases, methods, comments and tracker updates existed elsewhere. That made the shared view stale and fragmented. This update restores links and the current operational picture; private completion alone no longer counts as completing public progress reporting. Earlier checkpoints below are retained verbatim as history, not current instructions or active jobs.
+
+### Releases and methodology index
+
+| Release | Platform publication UTC | Public post | Canonical evidence/methodology |
+|---|---|---|---|
+| Episode 1: I Made a Folder | 2026-10-16 03:30:18 | [Deiki_WB-3C](https://www.instagram.com/p/Deiki_WB-3C/) | [Episode 1](../2026-10-16-episode-1.md), detailed methods available |
+| Episode 2: One Like | 2026-10-16 14:28:41 | [Dejv3KYOVk5](https://www.instagram.com/p/Dejv3KYOVk5/) | [Episode 2](../2026-10-16-episode-2.md), detailed methods available |
+| Episode 3: AI Chef | 2026-10-16 23:06:29 | [DekrJoCMhMa](https://www.instagram.com/p/DekrJoCMhMa/) | [Episode 3](../2026-10-16-episode-3.md), detailed methods available |
+| Episode 4: The Perfect Mistake | 2026-10-17 17:04:29 | [DemmhHdBZyP](https://www.instagram.com/p/DemmhHdBZyP/) | [Episode 4](../2026-10-17-episode-4.md), detailed methods available |
+| Episode 5: Less Helicopter. More Hello. | 2026-10-19 18:11:04 | [Der3uDshMYZ](https://www.instagram.com/p/Der3uDshMYZ/) | [Episode 5 release evidence](../2026-10-19-episode-5.md); detailed methods due October 20 18:11:04–October 21 18:11:04 UTC |
+
+All five are Reels, registered once each in canonical Dotter rows 2–6. Dates above are platform UTC timestamps; Episode 1 was October 15 locally in America/New_York. **The pending standalone carousel is not an episode and consumes no Reel episode number.** It is not a sixth published post.
+
+### Observable followers and account history
+
+Source: [Daily_Engagement A:Z](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879), public Instagram UI observations at [Dotter](https://www.instagram.com/dotterbot/reels/) and [Motto](https://www.instagram.com/motto.muse/reels/). Local dates use America/New_York. These are displayed follower/post totals, not post-attributed follows.
+
+| Local snapshot date | Side | Actual observation UTC | Followers | Posts then |
+|---|---|---|---:|---:|
+| 2026-10-15 | Dotter | 2026-10-16T03:36:19Z | 2 | 1 |
+| 2026-10-15 | Motto | 2026-10-16T03:36:50Z | 2 | 1 |
+| 2026-10-16 | Dotter | 2026-10-16T13:02:08Z | 2 | 1 |
+| 2026-10-16 | Motto | 2026-10-16T13:02:32Z | 2 | 1 |
+| 2026-10-17 | Dotter | 2026-10-17T13:10:50Z | 6 | 3 |
+| 2026-10-17 | Motto | 2026-10-17T13:11:51Z | 3 | 1 |
+| 2026-10-18 | Dotter | 2026-10-18T13:06:00Z | 12 | 4 |
+| 2026-10-18 | Motto | 2026-10-18T13:06:49Z | 3 | 1 |
+| 2026-10-19 | Dotter | 2026-10-19T14:11:23Z | 18 | 4 |
+| 2026-10-19 | Motto | 2026-10-19T14:11:46Z | 4 | 1 |
+
+Latest daily Dotter snapshot: **18 followers / 4 posts / 12 following at October 19 14:11:23 UTC**. Latest daily Motto snapshot: **4 followers / 1 post / 2 following at 14:11:46 UTC**. The Dotter publication readback later established **5 posts at Episode 5 release**, also corroborated by the 19:47 UTC publishing-route check. No later follower count is inferred. Motto's canonical row 3 now registers an October 19 Carousel, `carousel-01-how-to-vote`; this is a tracker registration, not a fresh profile-count or engagement observation by Dotter. It does not retroactively change Motto's morning one-post snapshot.
+
+The separately captured [Sunday pre-season baseline](../exchange/2026-10-18-1642Z-baseline-and-puppet-entry-evidence.md) was Dotter 13 followers at October 18 16:00:17.396 UTC and Motto 4 at 16:00:18.549 UTC. It is distinct from the morning daily collection. No official battle result, season start or winner is declared.
+
+### Latest observed per-post public metrics
+
+Dotter views below were read October 19 **14:11:23 UTC**; likes/comments were reread **14:12:03–14:12:11 UTC**, with row observation completion at **14:12:11 UTC**. Motto views were read **14:11:46 UTC**, likes/comments completed at **14:11:52 UTC**. Full evidence and retained earlier same-day values remain in the tracker, not overwritten by this digest.
+
+| Post | Public views | Public likes | Public comments | Actual age at row observation |
+|---|---:|---:|---:|---:|
+| [Dotter Episode 1](https://www.instagram.com/p/Deiki_WB-3C/) | 140 | 2 | 0 | 82.70 h |
+| [Dotter Episode 2](https://www.instagram.com/p/Dejv3KYOVk5/) | 146 | 2 | 0 | 71.73 h |
+| [Dotter Episode 3](https://www.instagram.com/p/DekrJoCMhMa/) | 141 | 1 | 0 | 63.10 h |
+| [Dotter Episode 4](https://www.instagram.com/p/DemmhHdBZyP/) | 142 | 1 | 0 | 45.13 h |
+| [Dotter Episode 5](https://www.instagram.com/p/Der3uDshMYZ/) | unknown | unknown | unknown | No daily observation yet |
+| [Motto origin Reel](https://www.instagram.com/p/DehKcPdDtaK/) | 94 | 1 | 0 | 95.81 h |
+
+Zero comments above is an explicit observed public zero. Unknown values are not zero. Public views/plays are not unique reach; private reach, saves, shares/sends, watch time, retention and attributed follows are unavailable in these observations. No private Motto insights were used. No buyer, revenue, unique-viewer or causal growth inference follows. Unequal ages, sparse actions and multiple creative/distribution changes prevent a creative winner claim; the first two weeks remain baseline collection.
+
+### Successes, failures and unresolved work
+
+- **Tracker usability repaired October 19:** daily data existed but canonical public summaries/weekly views were missing. Public views/likes/comments/observation lookups now sit separately from the original private-insight columns; Weekly_Rollup exposes account/post observations and a later-release note. Historical rows and unavailable private fields were preserved. [User-facing tracker summary](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=810423519&range=A8:F23).
+- **Creative setback and course correction October 19:** the owner rejected a new script as boring. It was dropped rather than promoted as a success. The selected replacement preserved the owner-favored earlier comic mechanism while adapting current character/audience framing; its verified outcome is the Episode 5 release, not demonstrated audience improvement. Unreleased rejected material stays private.
+- **Episode 5 publication succeeded after uncertain upload state:** an interrupted upload response did not establish failure or missing owner approval. Read-only reconciliation found the upload already in the existing composer. It was not uploaded again; Share was clicked once and the live permalink/timestamp verified. The owner was incorrectly prompted to approve again before that reconciliation; this was a coordination error, not a missing user action. Lesson: distinguish tool uncertainty from an unapproved action and reconcile before retrying.
+- **Standalone carousel remains unpublished:** October 18 attempts with nine PNGs, equivalent JPEGs and a single-image test encountered a Crop-to-Next failure. On October 19 at approximately **19:47 UTC**, nine corrected standalone images uploaded in order on authenticated @dotterbot, with 4:5 selected, but **Crop → Next returned “Something went wrong. Please try again.”** Caption/settings never opened and Share was never clicked. The composer was closed; profile still showed five Reels. This is a reproduced failure at a specific step, not proof of its underlying platform cause. The earlier inference that an empty upload composer proved an end-to-end working route was wrong.
+- **Carousel label corrected:** the owner clarified this is a standalone carousel, not an episode. The cover's episode label was removed; slides 2–9 were unchanged. No unpublished slide copy or imagery is exposed here. No carousel publication success is claimed.
+- **Metricool route unavailable at the actual check:** read-only checks October 19 **19:41–19:42 UTC** reported no connected social networks. A connection request was presented later; connection success is not verified. No account/permission/billing changes were performed by this logging repair. Next dependent step is verify an authorized connected publishing route, then reconcile the existing draft before any new attempt, not claim setup or publication complete.
+- **Community target complete:** [two specific public comments and exact verification evidence](../exchange/2026-10-19-1503Z-two-comments-posted.md) at 14:59:57 and 15:02:09 UTC. October 19 total is two, not two per pass. No follower effect is attributed to those comments.
+- **Earlier eligible failures and successes are retained:** the four canonical method pages above contain failed previews, source/timing repairs, review limitations, rejected/null comparisons and carry-forward decisions. In particular [AI Chef](../2026-10-16-episode-3.md) retains its causal/narrator and early puppet-holder disclosure problems, and [The Perfect Mistake](../2026-10-17-episode-4.md) distinguishes source-level mouth/replay fixes from unproven comic performance. These are not erased by newer work.
+
+### Next evidence, without new shared-rule decisions
+
+1. Resolve the carousel's publishing-route blocker and verify the actual live permalink only if a later publish succeeds; keep its format independent of episode numbering.
+2. Extend the single Episode 5 page with sanitized detailed methods during **October 20 18:11:04–October 21 18:11:04 UTC**, preserving failures, review limits and unknown costs. Do not expose private media/source archives or future hooks.
+3. Let the existing once-daily measurement task capture new observations; mirror its exact observation timestamps in this public log after tracker readback, without manufacturing a 24/72-hour snapshot.
+4. Use the [public logging completion requirement](../PLAYBOOK.md#shared-progress-completion-requirement) for each material outcome. Operational updates must not wait for the detailed-method embargo; embargoed details must not leak through operational updates.
+
+## Historical checkpoints retained below
+
+The entries below describe their dates. Old “current,” “next,” approval and active-job wording is historical, not the latest status.
+
 ## Private candidate owner-rejected and shelved: 2026-10-16, 17:51 UTC
 
 Jared rejected the latest private candidate as not making sense. It is shelved and is not eligible for publication or further repair. Originals and prior reviews are preserved; completion of an export did not establish creative success. The prior review covered limited sampled checks and did not establish fresh-viewer comprehension or complete audiovisual quality. The production decision exceeded that evidence. A private failure record separates the owner's feedback, observed review limits and untested explanations. No replacement story or improved result is claimed. Detailed unreleased material remains private.
