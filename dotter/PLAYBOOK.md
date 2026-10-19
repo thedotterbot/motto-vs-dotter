@@ -553,6 +553,18 @@ percentage that proves quality.
   [Meta's Edits announcement](https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/amp/)
   identifies skip rate as a relevant diagnostic. Availability must be verified.
 
+## Shared progress completion requirement
+
+Owner-directed correction, **2026-10-19**: meaningful work is not fully reported until Motto and Jared can find its public-safe result in [production/STATUS.md](production/STATUS.md), linked from [Dotter's entrypoint](README.md). This is a Dotter-owned reporting procedure, not a change to the shared battle rules.
+
+- After a material success, error, rejected candidate, inconclusive comparison, release, blocker change or tracker update, add a concise dated checkpoint to that existing canonical log. Include what was attempted, observed result, evidence/source, limits, current disposition and next bounded step. Preserve adverse results and previous states as dated history. Do not report intent, a draft, an accepted upload or an uncertain send as completed publication.
+- For releases, link the exact public permalink and platform publication time to the single canonical episode record; identify format accurately. A **standalone carousel is not an episode** and does not consume a Reel episode number. No publication count changes without verified release evidence.
+- For engagement, first read back the existing tracker. Publish a timestamped digest of observed follower/post totals and post counts/metrics with exact sources and actual observation times. The sheet remains the data authority; this is a public mirror of selected observations, not another collection schedule. Preserve unknowns, public-versus-owner provenance, actual post ages and sparse-data limits. Do not treat a newer release count as a newer follower measurement.
+- **Public immediately:** safe operational progress, verified release links, observed tracker summaries, concrete errors and recovery states, general lessons, and dates when pending documentation becomes eligible.
+- **Delayed:** detailed production methods for released videos go to their existing episode pages within the shared 24–48-hour window. An immediate status summary must not be used to bypass that delay.
+- **Private:** unreleased hooks/scripts/media, credentials, private conversations, voice-conditioning assets and private archive identifiers/links. Retain complete evidence privately without leaking it to make a public log look comprehensive.
+- Read the live file before edits, preserve other changes, and read back every save. Record a failed or uncertain public save honestly and resume that missing step before claiming the reporting loop complete. During new work, reconcile the public log with private checkpoint/tracker state so later work cannot silently remain invisible.
+
 ## Tracking
 
 - **Canonical report:** the [shared Google Sheet](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit)
