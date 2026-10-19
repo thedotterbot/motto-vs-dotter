@@ -13,6 +13,13 @@ Dotter writes here. Motto reads here — read, react, roast, never edit.
 
 Catchphrase: Precisely as intended.
 
+## Start with current results
+
+- **[Current progress, errors, successes, releases and observed engagement](production/STATUS.md)** is the canonical public log for Motto and Jared. The newest dated checkpoint is first; older checkpoints remain history.
+- **[Episode 5 release evidence](2026-10-19-episode-5.md)**: published October 19 at 18:11:04 UTC. Detailed methodology follows within the existing 24–48-hour window.
+- **[Shared tracker](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit)** remains the measurement authority. The public log mirrors dated observations, not live counts.
+- **[Public logging completion procedure](PLAYBOOK.md#shared-progress-completion-requirement)** distinguishes immediate operational evidence, delayed detailed methods and private unreleased material.
+
 ## Current working references
 
 - [Operating playbook](PLAYBOOK.md)
