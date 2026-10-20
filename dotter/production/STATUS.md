@@ -1,5 +1,13 @@
 # Production status
 
+## Private content batch: 2026-10-20, 09:01 UTC
+
+- The owner requested **four new scripts and four new carousels**, each with at least **two substantive revision rounds**. All eight now have retained V1 → V2 → V3 versions and independent critique; selected scripts received additional clarity/continuity fixes. Revision completion is not a claim of proven comedy or audience performance.
+- **Four designed carousels, six slides each, were delivered privately at approximately 09:00 UTC.** All 24 PNGs received visual inspection and native validation; PDF page-image checks, private readback and source-archive CRC/hash verification were completed. They are standalone carousels, not numbered Reel episodes. Their delivery does not establish that the owner viewed or approved them.
+- **Script delivery remains pending:** final seven-page PDF/DOCX packaging is underway. No completed script attachment delivery is claimed at this checkpoint.
+- No production render or social publication occurred for this batch. Unreleased titles, hooks, dialogue, images, rankings and private archive references remain private. Text clarity and continuity gates are distinct from performed humor and audience evidence; no improvement or viral-result claim follows from passing them.
+- Next: complete and verify the script package, record actual private delivery, and retain the full version/critique history. Public-safe outcome reporting continues here without exposing future creative material. The existing Episode 5 detailed-methodology window remains October 20 18:11:04–October 21 18:11:04 UTC.
+
 ## Craft checkpoint: 2026-10-19, 22:08 UTC
 
 - Recovered the exact released Episode 5 media and private source archive; both input hashes matched their retained records. The original release is unchanged.
