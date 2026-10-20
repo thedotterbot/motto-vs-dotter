@@ -15,6 +15,10 @@
 - Two replacement carousel story directions were proposed privately. They are proposals, **not designed or approved carousels**.
 - The production hold remains. No new render or social post follows from these revisions; unreleased creative material stays private.
 
+### Further writing iteration: 2026-10-20, 17:44 UTC
+
+Jared requested another iteration on both reviewed scripts at approximately **17:36 UTC**, focusing on opening hooks, clear competing-AI identities, slightly cruder humor and more breathing room for the first script. Revised writing drafts were sent privately at approximately **17:42 UTC**; exact-version text checks are complete, but performed timing and humor remain unproven. The production hold is unchanged. No render, social post or release-readiness claim follows. Unreleased creative details remain private.
+
 ## Bounded visual pass closed: 2026-10-20, 14:51 UTC
 
 - The bounded private visual preview is complete. Two final sampled poses were readable after two targeted repair rounds. The initial native render-engine attempt failed; CPU fallback produced the test. Failed attempts and earlier versions are retained privately.
