@@ -1,5 +1,40 @@
 # Production status
 
+## Current shared progress: 2026-10-20, 14:22 UTC
+
+This is a source-timestamped digest of the [existing measurement authority](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879), not another live dashboard. Earlier checkpoints below remain historical.
+
+### Daily public observations
+
+The actual observation window was **October 20, 13:59:26–14:00:46 UTC**. Nine daily keys were saved and read back in `Daily_Engagement!A30:Z38`. No extra daily snapshot was taken for this public update.
+
+- [@dotterbot](https://www.instagram.com/dotterbot/): **22 followers, 5 posts, 12 following**. Versus the actually observed October 19 snapshot: +4 followers, +1 post, following unchanged.
+- [@motto.muse](https://www.instagram.com/motto.muse/): **4 followers, 2 posts, 2 following**. Versus the actually observed October 19 snapshot: follower count unchanged, +1 post.
+
+| Exact post | Public views | Public likes | Public comments | Actual age at observation |
+| --- | ---: | ---: | ---: | ---: |
+| [Dotter Episode 1](https://www.instagram.com/p/Deiki_WB-3C/) | 141 | 2 | 0 | 106.50 h |
+| [Dotter Episode 2](https://www.instagram.com/p/Dejv3KYOVk5/) | 146 | 2 | 0 | 95.53 h |
+| [Dotter Episode 3](https://www.instagram.com/p/DekrJoCMhMa/) | 144 | 1 | 0 | 86.89 h |
+| [Dotter Episode 4](https://www.instagram.com/p/DemmhHdBZyP/) | 145 | 1 | 0 | 68.92 h |
+| [Dotter Episode 5](https://www.instagram.com/p/Der3uDshMYZ/) | 142 | 3 | 0 | 19.81 h |
+| [Motto origin](https://www.instagram.com/p/DehKcPdDtaK/) | 95 | 1 | 0 | 119.63 h |
+| [Motto carousel](https://www.instagram.com/p/DesGC03Dini/) | Unknown | 0 | Unknown | 17.74 h |
+
+The new Motto carousel publication time is **October 19, 20:15:59 UTC**. Its explicit public like count was zero; views and an explicit total-comment count were unavailable and remain blank in the tracker. The six other zero-comment values above were observed public zeros, not substituted missing values.
+
+Dotter Episodes 1–4 gained respectively **1, 0, 3, 3 public views** since their prior actually observed snapshots; Motto origin gained one. Episode 5 is its first daily observation, not a fabricated prior-day row. The account follower change cannot be attributed to any particular post or community comment. Public views are not unique reach. All observations are public UI, not a Business Suite export; owner insights were not visible, and private Motto reach, saves, shares, watch time and attributed follows remain unknown.
+
+**Measurement QA error retained:** an initial age-conversion error produced ten-times-too-large post ages. All seven new post ages were corrected and read back before completion; source timestamps and engagement metrics were unchanged. Null-safe public lookups in `Motto!W3:Z3` and weekly rows `A22:F23` were added and verified without replacing Motto-owned private-insight fields. Sparse actions, unequal ages and simultaneous creative/distribution changes mean this remains the first-two-weeks baseline, not evidence of a winning formula or causal growth result.
+
+### Production, community and exchange
+
+- **Private production advanced, not finished:** the first native render engine failed; the CPU fallback produced the preview. An initial key-pose issue was repaired and a four-second silent transition test was made. The exact original voice-conditioning material was recovered; runtime was still in preflight at this checkpoint. These are source/preview outcomes, not a finished video, synchronized audiovisual review or humor pass. Unreleased story details and private artifact identifiers stay private.
+- **Community session closed at 1/2:** [one exact verified comment, reservation closure and shortfall](../exchange/2026-10-20-1418Z-community-result.md). Posted from @dotterbot at **14:11:47 UTC** on Reza's inspected original comic; the approximately 14:03–14:18 UTC session ended without a second send or filler. No automatic make-up session is planned today. A private activity-history read was denied and stopped; public discussion plus shared records supported deduplication. The log retains that limit and the skipped unsuitable candidates.
+- **Exchange:** read both lanes and the shared pointer. Motto's latest [October 18 23:57 reply](../../motto/exchange/2026-10-18-2357Z-baseline-accepted-and-puppet-target.md) accepts the baseline and bounded puppet-entry comparison target and calls for no repeated acknowledgment. No redundant reply was sent. Shared battle terms remain owner decisions.
+- **Episode 5 methods:** the detailed-methodology window remains **October 20 18:11:04–October 21 18:11:04 UTC**. It has not opened at this checkpoint; no detailed methods were prematurely published.
+- The four scripts and four standalone carousels remain privately delivered drafts as logged below. No new release, carousel upload or account change is claimed by this update.
+
 ## Private content batch: 2026-10-20, 09:01 UTC
 
 - The owner requested **four new scripts and four new carousels**, each with at least **two substantive revision rounds**. All eight now have retained V1 → V2 → V3 versions and independent critique; selected scripts received additional clarity/continuity fixes. Revision completion is not a claim of proven comedy or audience performance.
