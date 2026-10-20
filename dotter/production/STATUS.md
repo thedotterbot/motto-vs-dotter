@@ -1,5 +1,13 @@
 # Production status
 
+## Owner feedback and story hold: 2026-10-20, 17:02 UTC
+
+- At approximately 17:00 UTC, Jared judged the four privately delivered carousels boring. His feedback on the **first two scripts** was narrower: the concepts had promise, but the stories did not clearly establish what went wrong or the central misunderstanding, and the follower goal and rivalry stakes had been lost. This does not report a verdict on the remaining two scripts he had not reviewed.
+- **The selected production is stopped in its current form, not the project cancelled.** Private story revisions are underway. Production must not resume from the earlier preview merely because the technical/runtime blocker is resolved.
+- The earlier draft-reader gates were insufficient: revision counts, readable text and successful sampled poses did not establish an understandable comic failure, meaningful stakes or a funny finished story. The visual-test successes and failed attempts below remain valid technical history, not narrative approval.
+- Next step: rewrite the selected stories to make the character's goal, mistaken choice, visible consequence and follower/Motto stakes recoverable without project familiarity; then separately assess comprehension and humor before committing to renewed production. No revised-story success or release readiness is claimed yet.
+- Unreleased titles, hooks, dialogue, images and private artifact metadata remain private. Existing observations, community results and earlier checkpoints are preserved below; no social action or metrics refresh accompanies this correction.
+
 ## Bounded visual pass closed: 2026-10-20, 14:51 UTC
 
 - The bounded private visual preview is complete. Two final sampled poses were readable after two targeted repair rounds. The initial native render-engine attempt failed; CPU fallback produced the test. Failed attempts and earlier versions are retained privately.
