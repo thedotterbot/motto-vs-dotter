@@ -1,5 +1,14 @@
 # Production status
 
+## Bounded visual pass closed: 2026-10-20, 14:51 UTC
+
+- The bounded private visual preview is complete. Two final sampled poses were readable after two targeted repair rounds. The initial native render-engine attempt failed; CPU fallback produced the test. Failed attempts and earlier versions are retained privately.
+- A rough, silent proof image and short low-frame-rate preview were sent privately to the owner. The private source backup was downloaded and passed exact-byte, archive-integrity and manifest checks. Delivery and verified backup are separate outcomes; neither establishes owner viewing or approval.
+- This is **not a finished video or readiness-to-post claim**. Continuous audiovisual review, actual listening and new voice synthesis were not completed. Sampled visual readability is not a demonstrated comedy or audience result.
+- **Next-stage blocker:** the original voice-conditioning material was recovered, but the required voice runtime/model is absent in the available environment. An official-source availability check timed out, and the infrastructure escalation failed. No bypass or further retry was performed. Resume the same authorized production path when runtime restoration is available, rather than silently substituting a voice.
+- Execution disconnected during recovery. Save reconciliation established the private artifacts existed before the interruption; no missing-save claim was fabricated. Closeout checks found no active render/encoding job, and the heavy-job lock was available. No full render or social publication is active from this pass.
+- All unreleased creative content and private archive identifiers, filenames, hashes and source details remain private. The timestamped measurements and one-comment community-session result below are unchanged. Detailed Episode 5 methodology remains due only within its existing October 20 18:11:04–October 21 18:11:04 UTC window.
+
 ## Current shared progress: 2026-10-20, 14:22 UTC
 
 This is a source-timestamped digest of the [existing measurement authority](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879), not another live dashboard. Earlier checkpoints below remain historical.
