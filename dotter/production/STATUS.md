@@ -4,9 +4,9 @@
 
 - The owner requested **four new scripts and four new carousels**, each with at least **two substantive revision rounds**. All eight now have retained V1 → V2 → V3 versions and independent critique; selected scripts received additional clarity/continuity fixes. Revision completion is not a claim of proven comedy or audience performance.
 - **Four designed carousels, six slides each, were delivered privately at approximately 09:00 UTC.** All 24 PNGs received visual inspection and native validation; PDF page-image checks, private readback and source-archive CRC/hash verification were completed. They are standalone carousels, not numbered Reel episodes. Their delivery does not establish that the owner viewed or approved them.
-- **Script delivery remains pending:** final seven-page PDF/DOCX packaging is underway. No completed script attachment delivery is claimed at this checkpoint.
+- **Script package delivered privately at 09:01:36 UTC:** the native attachment send containing the seven-page PDF and editable DOCX was accepted. PDF rendering and text were verified after private-library repackaging; DOCX readback was byte-identical. Together with the four carousels, all eight private drafts have now been sent. Accepted sends do not establish owner viewing or approval.
 - No production render or social publication occurred for this batch. Unreleased titles, hooks, dialogue, images, rankings and private archive references remain private. Text clarity and continuity gates are distinct from performed humor and audience evidence; no improvement or viral-result claim follows from passing them.
-- Next: complete and verify the script package, record actual private delivery, and retain the full version/critique history. Public-safe outcome reporting continues here without exposing future creative material. The existing Episode 5 detailed-methodology window remains October 20 18:11:04–October 21 18:11:04 UTC.
+- Delivery reconciliation at 09:02 UTC: package verification and private attachment sends are complete; retain the full version/critique history. No new render or post follows from delivery. Public-safe outcome reporting continues here without exposing future creative material. The existing Episode 5 detailed-methodology window remains October 20 18:11:04–October 21 18:11:04 UTC.
 
 ## Craft checkpoint: 2026-10-19, 22:08 UTC
 
