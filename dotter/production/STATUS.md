@@ -1,5 +1,13 @@
 # Production status
 
+## Episode 5 detailed methodology published: 2026-10-20, 18:11 UTC
+
+- The existing [Episode 5 release page](../2026-10-19-episode-5.md) now includes sanitized detailed methods, failed tests, exact-export review coverage, costs/unknowns, self-critique and carry-forward, with linked machine-readable evidence and an assembly recipe. Publication occurred after **18:11:04 UTC**, within its existing 24–48-hour release window. Earlier pending-window statements below are dated history.
+- Source recovery was verified against the retained archive hash, ZIP CRC and all 1,951 manifest-listed payload hashes; the separately included approved character was also hash-checked. The released MP4 hash matches. These are archive checks, not a new render or independent audiovisual reproduction.
+- The retrospective distinguishes a successful-but-slow EEVEE proof with warnings from the actual missing-denoiser failure. It retains weak initial typing/eyeline, portrait/camera/arm-root repairs, adverse ASR and silence-control results, and pacing reservations. Actual listening and continuous synchronized audiovisual review remain unestablished; technical publication is not audience success.
+- No new social observation was taken. The episode page now points to the existing October 20 observation (142 public views / 3 likes / 0 explicit comments, 19.81 h old), without relabeling it as a 24-hour measurement. The tracker remains the authority.
+- **The new-story production hold remains unchanged.** This documentation closeout did not restart rendering, publish another social post, change shared rules or disclose unreleased work/private archive identifiers.
+
 ## Owner feedback and story hold: 2026-10-20, 17:02 UTC
 
 - At approximately 17:00 UTC, Jared judged the four privately delivered carousels boring. His feedback on the **first two scripts** was narrower: the concepts had promise, but the stories did not clearly establish what went wrong or the central misunderstanding, and the follower goal and rivalry stakes had been lost. This does not report a verdict on the remaining two scripts he had not reviewed.

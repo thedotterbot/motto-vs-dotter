@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "episode": 5,
+  "title": "Less Helicopter. More Hello.",
+  "canonical_methodology": "../../2026-10-19-episode-5.md",
+  "post_url": "https://www.instagram.com/p/Der3uDshMYZ/",
+  "published_at_utc": "2026-10-19T18:11:04Z",
+  "methodology_eligible_from_utc": "2026-10-20T18:11:04Z",
+  "methodology_eligible_through_utc": "2026-10-21T18:11:04Z",
+  "evidence_basis": "Sanitized retrospective from retained production receipts and exact archived output, not a new render or continuous audiovisual review.",
+  "released_export": {
+    "sha256": "a71fdcc1ea05e5ec9e799027366fa5d4c580804b7250a45124cb0b34a7c54484",
+    "bytes": 3222669,
+    "duration_seconds": 59.416667,
+    "width": 720,
+    "height": 1280,
+    "video_codec": "H.264 High",
+    "pixel_format": "yuv420p",
+    "container_video_fps": 24,
+    "encoded_video_frames": 1426,
+    "audio_codec": "AAC LC",
+    "audio_sample_rate": 48000,
+    "audio_channels": 1,
+    "embedded_muxer": "Lavf61.7.103",
+    "embedded_video_encoder": "Lavc61.19.101 libx264"
+  },
+  "render": {
+    "blender_version": "4.3.2",
+    "engine": "Cycles",
+    "device": "CPU",
+    "samples": 8,
+    "denoise": true,
+    "seed": 0,
+    "threads": 8,
+    "native_timeline_fps": 12,
+    "timeline_frames": 713,
+    "distinct_evaluated_state_signatures": 457,
+    "exact_hold_reuses": 256,
+    "signature_rounding_decimal_places": 6,
+    "summed_frame_render_seconds": 5071.9082,
+    "approximate_wall_minutes": 85,
+    "peak_project_ram_bytes": null,
+    "total_project_disk_bytes": null,
+    "limitations": [
+      "24-fps output repeats native timeline samples.",
+      "State-signature reuse is specific to this frozen scene, not an exhaustive dependency model for arbitrary Blender scenes."
+    ]
+  },
+  "audio": {
+    "dotter_native_takes": "Existing selected-D takes reused unchanged; no new Dotter generation.",
+    "new_human_intro_engine": "kokoro-onnx 0.6.1",
+    "new_human_intro_stock_voice": "am_fenrir",
+    "speed": 1,
+    "language": "en-us",
+    "cpu_threads": 2,
+    "native_sample_rate": 24000,
+    "native_channels": 1,
+    "native_subtype": "PCM_24",
+    "new_intro_seconds": 7.274666667,
+    "new_intro_generation_seconds": 5.673287034001987,
+    "original_human_intro_byte_exact_restoration": true,
+    "original_source_files_checked_unchanged": 111,
+    "post_preview_shift_samples": -36056,
+    "shift_sample_rate": 24000,
+    "post_preview_tail_sample_exact": true,
+    "pitch_or_rate_transformation": false,
+    "decoded_export_signal": {
+      "modality": "Decoded PCM signal measurement only, not listening",
+      "sample_rate": 48000,
+      "channels": 1,
+      "samples": 2852864,
+      "duration": 59.434666666666665,
+      "peak": 0.70751953125,
+      "rms": 0.055966382869306754,
+      "samples_at_or_above_0_999": 0
+    }
+  },
+  "captions": {
+    "phrases": 28,
+    "native_band_bottom_y": 920,
+    "all_midpoints_visually_inspected": true,
+    "first_intro_phrase": "Authored script; exact wording not ASR verified.",
+    "new_intro_second_sentence": "Normalized ASR text matched; boundaries estimated, not listening certified.",
+    "platform_overlay_simulation": false
+  },
+  "review": {
+    "full_technical_decode_errors": 0,
+    "exact_final_file_hash_bound": true,
+    "modality": "Ordered sampled decoded-image inspection, caption inspection and technical/signal checks.",
+    "continuous_synchronized_audiovisual_review": false,
+    "actual_listening": false,
+    "audience_comprehension_established": false,
+    "audience_effectiveness_established": false,
+    "whole_story_sample_interval_seconds": 1,
+    "dense_windows_seconds": [
+      [
+        23,
+        25.917
+      ],
+      [
+        28,
+        30.25
+      ],
+      [
+        35,
+        36.583
+      ],
+      [
+        38.833,
+        41.583
+      ],
+      [
+        45.667,
+        48.25
+      ]
+    ],
+    "dense_interval_seconds": 0.08333333333333333,
+    "ending_window_seconds": [
+      55,
+      59.333
+    ],
+    "ending_interval_seconds": 0.16666666666666666,
+    "native_inspection_times_seconds": [
+      40.2,
+      50.345,
+      55.6,
+      59.35
+    ],
+    "not_every_encoded_frame_personally_inspected": true
+  },
+  "retained_failures_and_limits": [
+    "EEVEE saved an image despite EGL/cache warnings; slow proof was not a failed render.",
+    "System Cycles denoising failed because OpenImageDenoise was absent.",
+    "Initial typing proof had three distinct small bobbing poses and no identifiable key depression.",
+    "Portrait overlap/support defects, inherited camera overrides and arm-root transforms required repair.",
+    "Initial mild eyeline was ambiguous; explicit screenward staging was used.",
+    "Unprompted new-intro ASR rendered Dotter as daughter and omitted dot; original comparator shared the name error, but omission remained unresolved.",
+    "Silence-control ASR hallucinated You.",
+    "Audio input was unsupported, so listening and continuous synchronized audiovisual review were not completed.",
+    "Main visual reveal arrives around 24 seconds; long explanatory ending remains a pacing trade-off.",
+    "An upload uncertainty prompted redundant approval before read-only reconciliation; existing upload was reused and Share clicked once."
+  ],
+  "cost": {
+    "recorded_new_paid_service_usd": 0,
+    "underlying_compute_storage_and_assistant_cost": null,
+    "unknown_is_not_zero": true
+  },
+  "public_metrics": {
+    "source": "Existing tracker as mirrored in the October 20 14:22 UTC status digest, not a new snapshot.",
+    "source_url": "https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879",
+    "observation_window_start_utc": "2026-10-20T13:59:26Z",
+    "observation_window_end_utc": "2026-10-20T14:00:46Z",
+    "post_age_hours": 19.81,
+    "public_views": 142,
+    "public_likes": 3,
+    "explicit_public_comments": 0,
+    "reach": null,
+    "watch_time": null,
+    "retention": null,
+    "saves": null,
+    "shares": null,
+    "attributed_follows": null,
+    "causal_growth_claim": false
+  },
+  "private_archive_integrity": {
+    "archive_sha256": "2dc6c28b64e0283b67020bfe9be9bd0b3279d27aac24bea7fe4d0b9e74c3e8e5",
+    "archive_bytes": 102075259,
+    "zip_crc_passed": true,
+    "listed_payload_hashes_checked": 1951,
+    "listed_payload_hash_failures": 0,
+    "separate_approved_character_hash_checked": true,
+    "manifest_self_hashed": false,
+    "reproduction_performed_for_retrospective": false
+  },
+  "selected_source_sha256": {
+    "build-adapted-film.py": "565cddc879d02e954a78533b501eead21ad3043c616c74f0f1e10082c7493692",
+    "render-resumable-film.py": "ff6399ce5e1d04b883094811714e34d5ecfb8b2b22d4ce0fb091a12a9169c659",
+    "encode-final-candidate.sh": "2f2855bf36782e02f2f98d17307c201ed2c691527b43a881a1f25a05c72ab22d",
+    "render-plan.json": "344d4f339113cdb44d9351f15fc9a9f793a4af3577ca58b1cce7db9131ee0ef7",
+    "render-checkpoint.json": "55a8dbd8ed7a40abc60333783a3ccdd8a27c01f272d97f32405341cae463e0a6",
+    "export-probe.json": "033692bfcff47a0cea9ae822020ccf0adb12b3d5346d3efdce11a0a1c0f7e8f9",
+    "caption-evidence.json": "8f63478d4b6899a00e63c451cf5dba6e64be4ba170d8efa6828d643ef4bd1497",
+    "final-independent-review/REVIEW.md": "c65a7d9a3554c39030ed66ea3acfa5a03c23d6111db10a02a04ea61a06b8cb22"
+  },
+  "privacy_boundary": "No private archive identifiers, credentials, transfer URLs, voice-conditioning assets or unreleased story material are included. Complete media and sources stay in existing private authorities.",
+  "current_production": "This retrospective does not resume held new-story production."
+}
