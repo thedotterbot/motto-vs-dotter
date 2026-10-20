@@ -8,6 +8,13 @@
 - Next step: rewrite the selected stories to make the character's goal, mistaken choice, visible consequence and follower/Motto stakes recoverable without project familiarity; then separately assess comprehension and humor before committing to renewed production. No revised-story success or release readiness is claimed yet.
 - Unreleased titles, hooks, dialogue, images and private artifact metadata remain private. Existing observations, community results and earlier checkpoints are preserved below; no social action or metrics refresh accompanies this correction.
 
+### Private revision continuation: 2026-10-20, 17:10 UTC
+
+- The two critiqued scripts were revised privately and sent to Jared at approximately **17:09 UTC**. The revision checks explicitly tested the mistaken belief, causal choice and follower/rivalry motivation, rather than event order alone. Delivery is not approval; separate humor and performed effectiveness remain unproven.
+- Earlier cold reads could recover events while the character's motives remained uncertain. That adverse result is retained: event clarity must not be promoted into motivation clarity or a comedy pass.
+- Two replacement carousel story directions were proposed privately. They are proposals, **not designed or approved carousels**.
+- The production hold remains. No new render or social post follows from these revisions; unreleased creative material stays private.
+
 ## Bounded visual pass closed: 2026-10-20, 14:51 UTC
 
 - The bounded private visual preview is complete. Two final sampled poses were readable after two targeted repair rounds. The initial native render-engine attempt failed; CPU fallback produced the test. Failed attempts and earlier versions are retained privately.
