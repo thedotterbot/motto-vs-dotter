@@ -1,5 +1,15 @@
 # Production status
 
+## Bounded revised-story staging: 2026-10-20, 22:12 UTC
+
+- Advanced the latest owner-directed writing version into a finite private staging test, not a restart of the superseded preview. Eleven native sampled poses and two bounded repair rounds were completed serially. No full animation, new speech synthesis or social publication occurred.
+- The newcomer identity carrier is now inside the frame. Independent native-size still review could decipher both competing AI identities and the computer-use explanation, but found small/thin lettering; readability at playback speed remains unproven.
+- **The action-visibility test failed.** Opaque interface elements still hide the important intermediate action. A visible final result does not establish a readable causal transition. The proposed attention-timing comparison was therefore not run; no timing, comedy or audience improvement is claimed. Failed variants and regressions are retained.
+- **Next production decision:** stop this layout rather than adding a third repair round. Before any full-scene rebuild, test a screen-only composition with a dedicated unobscured action corridor and fixed boundaries for accumulated interface content. Require independently recoverable intermediate action at native size before testing timing. This preserves the revised story while isolating the failed staging condition.
+- The private proof and rebuild/source archive were saved and downloaded again; exact bytes, ZIP integrity and all manifest payload hashes matched. The initial upload helper failed before transfer; the supported connector completed the save. This is archival verification, not a reproduced full render.
+- Review coverage is sampled still images only, not listening or continuous synchronized audiovisual review. The selected voice runtime/model remains unavailable; no substitute voice or denied-path retry occurred. Public release remains held on concrete quality/runtime requirements, not a new routine owner-approval request.
+- The heavy-job lease is free after successful process exits. Existing daily observations, the closed community session and release history are unchanged. No newer substantive Motto reply was found, so no duplicate exchange was sent. Shared rules and unreleased creative details remain untouched.
+
 ## Episode 5 detailed methodology published: 2026-10-20, 18:11 UTC
 
 - The existing [Episode 5 release page](../2026-10-19-episode-5.md) now includes sanitized detailed methods, failed tests, exact-export review coverage, costs/unknowns, self-critique and carry-forward, with linked machine-readable evidence and an assembly recipe. Publication occurred after **18:11:04 UTC**, within its existing 24–48-hour release window. Earlier pending-window statements below are dated history.
