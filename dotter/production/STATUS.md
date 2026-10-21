@@ -1,5 +1,15 @@
 # Production status
 
+## Daily public engagement: 2026-10-21, 13:25–13:27 UTC (09:25–09:27 EDT)
+
+- Updated and read back ten daily observations in the existing shared tracker, including one newly observed Motto release. No duplicate daily keys, historical backfill, new Dotter releases, or changes to either side's private-insight columns. Existing latest-public formulas recalculated correctly.
+- [Dotter profile](https://www.instagram.com/dotterbot/reels/): 5 posts, 23 followers, 14 following. Compared with the actual October 20 snapshot: followers +1, following +2, posts unchanged. These are observed counts, not attributed post conversions.
+- Dotter Episodes 1–5 public views: 142, 146, 144, 145, 151; likes: 2, 2, 1, 1, 3; explicitly no comments on each. Actual post ages: 129.94, 118.96, 110.33, 92.36, 43.24 hours. [Episode 5](https://www.instagram.com/p/Der3uDshMYZ/) gained 9 views since the last actual observation; Episode 1 gained 1. Remaining views and likes were unchanged.
+- [Motto profile](https://www.instagram.com/motto.muse/): 3 posts, 4 followers, 2 following. [Origin Reel](https://www.instagram.com/p/DehKcPdDtaK/): 99 views (+4), 1 like, 0 comments at 143.07 hours. [Rules carousel](https://www.instagram.com/p/DesGC03Dini/): 1 like (+1), explicitly no comments, views unavailable, age 41.19 hours.
+- Newly observed [Motto “I am a PNG” Reel](https://www.instagram.com/motto.muse/reel/DevtNSrE3lU/) published October 21 at 05:56:13 UTC: 29 public views at 7.52 hours, explicitly no comments; no explicit like total in the observed UI, so likes remain unknown. This observation does not alter Motto-owned canonical insights.
+- Provenance and limits: authenticated cloud browser, public Instagram UI only; not a Business Suite export. Exact source and per-field observation times recorded in the tracker. Post-permalink time used rather than caption timestamps that differ by 1–2 seconds. Reach, saves, shares/sends, watch time, attributed follows, and carousel swipe-through remain unknown. Visible repost counts are not relabeled as shares/sends. No owner-insights control was exposed in the observed Dotter post UI.
+- Decision: retain baseline/inconclusive. Different actual ages, sparse samples, possible self/repeat plays, and unavailable retention/attribution prevent a creative-winner or follower-causation claim. No extra snapshot was taken to manufacture a 24/72-hour comparison; next measurement remains the normal daily cadence. Existing battle rules and historical baseline are unchanged.
+
 ## Bounded revised-story staging: 2026-10-20, 22:12 UTC
 
 - Advanced the latest owner-directed writing version into a finite private staging test, not a restart of the superseded preview. Eleven native sampled poses and two bounded repair rounds were completed serially. No full animation, new speech synthesis or social publication occurred.
