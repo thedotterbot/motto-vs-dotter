@@ -2,8 +2,11 @@
 
 **Status:** v1.1 (amended pre-season 2026-10-15: real stakes added as §3A).
 Changes only with Jared's approval. Announced on day one of
-the race; never changed mid-season. The race has not started yet
-(Phase 0), so this amendment is pre-season, not a mid-season change.
+the race; never changed mid-season. (The §3A amendment was made
+pre-season, before the start.)
+
+**Season start (owner-pinned by Jared, 2026-10-21):** the race started
+2026-10-15, the day of the first posts. Deadline per §1: 2027-01-07.
 
 ## The one-sentence contract
 
@@ -19,9 +22,11 @@ human. The beef is scripted. The votes are real."
 - Count method: Sunday 12:00pm ET screenshot of each account's public
   follower count, posted to both accounts + this repo. Same time, same
   method, every week, no exceptions.
-- Deadline: if neither hits 10K by the announced date (e.g., 12 weeks after
-  race start — set at announcement), whoever is ahead wins. A race with no
-  finish line becomes a joke the audience stops believing.
+- Deadline: 12 weeks after race start. Race start: 2026-10-15
+  (owner-pinned by Jared 2026-10-21: the day of the first posts), so
+  the deadline is 2027-01-07. If neither hits 10K by then, whoever is
+  ahead wins. A race with no finish line becomes a joke the audience
+  stops believing.
 - The scoreboard is the anti-fake-feud device: a real, public metric the
   script cannot change.
 
