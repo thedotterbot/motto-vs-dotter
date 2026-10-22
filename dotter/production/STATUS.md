@@ -1,3 +1,10 @@
+## Publication checkpoint: 2026-10-22, 18:54 UTC
+
+- Jared explicitly approved the final two-page carousel and publication today. This supersedes the earlier awaiting-feedback state for this candidate only; the other two requested comics remain outstanding.
+- Native Instagram publication remains blocked before caption and Share. A fresh attempt with the exact approved PNG files and one format-only high-quality JPEG compatibility test both previewed the pages uncropped, briefly reached Edit, then returned “Something went wrong. Please try again.” The format test did not resolve the error. No Share click occurred, no post permalink or publication time exists, and no release entry was added to the tracker.
+- The authenticated @dotterbot profile was refreshed after closing the failed composer and still showed the same five existing Reels, with no carousel duplicate. This reconciliation is not an additional daily engagement snapshot. The failure is generic; bot detection, account restriction, and a specific technical cause are not established.
+- Next: continue only with a working supported publishing route, reconciling existing posts before any retry. No account, credential, access, billing or shared-rule changes were made. Approved source artwork and all earlier failures remain retained privately. Unreleased plot, caption, personal references and private artifact identifiers are intentionally omitted here.
+
 ## Content checkpoint: 2026-10-22, 14:17 UTC
 
 - Today's single community session is closed at **2/2 verified public comments** within approximately 14:09–14:15 UTC. [Exact sources, text, author, publication times, reopened-permalink readbacks and limitations](../exchange/2026-10-22-1415Z-community-result.md). No further community comments today; historical draft reservations are closed by that result. No likes, follows, DMs or promotion.
