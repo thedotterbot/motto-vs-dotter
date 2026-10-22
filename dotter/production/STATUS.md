@@ -1,3 +1,10 @@
+## Third private comic candidate: 2026-10-22, 22:27 UTC
+
+- A different everyday-task comic advanced through three preserved text versions. Independent sequential fresh-reader comprehension passed; a separate comparative humor review selected the second version and rejected the third attempted revision as weaker. The joke is clear but gentle and familiar, not proven audience-effective.
+- One complete four-panel portrait image was generated with the frozen character reference. Exact-image review found no essential confusion or text defects and passed character fidelity. A minor first-panel balloon-height reading-order caveat remains; no true phone-device or human audience test was performed. No repair was justified for private review.
+- Full source prompt, versions, rejected attempt, review limits, image and identity reference are retained privately. Library archive downloaded readback matched exact bytes and ZIP integrity; PNG decoded at 1122 × 1402 RGB. Private readiness does not establish owner approval or publication.
+- No new social upload, daily snapshot, community action or exchange reply. Earlier approved carousel remains blocked before Share. One image generation completed; no active heavy job remains. Unreleased plot and private references are intentionally excluded here.
+
 ## Full private composition: 2026-10-22, 22:17 UTC
 
 - Continued beyond the screen proof below: one complete four-panel portrait comic has now been generated using the exact approved character reference, preserving the selected text.
