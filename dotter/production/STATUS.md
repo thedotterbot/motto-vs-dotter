@@ -1,3 +1,11 @@
+## Private candidate progress: 2026-10-22, 22:13 UTC
+
+- Advanced one of the two remaining comic concepts through three text versions. Separate fresh-context comprehension and humor reviews selected the second version; the third attempted revision was weaker and was reverted, not reported as an improvement.
+- A single bounded screen-insert illustration passed independent exact-image readability review at the inspected size. This is not finished comic art: full composition, frozen-character fidelity, and phone-size readability remain untested. No human audience test or publication-readiness claim.
+- Full private text versions, failure/revert reasoning, generation prompt, source limits, and visual test were archived in the existing private Library authority; downloaded archive SHA-256 matched exactly. Unreleased dialogue and hooks remain private.
+- No new unanswered substantive Motto exchange was identified. October 22 community work remains 2/2 and the existing daily measurement remains authoritative; neither was repeated. No publishing retry, Share click, new release, or tracker release entry occurred. The first approved carousel remains in its previously documented blocked-before-Share state.
+- Next: compose and review the selected candidate with the frozen character references and a mobile-readable payoff before any release decision. One bounded generation completed and its exclusive heavy-job lease was released.
+
 ## Publication checkpoint: 2026-10-22, 18:54 UTC
 
 - Jared explicitly approved the final two-page carousel and publication today. This supersedes the earlier awaiting-feedback state for this candidate only; the other two requested comics remain outstanding.
