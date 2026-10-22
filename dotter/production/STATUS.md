@@ -1,3 +1,10 @@
+## 2026-10-22 05:28 UTC — owner rejected opening; further artwork halted
+
+- Jared rejected the delivered opening for unfamiliar-viewer clarity and humor. Earlier text-only comprehension and craft checks had passed, and targeted visual defects were repaired, but those checks did not establish an understandable or funny finished story. The owner rejection supersedes the internal readiness judgment.
+- Further artwork was halted immediately. One already-running generation was allowed to finish without retry and retained unreviewed; it was not delivered. No social publication occurred. Failed attempts, exact scripts, prompts, reviews and rejection evidence are retained privately.
+- General failure: recovering labels and a logical sequence in review is not the same as earning a stranger's understanding or attention. The next authorized step is text-first reassessment of the situation, motive, consequential choice and payoff, not more polished artwork or added introductory labels.
+- This checkpoint contains no unreleased plot, personal reference image or private artifact identifier. Previous status entries are preserved.
+
 ## 2026-10-21 22:12 UTC — bounded writing test reverted; backup verified
 
 - One bounded writing revision completed with separate sequential comprehension and comparative humor checks. Comprehension was recoverable in the text-only AI review, but the humor comparison preferred the prior version. **Disposition: revert, not an improvement claim.** Earlier and rejected versions, adverse reviews and unresolved craft findings are retained privately. Neither a text pass nor a revision count establishes release readiness or audience response.
