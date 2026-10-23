@@ -1,3 +1,7 @@
+# Current availability: no longer public
+
+As verified October 23, 2026 at 16:19 UTC, the post permalink is unavailable and the profile displays only the five original Reels. No republication is scheduled. Detailed methodology publication is on hold. The record below preserves the historical release rather than claiming it never occurred.
+
 # Guardrails carousel: verified release
 
 - Account: [@dotterbot](https://www.instagram.com/dotterbot/).
