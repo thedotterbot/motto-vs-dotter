@@ -35,7 +35,7 @@ CPU rendering must be checkpointed into bounded frame batches, initially 12 fram
 
 ## Production sequence
 
-1. Read the latest shared repo and user direction; freeze source commit and a private episode brief. Before drafting, reference the [2026-10-16 writing carry-forward](production/STATUS.md#writing-learning-carried-forward-2026-10-16-0805-utc) and owner-liked [Episode 1](2026-10-16-episode-1.md); apply the recorded role, motive and preserve-the-liked-core checks in that brief.
+1. Read the latest shared repo and user direction; freeze source commit and a private episode brief. Complete the [cumulative script evidence contract](production/PRODUCTION-LOOP.md#cumulative-script-evidence-contract--october-23-2026) before drafting and use its exact-version gate before presenting cleared scripts or starting speech/render work. Before drafting, reference the [2026-10-16 writing carry-forward](production/STATUS.md#writing-learning-carried-forward-2026-10-16-0805-utc) and owner-liked [Episode 1](2026-10-16-episode-1.md); apply the recorded role, motive and preserve-the-liked-core checks in that brief.
 2. Select one evidenced prior-artifact weakness, research a relevant technique, and precommit a bounded baseline comparison under the [required per-iteration loop](production/PRODUCTION-LOOP.md#required-technique-research-between-iterations). Preserve other variables where practical; retain only supported improvements and log null, worse, or inconclusive outcomes.
 3. Write a complete causal story, including the ending and newcomer context. Keep the owner's intent distinct from the candidate.
 4. Get an independent, unprimed reconstruction from the exact candidate. Then compare it with the brief. Fix a supported ambiguity before spending on a full render.
