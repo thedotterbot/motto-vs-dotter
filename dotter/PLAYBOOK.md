@@ -796,3 +796,35 @@ A format-specific gain must not erase the broader goal: if views rise without cr
 - [Meta: Instagram short-form video and messaging, September 28, 2025](https://about.fb.com/news/2025/09/in-india-instagram-debuts-a-reels-first-experience-for-its-mobile-app/): documents the importance of Reels and messaging, while its Reels-first launch is an India test. Do not generalize that interface test to our US account or infer a mandated posting ratio.
 - The Instagram ranking-explained URL returned HTTP429 during this pass. No bypass was attempted and its unavailable current text was not relied upon. Third-party anecdotes and purported universal carousel/reach ratios were not used as primary evidence.
 
+
+## October 23, 2026 update: connected Metricool measurement
+
+Jared requested regular Metricool engagement analysis. Incorporate this into the existing once-per-local-day measurement task and existing weekly review, not a parallel tracker or additional daily snapshot. The [shared sheet](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit) remains the measurement authority. Read the live Daily_Engagement A:Z contract and existing keys before every write. Preserve the canonical tabs, source contracts, prior observations and owner edits.
+
+### Collection and provenance
+
+1. Verify the connected brand resolves to exactly @dotterbot before using owner analytics. Query the available-metrics catalog each time a field is missing or deprecated. Do not change accounts, grant access or connect other profiles for this task.
+2. Query Instagram feed posts, Reels and account evolution separately, with an explicit date range and America/New_York offsets. Retain connector, field IDs, requested period, actual observation UTC, publication time and actual post age. Where supported, query publication-performance follows separately and avoid double-counting lifetime and daily performance rows.
+3. Label each populated value as **Metricool owner analytics**, native owner insights, or public Instagram observation. Metricool is not a Business Suite CSV export. Do not silently place its values in canonical columns whose source contract still requires that export. Use the existing daily source/notes fields or a clearly labeled Dotter-owned analytical note when the live contract lacks a compatible metric field; never repurpose a column or overwrite an earlier public observation.
+4. Motto remains public-source only. Its private reach, saves, shares, watch time and attributed follows remain unknown. Existing public/owner provenance and shared comparison rules are unchanged.
+5. Preserve one Account/Post key per America/New_York date and exact ID. Repeated delivery reuses the existing snapshot. The next scheduled daily pass may collect newly populated analytics, but do not invent historical daily observations or replace today's earlier observation with later values. A withdrawn post retains its publication and withdrawal evidence rather than disappearing from history.
+
+### Fields exposed by the connector catalog, checked October 23
+
+Catalog availability is not proof that this account has data for the metric.
+
+- Feed posts/carousels: exact ID/URL/time/type, comments, likes, organic reach, saves, shares, views and post-attributed follows (IGPO02/04/06/07/08/13/14/15/27/28/29).
+- Reels: ID/URL/time, comments, likes, organic reach, saves, shares, views, average watch time, total watch time, retention percentage, over-three-second view rate and reposts (IGRE02/04/06/07/10/11/12/21/23/24/25/27/28/29).
+- Account evolution: followers, followers gained and followers lost (IGEV01/43/44). Do not use deprecated IGEV03 as a substitute for separately observed gains/losses.
+- Publication performance: publication ID/date/format, performance date, views, saves, shares and attributed follows (IGPF01/02/03/04/05/09/10/11). Respect whether returned rows describe daily performance or cumulative post values.
+- Audience-type/account-format breakdowns exist in the catalog. Query only when needed and supported; account non-follower reach is not automatically post-level non-follower reach. Carousel slide completion and individual returning-viewer retention are not established by this catalog.
+
+At approximately 16:15 UTC on October 23, read-only queries covering October 16 through October 23 at 12:14 Eastern returned **no Reel, feed-post or publication-performance rows**. An account-evolution query returned zero-valued followers/gains/losses for October 23 despite the independently observed nonzero follower count. Those zeros are not accepted as valid engagement measurements. The connection was new that day; sync incompleteness is a possibility, not a verified cause. Retain the discrepancy, leave unavailable measurements blank with a reason, and recheck in the existing daily pass. No additional Daily_Engagement rows were created by this capability check.
+
+### Weekly interpretation
+
+Use the same mixed-format pilot review already defined above. Compare similar actual post ages and separate organic/paid definitions, views/reach, shares/reposts and average watch time/completion. Confirm units before calculations. The catalog's engagement descriptions and the brand's configured multiplier may differ; calculate labeled rates from raw numerator/denominator under the existing sheet definition instead of importing an unlabeled engagement score.
+
+Evaluate discovery and post-attributed follows only when rows actually populate; account net change cannot be assigned to a post. Use gains/losses as aggregate context, not cohort retention. Use saves/shares, meaningful comments and Reel watch behavior as supporting evidence. Missing, inconsistent or insufficient data makes the outcome inconclusive. Do not increase cadence, declare a winning format, or invent buyer/revenue attribution from raw views.
+
+This changes measurement inputs, not posting permissions, competition rules, cadence, or notification policy. Report meaningful findings, actionable blockers or needed decisions; routine null checks stay quiet.
