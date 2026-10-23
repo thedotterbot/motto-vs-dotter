@@ -1,3 +1,11 @@
+## Approved carousel publication in progress and account audit: 2026-10-23, 16:11 UTC
+
+- Owner-approved two-page carousel was reconciled against the live @dotterbot profile before submission: five existing Reels and no duplicate carousel. The exact approved media were retained in order and uploaded bytes matched the source hashes. No episode number was assigned.
+- One Instagram-only Metricool publication was scheduled for October 23 at 12:05 America/New_York (16:05 UTC), with automatic publishing and the native AI-generated flag enabled. At 16:10–16:11 UTC its state remained PUBLISHING and the live profile still showed five posts. This is not yet a verified release; no canonical release row or additional daily snapshot was added. Do not submit another copy while the outcome remains uncertain.
+- Read-only account audit at approximately 16:04–16:05 UTC found a public Creator account, profile suggestions and search indexing enabled, and no displayed reach restriction / recommendation ineligibility. No settings were changed. Highest-quality uploads, outgoing automatic captions and voice translation were not exposed in this desktop flow and remain unverified. The existing bio still describes videos rather than the newer comic mix.
+- The dated [PLAYBOOK](../PLAYBOOK.md) addendum records the October 26–November 8 capacity pilot: three comics and two quality-cleared Reels weekly, useful Stories on three or four days. This is a capacity experiment, not an evidence-proven optimum; prior hook testing remains held. No performance win is inferred.
+- Next: read-only reconciliation of this same publication until a live permalink or a concrete terminal error is established, then register only a verified release and preserve the exact result. No spending, account/access changes, Facebook cross-post, or extra community action.
+
 ## Private batch archive and Reel writing closeout: 2026-10-23, 15:39 UTC
 
 - The three comic candidates below and complete source/review history are backed up privately. The downloaded archive matched exact bytes, passed ZIP integrity, and matched all 30 member hashes. Superseded art, rejected writing and adverse reviews remain retained.
