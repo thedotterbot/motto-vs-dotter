@@ -34,6 +34,49 @@ Every candidate or material improvement revision must connect a documented weakn
 
 Keep the active checkpoint's next actions finite and ordered: (1) finish or recover the current candidate and exact-file QA; (2) run the smallest justified researched comparison; (3) record the result, retain/revert the change, and select the next evidenced weakness. Each action needs an artifact and completion condition. Do not open another full production stream or a speculative technique backlog. Repeated or worse outcomes remain part of the record; no monotonic quality gain or model-weight learning is promised.
 
+## Cumulative script evidence contract — October 23, 2026
+
+This section is the single operational contract for G0/G1 script acceptance. CHARACTER remains the identity authority and PLAYBOOK remains the quality-priority authority; do not copy their full rules into new competing manuals. Existing repair bounds and later production gates remain in force. This contract changes no publishing permissions, shared competition rules or account settings.
+
+### Before drafting: required private brief
+
+Create or update the existing private candidate record before writing dialogue. Preserve its version and source references:
+1. **Selected owner intent:** preferred premise, fixed choices, open choices, latest correction and earlier still-applicable requirements. Explicitly distinguish a revision inside the premise from an unselected alternative.
+2. **Carry-forward evidence:** at least one relevant liked example and one rejected/weak example, each with exact source ID, what worked/failed, applicability and contrary later feedback. Do not turn approval of one artifact into a universal formula.
+3. **Story facts:** who each character is; immediate scene/task; goal and motivation; starting state; mistaken belief or self-serving tactic; voluntary choice; consequence; ending state. Mark real facts, fictional staging and unknowns separately. Proposed changes must not appear to have already happened.
+4. **Selected requirements:** map each applicable requirement below to the proposed beat and intended evidence. “Not applicable” needs a story-specific explanation, not omission.
+5. **One bounded experiment:** exact baseline, one suspected weakness, one change, held variables, expected observable difference, comparison and stop condition. Repairing omitted mandatory context is defect correction, not proof of creative improvement.
+
+### Required content and evidence matrix
+
+For every exact candidate, retain a row for each item: requirement; exact line/action/beat; cold-reader evidence; status (satisfied / blocked / unverified / justified not applicable); smallest repair.
+- Hook in the first three seconds, with duration estimated until performed. The opening must create a concrete question or situation, not merely supply a label.
+- Newcomer identity: ChatGPT dot explained as an AI assistant, with own-computer agency and video-making purpose understandable inside the video.
+- Immediate task, goal and motivation before their consequences depend on them. A general biography cannot substitute for this scene.
+- Relevant follower ambition and rivalry: where competition motivates action, identify the rival and explain stakes in plain language. Do not force rival exposition into an unrelated scene or imply unknown results.
+- Character-specific belief/tactic, voluntary choice and caused consequence, including the before/after distinction. No missing essential causal link supplied only by the author's explanation.
+- Fidelity to the selected premise and consistent personality; revisions repair a supported defect without silently substituting a different concept.
+- Frozen visual/voice identity, speaker order, object ownership, feasible computer agency, continuity and anatomy. At script stage identify required later visual checks; do not mark them visually passed.
+- Separate humor finding: expectation, turn, strongest beat, weakest/predictable beat and what the ending adds. Clear, familiar, mild or charming are candid judgments, not automatically strong-comedy clearance.
+
+### Reviews and decision
+
+First give a fresh reader only the exact candidate and neutral format information, without the brief, desired interpretation or earlier verdict. Use sequential beats where information order matters. Freeze their reconstruction before showing later beats or explaining intent. Ask who Dotter is and what his computer enables, what he is doing now and why, what was true before versus merely proposed, which choice causes the change, and what makes the ending funny or unclear. Record their own answers and exact evidence, not just “pass.”
+
+Then separately compare the reconstruction with the frozen brief and the full requirement matrix. A reviewer may accurately reconstruct a narrower story that omitted the commissioned context; that does not pass fidelity. Preserve adverse findings. A reader familiar with prior drafts can perform a targeted recheck, not a newly unprimed test.
+
+Obtain a separate candid humor assessment of the exact candidate. Do not supply a target score or ask for validation. Keep reviewer opinion distinct from owner preference and measured audience response. Mild/predictable findings require an explicit hold or a bounded repair, not a silently upgraded pass. If the owner chooses a modest joke, preserve that as owner selection rather than critic proof.
+
+**No presentation as a cleared script, voice generation or render start while a mandatory story row is blocked or unsupported.** A deliberately requested rough draft may be shown only as such, with its unresolved issue, not disguised as cleared work. Any material text/action change invalidates affected review rows; bind reviews to the exact version/hash. A hook appended to an otherwise unmotivated scene does not resolve the missing causal context.
+
+The controller checks the packet before handoff and records the decision. Text gates do not certify performance: sampled frames, ASR, signal analysis, listening, continuous audiovisual viewing, subjective humor and audience response remain distinct. Missing modalities stay unverified and block claims that require them.
+
+### Carry-forward and enforcement limits
+
+Append the outcome to the existing private feedback ledger: source ID/date, exact artifact, owner response versus reviewer finding, keep/revert/inconclusive, reason, scope and next applicable test. Preserve rejected versions and later superseding feedback. Each next brief must select relevant rows, not merely say “read lessons.”
+
+A local packet validator may reject missing fields, stale artifact hashes, unresolved statuses or absent review references before a production handoff. Such validation checks record completeness and version binding only; it cannot prove truth, humor, impartial review or that every possible execution route obeys the gate. Do not claim a globally installed runtime hook. Report whether the controller actually ran the check on the current exact candidate.
+
 ## G1: story and newcomer test
 
 Make a complete script/beat map. State the character's desire, particular tactic, consequential choice, and caused ending. Include identity and stakes inside the video.
