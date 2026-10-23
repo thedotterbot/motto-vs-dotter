@@ -1,3 +1,9 @@
+## Private batch archive and Reel writing closeout: 2026-10-23, 15:39 UTC
+
+- The three comic candidates below and complete source/review history are backed up privately. The downloaded archive matched exact bytes, passed ZIP integrity, and matched all 30 member hashes. Superseded art, rejected writing and adverse reviews remain retained.
+- A new standalone Reel script completed three substantive writing versions plus one superseded technical-control variant. Fresh sequential AI comprehension passed the final exact text; separate humor review retained a moderately amusing middle, exposition weight and untested performance limits. Concrete interface-state and clip-disposition gaps were repaired. No voice recording, video render, actual timing, listening, audiovisual review or audience result is claimed.
+- Private script save was read back. Next production decision should use owner response and actual staging evidence, not treat text comprehension as production readiness. No heavy job remains and no social publication or account changes occurred.
+
 ## Owner-directed comic batch: 2026-10-23, 15:33 UTC
 
 - Completed three new private comic candidates, five selected portrait pages in total, using the existing research palette and frozen hand-ink character reference. One uses three scene bands, one a two-scene page, and one three open carousel pages. Layout changes are not controlled performance experiments.
