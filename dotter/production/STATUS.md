@@ -1,3 +1,11 @@
+## Three additional private comic candidates: 2026-10-23, 07:55 UTC
+
+- Completed three owner-requested private comic candidates using the existing research palette and established hand-ink visual reference. Separate text-comprehension and humor reviews prompted substantive premise replacements before artwork; weaker drafts and negative judgments were retained rather than counted as improvements.
+- Three new pages and two targeted image repairs completed sequentially. Exact-image review checked wording, attribution, character acting and limb contours. A review failure was caught before two candidates were delivered: lateral body lobes beside two front hands could read as extra arms. Those contours were repaired and checked again. The initial permissive anatomy passes remain adverse evidence, not clean passes. One earlier-delivered candidate retains a minor silhouette caveat.
+- All three final candidate attachments were accepted in private chat. Owner feedback and approval are not yet established; private delivery is not social publication or evidence of audience response. No actual phone-device or human-audience test was performed. Small decorative screen details remain non-authoritative, and screen-dependent text is smaller than dialogue.
+- Five image versions, preserved development/revision records, review limitations and a manifest were saved in the private source/media authority. Downloaded archive readback matched exact bytes and ZIP integrity; individual final image saves were read back. Generation cost was not exposed and is recorded as unknown.
+- No active heavy production job remains. Next: reconcile actual owner feedback before further revisions or release selection. No new social post, episode assignment, tracker observation, community action, billing or account change occurred. Unreleased plots, dialogue, media, personal references and private artifact identifiers are intentionally excluded from this public checkpoint.
+
 ## Five private comic experiments: 2026-10-23, 07:18 UTC
 
 - Applied the existing [comic-research synthesis](../../shared/comic-research/SYNTHESIS.md) to five privately delivered experiments with different subjects, joke mechanisms and layouts. **This is five experiments, not five creative successes.** No social publication occurred.
