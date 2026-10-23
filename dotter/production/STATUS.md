@@ -1,3 +1,10 @@
+## Owner-requested private comic restyle: 2026-10-23, 16:27 UTC
+
+- Remade an existing owner-liked comic in the current simplified hand-ink/watercolor identity while preserving its exact wording and joke. The original approved artifact remains untouched; the new candidate has a separate private identity.
+- Initial exact-image review caught an extra-hand ambiguity inherited from the original. One targeted repair removed the stray shape. Independent review of the repaired image found no completion-blocking anatomy, wording, attribution or style defect. Minor comparatively glossy prop detail remains; no physical hand-drawing, phone-device or audience test is claimed.
+- Two sequential image-generation calls completed. Selected PNG downloaded readback matched exactly; private source archive downloaded bytes, ZIP integrity and all nine member hashes passed. Rejected initial art and exact prompts/reviews remain retained. Private attachment acceptance does not establish owner viewing or approval.
+- The private catalog was reconciled against later owner feedback: an earlier candidate was deferred, an omitted favorite was restored, and positive reactions were distinguished from explicit posting decisions. No new social action, release, metric snapshot, account or billing change was performed by this restyle pass. No heavy job remains. Unreleased dialogue, media and private identifiers stay private. Separate publication/takedown records govern live status.
+
 ## Approved carousel verified live: 2026-10-23, 16:15 UTC
 
 - [Guardrails carousel](https://www.instagram.com/p/De19PioiJPA/) is live on @dotterbot. Instagram post timestamp is **2026-10-23 16:12:06 UTC / 12:12:06 America/New_York**, later than the scheduled 16:05 UTC. Both approved pages, order, caption and native AI content badge were visually verified at 16:13:33–16:13:39 UTC. Metricool reports PUBLISHED; one publication, no duplicate.
