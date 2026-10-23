@@ -718,3 +718,81 @@ Older reference files are dated snapshots. This repository is public.
 Earlier production checkpoints predate later context-review and profile work.
 Use exact artifact evidence and current owner decisions when reconciling
 them; shared rules change only with Jared's approval.
+
+
+## October 23, 2026 update: two-week Reels and comics pilot
+
+This dated operating decision responds to Jared's request to optimize discovery and follower retention across Reels and comics. It supersedes the daily-Reel **release target** above for this bounded pilot, while retaining daily private production opportunities, quality gates, all earlier outcomes and shared battle rules. It is not a proven optimal schedule. No posts were scheduled by this planning task.
+
+### What the current evidence does and does not say
+
+The [authoritative tracker](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit#gid=546596879), Daily_Engagement A59:Z68, was read on October 23. At 13:12–13:14 UTC, Dotter had 26 followers and five published Reels. Their public views were 145, 148, 145, 146 and 154 at very different ages: 177.72, 166.74, 158.11, 140.14 and 91.03 hours. Likes were 2, 2, 1, 1 and 3; each explicitly showed zero comments. These are not same-age performance comparisons. The +2 account followers since October 22 cannot be attributed to any post, format or outside comment. No Dotter comic was published at that observation; a later release must be registered separately rather than rewriting the snapshot.
+
+Private comic production has become faster than the full Reel pipeline, but owner judgments still range from rejected/confusing to positively received. Successful file creation and AI-review passes are not evidence of audience demand. Owner feedback improves release selection, not the public growth estimate. Reels remain constrained by complete voice, animation and audiovisual review. A writing draft is not a release-ready video.
+
+Metricool's connection to the exact @dotterbot account was verified on October 23 after 15:53 UTC. Its initial analytics queries returned no historical rows despite the known Reels. Connection is not proof that insights are populated; the cause and available history remain unverified. This supersedes the earlier no-connected-network access snapshot, not its historical truth.
+
+### Working allocation and roles
+
+For two weeks, aim for **five quality-cleared feed releases per week: three comic posts and two Reels**. A comic may be one illustrated page or a genuine multi-slide story; do not stretch a joke to hit a slide count. Keep **useful Stories on three or four days weekly**, normally one to three frames, and the already-authorized two specific outside comments per local day within one bounded community session. Prioritize real replies on our own posts. These are separate activities, not five interchangeable units of reach.
+
+- Reels: test discovery through clear audiovisual character comedy. Identify Dotter and his computer-based agency naturally; earn attention with the immediate situation before explaining the rivalry. This is a role hypothesis, not a claim that Reels always outperform comics.
+- Comics: develop recognizable relationships, readable dialogue, varied misunderstandings and replayable jokes at the reader's pace. They can also reach non-followers; do not assume they are only for existing followers or that more slides guarantee distribution.
+- Stories: orient new visitors, return to a released post, share already-public process evidence, or ask one specific question. They support continuity; they are not equivalent discovery reach.
+- Retention proposition: people return for the same recognizable, eager, vain, sometimes blindly optimistic character in genuinely different situations. Give each release a complete payoff. Use at most one natural follow reason rather than stacked engagement requests. The competition is recurring context, not essential homework.
+
+Three comic slots exploit current production capacity without abandoning motion-based discovery. Two Reel slots leave time for actual performance and continuous audiovisual review. Five total is an operational hypothesis, not an algorithmic requirement. Do not dump the private backlog or publish a 5/10 filler just to keep a slot.
+
+### Calendar, capacity and controls
+
+Pilot release window: **October 26–November 8, 2026**, America/New_York. Proposed routine slot is **6 p.m. local**, chosen for manageable review/publishing operations, not an established best audience hour. Daylight saving ends November 1: 6 p.m. is 22:00 UTC in the first week through October 31 and 23:00 UTC from November 1 onward. Use the named time zone, not a fixed UTC offset.
+
+- Monday October 26 / November 2: comic.
+- Tuesday October 27 / November 3: Reel.
+- Wednesday October 28 / November 4: comic.
+- Friday October 30 / November 6: Reel.
+- Saturday October 31 / November 7: comic.
+- Thursday and Sunday: no planned feed quota; review, production and useful Stories.
+- Stories: select three or four useful days around releases and one audience question; avoid repeating the same promotional frame daily.
+
+Existing specifically approved work before October 26 may proceed under its own checks and is labeled run-in, not silently added to the ten-post pilot. Only one feed release per day is planned. If the intended artifact is not ready, skip the slot and log why. Do not post a rough Reel, substitute a comic without recording the deviation, compress later releases, or imply a full pilot was delivered. If two finished Reels per week cannot meet the established quality gates, report the capacity shortfall and operate at three comics plus one Reel until reviewed; do not buy capacity.
+
+Keep one heavy production job and a resumable checkpoint. Retain the frozen visual identity, hand-drawn finish, legible text, explicit speech order, varied expressions and anatomy checks. Use original material, appropriate native AI disclosure, captions/accessibility and the exact account/media checks. No paid boosts, new language-version batch, Trial-Reel distribution change, cross-posting, or broad engagement expansion is part of this pilot.
+
+**Single primary experiment:** whether this mixed-format allocation is sustainable and shows enough discovery/following evidence to continue. The previous visible-problem versus confident-claim opening proposal is on hold, not declared won or lost. Keep the established clear-opening approach across both formats. Do not simultaneously optimize posting time, hook family, language and frequency. Format, topic, length, slide count and distribution still differ, so this is a descriptive operating pilot, not a randomized causal test. Do not repost the same joke in two formats merely to create a matched pair.
+
+### Measurement and interpretation
+
+The existing sheet remains the only measurement authority. The separate daily task still owns **one snapshot per America/New_York date**. Use its observations nearest 72 hours and seven days for each release, record actual ages, and compare within similar age bands. No extra snapshots to hit exact labels. If the nearest ages differ materially, display the mismatch rather than rank unlike observations as equivalent.
+
+Primary growth evidence, when truly available: post-attributed follows with their stated native definition, profile visits, non-follower reach and unique accounts reached. Preserve the shared follows-per-1,000-views definition; any follows-per-1,000-reached calculation must be separately labeled with raw numerator and denominator. Account net follower change remains a contextual trend, never post attribution.
+
+Supporting evidence: native sends/shares and saves with reach denominators; substantive comments; public likes; Reel watch time and native retention/skip data. Keep shares, reposts and sends distinct. Average watch time includes replay behavior and is not completion rate. Never compare a carousel's views/impressions directly with Reel plays as if they measured identical viewing.
+
+Follower retention: use aggregate follows/unfollows if the account exposes them, plus recurring audience response and Story participation as limited qualitative signals. Net follower growth alone cannot reveal churn or cohort retention. Do not construct individual follower dossiers. Carousel slide completion/swipe-through and returning-viewer cohorts stay unknown unless the product actually provides them; do not invent these metrics.
+
+Track production effort, number of repairs, missed slots and exact owner feedback beside the private production record. Record known costs separately from unknown tool/model costs. Faster output is useful only if the finished joke is understandable and visually sound. If owner insights remain unavailable, the growth comparison is necessarily inconclusive; public likes and views can still expose obvious issues but cannot prove conversion or retention.
+
+### Review and keep/revert/inconclusive rule
+
+- November 2: operational midpoint check only. Repair clear defects and access problems; do not crown a format from one spike or change the mix to chase early views.
+- November 9: review execution and provisional outcomes. The newest releases are not all seven days old.
+- **Final pilot review:** the first existing daily observation at least seven days after the final actual pilot release. If the last scheduled release is November 7 at 6 p.m. Eastern, that is ordinarily the November 15 morning snapshot, not November 14 morning. If publication slips, shift the review accordingly.
+
+**Keep for a replication cycle:** the mix can be delivered without weakening quality, and at least one format shows repeatable useful discovery/following evidence across more than one post while the other provides a credible complementary benefit or production advantage. Report raw counts and counterexamples. This retains a practical plan, not a proven optimum.
+
+**Revert the operational load:** repeated missed slots, forced filler, unresolved comprehension/visual defects, or production time crowding out review. Use the three-comic/one-Reel fallback; do not delete the weak posts or rewrite the failed schedule. A poor comic or Reel is not proof that its entire format fails.
+
+**Inconclusive:** insufficient comparable-age posts, missing insights, mixed results, fewer than ten relevant observed actions in a comparison, or one outlier dominating the result. Ten is the existing conservative reporting convention, not statistical significance. Continue the same mix for another bounded cycle if sustainable; do not increase frequency on inconclusive evidence.
+
+A format-specific gain must not erase the broader goal: if views rise without credible following or repeat-engagement evidence, improve the reason to return and repeat the test. No buyer, revenue, unique-viewer, viral-formula or victory claim follows from this pilot.
+
+### Current primary-source basis, checked October 23
+
+- [Meta: Instagram Best Practices, October 1, 2024](https://about.fb.com/news/2024/10/best-practices-education-hub-creators-instagram/): personalized professional-dashboard advice covers posting frequency, attention, engagement and Reels/follower growth. It does not prescribe this five-post mix. Account-specific guidance should be read when accessible.
+- [Meta: how AI ranks content, June 29, 2023](https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/): ranking uses multiple predictions, including sharing, across different surfaces. This supports examining multiple outcomes rather than optimizing one magic metric. It is an explanation, not a controlled cadence experiment.
+- [Meta: Instagram reposts, August 6, 2025](https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/): public feed posts and Reels can be recommended through others' reposts. Comics are not inherently barred from discovery. This is not permission to solicit coordinated reposting or run an engagement scheme.
+- [Meta: Reels insights, April 14, 2023](https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/): total watch time includes replays; average watch time is based on total plays. Interpret it separately from unique reach and completion.
+- [Meta: Instagram short-form video and messaging, September 28, 2025](https://about.fb.com/news/2025/09/in-india-instagram-debuts-a-reels-first-experience-for-its-mobile-app/): documents the importance of Reels and messaging, while its Reels-first launch is an India test. Do not generalize that interface test to our US account or infer a mandated posting ratio.
+- The Instagram ranking-explained URL returned HTTP429 during this pass. No bypass was attempted and its unavailable current text was not relied upon. Third-party anecdotes and purported universal carousel/reach ratios were not used as primary evidence.
+
