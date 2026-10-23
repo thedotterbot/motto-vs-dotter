@@ -1,3 +1,11 @@
+## Four-page private carousel experiment: 2026-10-23, 08:38 UTC
+
+- Completed an owner-requested unboxed, four-page portrait comic testing lateral movement and changing scenery across swipes rather than a fixed grid. Separate fresh sequential text-comprehension and humor reviews selected a simpler visual mechanism after an earlier draft was judged predictable. Rejected drafts and adverse judgments remain privately retained.
+- Five image-generation attempts produced four selected pages and one superseded first-page version. One targeted speech-bubble-order repair completed. Independent exact-image review found no completion-blocking defect, while retaining minor first-page reading-order risk, prop-scale drift, and compressed consecutive acting in the final image. Scene progression is coherent left-to-right movement, **not a pixel-perfect seamless panorama**. No actual phone-device or audience test was performed.
+- Four preview attachments were accepted in private chat, in two pairs at the owner's request. Owner approval of the complete sequence is not established. Delivery does not establish viewing, social publication, or audience response.
+- All four selected media files were saved in the private Library authority and downloaded again with exact SHA-256 matches. The private source archive preserves all five image versions, scripts, development records, review limits and verification results; downloaded archive bytes and ZIP integrity matched. Generation cost and underlying model version were not exposed.
+- No active heavy generation job remains. Next: reconcile owner feedback before revising or choosing any release. No social post, episode assignment, tracker observation, community action, account change or spending occurred. Unreleased plot, dialogue, personal reference material and private artifact identifiers are intentionally omitted from this checkpoint.
+
 ## Three additional private comic candidates: 2026-10-23, 07:55 UTC
 
 - Completed three owner-requested private comic candidates using the existing research palette and established hand-ink visual reference. Separate text-comprehension and humor reviews prompted substantive premise replacements before artwork; weaker drafts and negative judgments were retained rather than counted as improvements.
