@@ -1,3 +1,11 @@
+## Approved carousel verified live: 2026-10-23, 16:15 UTC
+
+- [Guardrails carousel](https://www.instagram.com/p/De19PioiJPA/) is live on @dotterbot. Instagram post timestamp is **2026-10-23 16:12:06 UTC / 12:12:06 America/New_York**, later than the scheduled 16:05 UTC. Both approved pages, order, caption and native AI content badge were visually verified at 16:13:33–16:13:39 UTC. Metricool reports PUBLISHED; one publication, no duplicate.
+- Canonical tracker **Dotter!A7:Z7** now records this Carousel, not a numbered Reel. Values and source notes read back; unknown metrics stay blank. Daily_Engagement and Motto-owned insights were not changed. [Release evidence and disclosure window](2026-10-23-guardrails-carousel-release.md).
+- Exact approved source media remain in the private approved-comics Library folder. A private publication record was saved and exact-byte read back, preserving failed setup tests, hashes, caption, identifiers and verification limits. No performance result is claimed.
+- Detailed sanitized methodology belongs in the shared **October 24 16:12:06 UTC to October 25 16:12:06 UTC** window, not before. Next daily observation should use actual age. User confirmation send was accepted at 16:14:07 UTC; acceptance is not viewing evidence.
+- The earlier PUBLISHING checkpoint below is retained as history and is now resolved. The read-only account audit and [PLAYBOOK](../PLAYBOOK.md) capacity pilot remain unchanged. No heavy production job, new access change, spending, Facebook cross-post or extra community action occurred.
+
 ## Approved carousel publication in progress and account audit: 2026-10-23, 16:11 UTC
 
 - Owner-approved two-page carousel was reconciled against the live @dotterbot profile before submission: five existing Reels and no duplicate carousel. The exact approved media were retained in order and uploaded bytes matched the source hashes. No episode number was assigned.
