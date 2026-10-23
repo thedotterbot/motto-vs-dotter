@@ -1,0 +1,162 @@
+# Searchable reading index
+
+Each entry links to the inspected source, with its locator and an original analytical title or synopsis. Full records are in [index.json](index.json), [index.csv](index.csv), and the study notes. Dates omitted below are explicitly unknown in the structured records.
+
+## Early
+
+- **CH-E001**: [Bait that defines a relationship](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_1.jpg). Calvin and Hobbes; p.6, top; original date: 1985-11-18.
+- **CH-E002**: [A scapegoat refuses to cooperate](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_1.jpg). Calvin and Hobbes; p.6, bottom; original date: unknown.
+- **CH-E003**: [A successful escape precedes ordinary failure](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_1.jpg). Calvin and Hobbes; p.7, top; original date: unknown.
+- **CH-E004**: [Advocacy stops at the advocate’s comfort](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_1.jpg). Calvin and Hobbes; p.7, middle; original date: unknown.
+- **CH-E005**: [Reassurance becomes evidence against the offer](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_1.jpg). Calvin and Hobbes; p.7, bottom; original date: unknown.
+- **CH-E006**: [The safety plan manufactures its emergency](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_2.jpg). Calvin and Hobbes; p.8, full page; original date: unknown.
+- **CH-E007**: [A bluff answers a bluff](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_2.jpg). Calvin and Hobbes; p.9, top; original date: unknown.
+- **CH-E008**: [Negotiation uncovers the desired harm](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_2.jpg). Calvin and Hobbes; p.9, middle; original date: unknown.
+- **CH-E009**: [Worldbuilding reveals its destructive purpose](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_2.jpg). Calvin and Hobbes; p.9, bottom; original date: unknown.
+- **CH-E010**: [The refusal becomes the demonstration](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_3.jpg). Calvin and Hobbes; p.17, top; original date: unknown.
+- **CH-E011**: [Courtesy continues through catastrophe](https://publishingassets.andrewsmcmeel.com/productimages/9780836220889_insidepage_4.jpg). Calvin and Hobbes; p.59, full page; original date: unknown.
+- **CH-E012**: [Evaluation arrives before imagined practice ends](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_1.jpg). Something Under the Bed Is Drooling; p.78, top; original date: unknown.
+- **CH-E013**: [A conditional promise becomes a loophole](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_1.jpg). Something Under the Bed Is Drooling; p.78, middle; original date: unknown.
+- **CH-E014**: [Self-satisfaction survives unfavorable comparison](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_1.jpg). Something Under the Bed Is Drooling; p.79, top; original date: unknown.
+- **CH-E015**: [Both sides exploit the same pretend rule](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_1.jpg). Something Under the Bed Is Drooling; p.79, middle; original date: unknown.
+- **CH-E016**: [A gap in authority becomes an opening](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_2.jpg). Something Under the Bed Is Drooling; p.110, top; original date: unknown.
+- **CH-E017**: [The warning identifies its own subject](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_2.jpg). Something Under the Bed Is Drooling; p.110, middle; original date: unknown.
+- **CH-E018**: [A short encounter implies a larger disruption](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_2.jpg). Something Under the Bed Is Drooling; p.110, bottom; original date: unknown.
+- **CH-E019**: [The irrelevant variable is emotionally relevant](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_2.jpg). Something Under the Bed Is Drooling; p.111, top; original date: unknown.
+- **CH-E020**: [A truce preserves two grievances](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_3.jpg). Something Under the Bed Is Drooling; p.112, full page; original date: unknown.
+- **CH-E021**: [Authority turns curiosity into a distress signal](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_3.jpg). Something Under the Bed Is Drooling; p.113, top; original date: unknown.
+- **CH-E022**: [Panel duration becomes the argument](https://publishingassets.andrewsmcmeel.com/productimages/9780836218251_insidepage_4.jpg). Something Under the Bed Is Drooling; p.115, full page; original date: unknown.
+- **CH-E023**: [An absent ritual becomes a threat](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_1.jpg). Yukon Ho!; p.8, top; original date: unknown.
+- **CH-E024**: [The expected nuisance is also attention](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_1.jpg). Yukon Ho!; p.8, middle; original date: unknown.
+- **CH-E025**: [The narrator protects the athlete](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_1.jpg). Yukon Ho!; p.8, bottom; original date: unknown.
+- **CH-E026**: [A child becomes an alternative instruction manual](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_1.jpg). Yukon Ho!; p.9, full page; original date: unknown.
+- **CH-E027**: [A secret as a cover for ignorance](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_2.jpg). Yukon Ho!; p.10, top; original date: unknown.
+- **CH-E028**: [The heroic transformation is the obstacle](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_2.jpg). Yukon Ho!; p.10, middle; original date: unknown.
+- **CH-E029**: [Curiosity turns inward](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_2.jpg). Yukon Ho!; p.10, bottom; original date: unknown.
+- **CH-E030**: [The game is an excuse for the relationship](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_2.jpg). Yukon Ho!; p.11, full page; original date: unknown.
+- **CH-E031**: [A grand ideology meets a small boundary](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_3.jpg). Yukon Ho!; p.12, top; original date: unknown.
+- **CH-E032**: [Fantasy explains a real breach of manners](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_3.jpg). Yukon Ho!; p.12, bottom; original date: unknown.
+- **CH-E033**: [The observer withdraws from a dark game](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_3.jpg). Yukon Ho!; p.13, top; original date: unknown.
+- **CH-E034**: [Advice is already an attack](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_4.jpg). Yukon Ho!; p.14, top; original date: unknown.
+- **CH-E035**: [A lesson in vulnerability fails to generalize](https://publishingassets.andrewsmcmeel.com/productimages/9780836218350_insidepage_4.jpg). Yukon Ho!; p.15, full page; original date: unknown.
+
+## Middle
+
+- **CH-9780836218787-p026-top**: [Packaging mistaken for preparation](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_1.jpg). Printed page 26, top; original date: unknown.
+- **CH-9780836218787-p026-middle**: [Authority without knowledge](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_1.jpg). Printed page 26, middle; original date: unknown.
+- **CH-9780836218787-p026-bottom**: [Evidence that misses the point](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_1.jpg). Printed page 26, bottom; original date: unknown.
+- **CH-9780836218787-p027-full**: [The climax of history watches television](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_1.jpg). Printed page 27, full; original date: unknown.
+- **CH-9780836218787-p028-full**: [A ritual that requires household service](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_2.jpg). Printed page 28, full; original date: unknown.
+- **CH-9780836218787-p029-top**: [Grossness without the usual prop](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_2.jpg). Printed page 29, top; original date: unknown.
+- **CH-9780836218787-p029-middle**: [An alarming call with ordinary stakes](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_2.jpg). Printed page 29, middle; original date: unknown.
+- **CH-9780836218787-p029-bottom**: [The forest judges humanity](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_2.jpg). Printed page 29, bottom; original date: unknown.
+- **CH-9780836218787-p030-top**: [Getting dressed against the specification](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_3.jpg). Printed page 30, top; original date: unknown.
+- **CH-9780836218787-p030-middle**: [A friend’s answer becomes a threat](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_3.jpg). Printed page 30, middle; original date: unknown.
+- **CH-9780836218787-p030-bottom**: [A defensive label for an excessive reflex](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_3.jpg). Printed page 30, bottom; original date: unknown.
+- **CH-9780836218787-p031-full**: [The morning cannot escape its rehearsal](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_3.jpg). Printed page 31, full; original date: unknown.
+- **CH-9780836218787-p032-top**: [An impossible event receives an ordinary rebuke](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 32, top; original date: unknown.
+- **CH-9780836218787-p032-middle**: [A scientific explanation that protects the fantasy](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 32, middle; original date: unknown.
+- **CH-9780836218787-p032-bottom**: [A crisis becomes a useful exemption](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 32, bottom; original date: unknown.
+- **CH-9780836218787-p033-top**: [The catastrophe as a family service plan](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 33, top; original date: unknown.
+- **CH-9780836218787-p033-middle**: [Freedom measured from the wrong surface](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 33, middle; original date: unknown.
+- **CH-9780836218787-p033-bottom**: [Reality interrupts the escape maneuver](https://publishingassets.andrewsmcmeel.com/productimages/9780836218787_insidepage_4.jpg). Printed page 33, bottom; original date: unknown.
+- **CH-9780836218831-p036-top**: [A self-portrait that defeats diplomacy](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 36, top; original date: unknown.
+- **CH-9780836218831-p036-middle**: [The preemptive defense supplies the evidence](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 36, middle; original date: unknown.
+- **CH-9780836218831-p036-bottom**: [Arithmetic reclassified as political corruption](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 36, bottom; original date: unknown.
+- **CH-9780836218831-p037-top**: [The escape career needs the hated skill](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 37, top; original date: unknown.
+- **CH-9780836218831-p037-middle**: [Ownership corrupts the demonstration](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 37, middle; original date: unknown.
+- **CH-9780836218831-p037-bottom**: [The lesson worked, just not as intended](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_1.jpg). Printed page 37, bottom; original date: unknown.
+- **CH-9780836218831-p060-full**: [Dinner becomes a reciprocal combat](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_2.jpg). Printed page 60, full; original date: unknown.
+- **CH-9780836218831-p061-top**: [Ideal freedom cancels the ideal activity](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_2.jpg). Printed page 61, top; original date: unknown.
+- **CH-9780836218831-p061-middle**: [The accident was preventable](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_2.jpg). Printed page 61, middle; original date: unknown.
+- **CH-9780836218831-p061-bottom**: [A boundary defeated by changing the format](https://publishingassets.andrewsmcmeel.com/productimages/9780836218831_insidepage_2.jpg). Printed page 61, bottom; original date: unknown.
+- **CH-9780836217353-p030-top**: [The boast supplies the target](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_1.jpg). Printed page 30, top; original date: unknown.
+- **CH-9780836217353-p030-bottom**: [A maxim meets its immediate surroundings](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_1.jpg). Printed page 30, bottom; original date: unknown.
+- **CH-9780836217353-p031-full**: [Nature is appealing until it requires survival](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_1.jpg). Printed page 31, full; original date: unknown.
+- **CH-9780836217353-p032-top**: [Parent and child share the grievance](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_2.jpg). Printed page 32, top; original date: unknown.
+- **CH-9780836217353-p032-bottom**: [Denial after a disturbing doorstep discovery](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_2.jpg). Printed page 32, bottom; original date: unknown.
+- **CH-9780836217353-p033-top**: [A landscape-scale answer to an unshown complaint](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_2.jpg). Printed page 33, top; original date: unknown.
+- **CH-9780836217353-p033-bottom**: [The customer wants the impossible service](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_2.jpg). Printed page 33, bottom; original date: unknown.
+- **CH-9780836217353-p034-top**: [A walk through someone else’s surplus energy](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_3.jpg). Printed page 34, top; original date: unknown.
+- **CH-9780836217353-p034-bottom**: [Victory cannot keep producing pleasure](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_3.jpg). Printed page 34, bottom; original date: unknown.
+- **CH-9780836217353-p035-full**: [Figurative discipline becomes a transaction](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_3.jpg). Printed page 35, full; original date: unknown.
+- **CH-9780836217353-p036-top**: [A relevant question at the wrong scale](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_4.jpg). Printed page 36, top; original date: unknown.
+- **CH-9780836217353-p036-bottom**: [Disgust as a form of delight](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_4.jpg). Printed page 36, bottom; original date: unknown.
+- **CH-9780836217353-p037-top**: [The search creates the problem the object prevents](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_4.jpg). Printed page 37, top; original date: unknown.
+- **CH-9780836217353-p037-bottom**: [An incompatible invitation interrupts satisfying play](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_4.jpg). Printed page 37, bottom; original date: unknown.
+- **CH-9780836217353-p042-top**: [Instinct as a post-hoc excuse](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_5.jpg). Printed page 42, top; original date: unknown.
+- **CH-9780836217353-p042-bottom**: [Apparent sympathy exposes unequal freedom](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_5.jpg). Printed page 42, bottom; original date: unknown.
+- **CH-9780836217353-p043-full**: [The fantasy repairs the whole family](https://publishingassets.andrewsmcmeel.com/productimages/9780836217353_insidepage_5.jpg). Printed page 43, full; original date: unknown.
+
+## Late
+
+- **CH-L-001**: [Unwanted free samples](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_1.jpg). Printed page 60, top; original date: unknown.
+- **CH-L-002**: [Being carried is hard work](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_1.jpg). Printed page 60, bottom; original date: unknown.
+- **CH-L-003**: [A catastrophe no one else sees](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_1.jpg). Printed page 61, full Sunday; original date: unknown.
+- **CH-L-004**: [Freedom narrowly defined](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_2.jpg). Printed page 62, top; original date: unknown.
+- **CH-L-005**: [Quiet cannot be fun](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_2.jpg). Printed page 62, bottom; original date: unknown.
+- **CH-L-006**: [Performing independence](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_2.jpg). Printed page 63, top; original date: unknown.
+- **CH-L-007**: [Learning as an inconvenience](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_2.jpg). Printed page 63, bottom; original date: unknown.
+- **CH-L-008**: [Fundraising by escalation](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_3.jpg). Printed page 64, top; original date: unknown.
+- **CH-L-009**: [Paying to be ambushed](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_3.jpg). Printed page 64, bottom; original date: unknown.
+- **CH-L-010**: [Calvin arrives for lunch](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_3.jpg). Printed page 65, full Sunday; original date: unknown.
+- **CH-L-011**: [A suspicious measurement](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_4.jpg). Printed page 66, top; original date: unknown.
+- **CH-L-012**: [Changing the terrain](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_4.jpg). Printed page 66, bottom; original date: unknown.
+- **CH-L-013**: [Prepared for the ambush](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_4.jpg). Printed page 67, top; original date: unknown.
+- **CH-L-014**: [Choosing an art label](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_4.jpg). Printed page 67, bottom; original date: unknown.
+- **CH-L-015**: [Bad luck accumulates](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_8.jpg). Printed page 33, complete right-page Sunday; original date: unknown.
+- **CH-L-016**: [The value of a thought](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_9.jpg). Printed page 47, top, fully visible right page; original date: unknown.
+- **CH-L-017**: [Calculating wasted time](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_9.jpg). Printed page 47, bottom, fully visible right page; original date: unknown.
+- **CH-L-018**: [Finding a quiet refuge](https://publishingassets.andrewsmcmeel.com/productimages/9780836221367_insidepage_10.jpg). Printed page 114, complete left-page Sunday; original date: unknown.
+- **CH-L-019**: [Lobbying for a better grade](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_2.jpg). Book 11, printed page 8, top; original date: unknown.
+- **CH-L-020**: [A journal for posterity](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_2.jpg). Book 11, printed page 8, bottom; original date: unknown.
+- **CH-L-021**: [An excellent idea for someone else](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_2.jpg). Book 11, printed page 9, top; original date: unknown.
+- **CH-L-022**: [A poem examined literally](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_2.jpg). Book 11, printed page 9, bottom; original date: unknown.
+- **CH-L-023**: [The mechanized morning](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_3.jpg). Book 11, printed page 10, full Sunday; original date: unknown.
+- **CH-L-024**: [The boredom announcement](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_3.jpg). Book 11, printed page 11, top; original date: unknown.
+- **CH-L-025**: [A scholarly request for mischief](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_3.jpg). Book 11, printed page 11, bottom; original date: unknown.
+- **CH-L-026**: [Memoir without disclosure](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_4.jpg). Book 11, printed page 12, top; original date: unknown.
+- **CH-L-027**: [Peanut-butter doctrine](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_4.jpg). Book 11, printed page 12, bottom; original date: unknown.
+- **CH-L-028**: [The mystery inside the trousers](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_4.jpg). Book 11, printed page 13, top; original date: unknown.
+- **CH-L-029**: [Two theories of infancy](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_4.jpg). Book 11, printed page 13, bottom; original date: unknown.
+- **CH-L-030**: [The scale of a meal](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_6.jpg). Book 12, printed page 8, top; original date: unknown.
+- **CH-L-031**: [The pitch and the flinch](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_6.jpg). Book 12, printed page 8, bottom; original date: unknown.
+- **CH-L-032**: [A small achievement deserves a parade](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_6.jpg). Book 12, printed page 9, full Sunday; original date: unknown.
+- **CH-L-033**: [A contract cannot stop a bully](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_7.jpg). Book 12, printed page 10, top; original date: unknown.
+- **CH-L-034**: [Parenthood on trial](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_7.jpg). Book 12, printed page 10, bottom; original date: unknown.
+- **CH-L-035**: [Compensation instead of learning](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_7.jpg). Book 12, printed page 11, top; original date: unknown.
+- **CH-L-036**: [The unwanted relationship ends quickly](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_7.jpg). Book 12, printed page 11, bottom; original date: unknown.
+- **CH-L-037**: [Friendship with penalties](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_8.jpg). Book 12, printed page 12, top; original date: unknown.
+- **CH-L-038**: [An authoritative false explanation](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_8.jpg). Book 12, printed page 12, bottom; original date: unknown.
+- **CH-L-040**: [The hostile bicycle](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_9.jpg). Photographed complete left page, printed page 54; book number not visible; original date: unknown.
+- **CH-L-041**: [The cook’s secret recipe](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_10.jpg). Photographed complete left page, printed page 66; book number not visible; original date: unknown.
+- **CH-L-042**: [A private dance floor](https://publishingassets.andrewsmcmeel.com/productimages/9781524890698_insidepage_11.jpg). Photographed complete left page, printed page 70; book number not visible; original date: unknown.
+
+## Comparisons
+
+- **PN-01**: [An elaborate farewell to Snoopy resolves into an ordinary bedtime.](https://schulzmuseum.org/celebrating-peanuts-online/). Charlie Brown section, first Peanuts artwork, labeled November 25, 1950.; original date: 1950-11-25.
+- **PN-02**: [Charlie Brown’s gracious defeat fails to satisfy Lucy.](https://schulzmuseum.org/celebrating-peanuts-online/). Charlie Brown section, third Peanuts artwork, labeled November 8, 1969.; original date: 1969-11-08.
+- **PN-03**: [A musician’s recurring note contrasts with a pitcher’s recurring failure cue.](https://schulzmuseum.org/celebrating-peanuts-online/). Schroeder section, fourth artwork, labeled June 17, 1995.; original date: 1995-06-17.
+- **PN-04**: [Snoopy’s abrupt stop turns a ball chase into a tumble.](https://schulzmuseum.org/celebrating-peanuts-online/). Snoopy section, first artwork, labeled September 20, 1952.; original date: 1952-09-20.
+- **PN-05**: [A roadside warning leads Linus to discover Snoopy’s imagined aerial authority.](https://schulzmuseum.org/celebrating-peanuts-online/). Snoopy section, fourth artwork, labeled January 26, 1981.; original date: 1981-01-26.
+- **PN-06**: [Franklin returns a beach ball; a shared activity opens a new acquaintance.](https://schulzmuseum.org/celebrating-peanuts-online/). Franklin section, first artwork, labeled July 31, 1968.; original date: 1968-07-31.
+- **PN-07**: [Snoopy’s birdwatching wordplay amuses him far more than the birds.](https://schulzmuseum.org/celebrating-peanuts-online/). Woodstock section, third artwork, labeled November 22, 1986.; original date: 1986-11-22.
+- **PN-08**: [An ominous approaching noise turns out to be a toddler’s hopping game.](https://schulzmuseum.org/celebrating-peanuts-online/). Linus section, first artwork, labeled November 17, 1953.; original date: 1953-11-17.
+- **PN-09**: [Snoopy’s reassurance about unrealized greatness slowly collapses into doubt.](https://schulzmuseum.org/celebrating-peanuts-online/). Woodstock section, fourth artwork, labeled February 10, 1996.; original date: 1996-02-10.
+- **PN-10**: [A seasonal reading acquires a conspicuous carefree counterexample.](https://schulzmuseum.org/celebrating-peanuts-online/). Snoopy section, second artwork, labeled November 27, 1957.; original date: 1957-11-27.
+- **PN-11**: [Linus’s fetch instructions encounter Snoopy’s incompatible judgment of the game.](https://schulzmuseum.org/celebrating-peanuts-online/). Snoopy section, third artwork, labeled May 1, 1963.; original date: 1963-05-01.
+- **PDL-01**: [A lamp’s account of its work becomes a small meditation on mortality and aspiration.](https://poorlydrawnlines.com/comic/a-lamp/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-09-15.
+- **PDL-02**: [A supposedly ancient tree discovers that its visitor is older.](https://poorlydrawnlines.com/comic/the-forest/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-08-20.
+- **PDL-03**: [A familiar pet nuisance is reframed as the cat’s desire for cultural participation.](https://poorlydrawnlines.com/comic/the-cat-and-the-glass/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2025-05-09.
+- **PDL-04**: [Two cats exchange affection hedged by comically limited reliability.](https://poorlydrawnlines.com/comic/a-good-friend/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-02-20.
+- **PDL-05**: [A friend’s request for emotional support exposes two wildly mismatched intervention styles.](https://poorlydrawnlines.com/comic/care-about-stuff/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-02-24.
+- **PDL-06**: [A ghost mistakes literal visibility for emotional recognition, then reciprocates it.](https://poorlydrawnlines.com/comic/see-you/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-10-08.
+- **PDL-07**: [An overbroad flying club contains members whose needs make coexistence impossible.](https://poorlydrawnlines.com/comic/things-that-can-fly/). The comic artwork between the top and bottom previous/random/next navigation on this individual creator page.; original date: 2026-09-30.
+- **FS-01**: [A helpful moose warns lost children about dangerous bears.](https://www.thefarside.com/). Daily Dose artwork 1 of 5 under the visible heading Friday, October 23, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-02**: [A casual team-selection convention becomes absurdly unsafe in armored combat.](https://www.thefarside.com/). Daily Dose artwork 2 of 5 under the visible heading Friday, October 23, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-03**: [A server hesitates over meals despite two strongly contrasted diner designs.](https://www.thefarside.com/). Daily Dose artwork 3 of 5 under the visible heading Friday, October 23, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-04**: [Excavators interpret a mail carrier and pursuing dog as a remarkable fossil find.](https://www.thefarside.com/). Daily Dose artwork 4 of 5 under the visible heading Friday, October 23, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-05**: [A forest officer applies an ordinary hunting limit to fairy-tale quarry.](https://www.thefarside.com/). Daily Dose artwork 5 of 5 under the visible heading Friday, October 23, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-06**: [A sandcastle inhabitant predicts an apocalypse whose cause is visibly ordinary.](https://www.thefarside.com/2026/10/22). Daily Dose artwork 3 of 5 under the visible heading Thursday, October 22, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+- **FS-07**: [A shopkeeper’s suspicion is made literal by incompletely rendered visitors.](https://www.thefarside.com/2026/10/22). Daily Dose artwork 5 of 5 under the visible heading Thursday, October 22, 2026; excludes the homepage splash/header illustration.; original date: unknown.
+
