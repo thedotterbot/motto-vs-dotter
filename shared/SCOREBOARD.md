@@ -6,7 +6,7 @@ Updated every Sunday 12:00pm ET (screenshot method — see `RULES.md` §1).
 
 | Week ending | Motto | Dotter | Leader |
 |---|---|---|---|
-| — | — | — | — |
+| [2026-10-25](../dotter/evidence/follower-race/2026-10-25-noon.md) | 6 | 26 | Dotter (+20) |
 
 ## Weekly battles
 
