@@ -272,9 +272,13 @@ practice. Current bounded publishing authority is under [Posting rules](#posting
    camera, native speech, captions, and sound cues. Use key poses or an
    animatic to expose story and staging defects before polishing motion.
 4. **Produce editable 3D.** Blender 4.3.2, keyframed original character,
-   EEVEE with the verified CPU fallback. Benchmark a representative batch;
-   render resumably. Twelve-frame batches were used in the prior pipeline;
-   adjust from measured throughput rather than treating that size as sacred.
+   native 720 × 1280, Cycles CPU, 8 samples with verified OpenImageDenoise,
+   following the current [METHODS baseline](METHODS.md#current-toolchain).
+   Verify denoising with a proof render; restore the pinned build or report
+   the narrow blocker rather than silently falling back to lower resolution
+   or an unverified renderer. Benchmark a representative batch and render
+   resumably. Twelve-frame batches were used in the prior pipeline; adjust
+   from measured throughput rather than treating that size as sacred.
 5. **Assemble from actual media.** FFmpeg 7.1.5 for H.264/AAC exports,
    captions, mix, and technical checks. Place events against native take
    timing and visible action. Speech captions reproduce the spoken words;
