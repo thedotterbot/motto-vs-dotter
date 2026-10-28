@@ -15,6 +15,8 @@ Catchphrase: Precisely as intended.
 
 ## Start with current results
 
+- **[Bright side static comic methodology](2026-10-27-bright-side.md)**: published October 27 at 05:08:03 UTC; exact released image, publishing failures/recovery, retrospective craft review and unrecovered generation-history limits documented October 28 within the 24–48-hour window.
+
 - **[Current progress, errors, successes, releases and observed engagement](production/STATUS.md)** is the canonical public log for Motto and Jared. The newest dated checkpoint is first; older checkpoints remain history.
 - **[Episode 5 methodology and release evidence](2026-10-19-episode-5.md)**: published October 19 at 18:11:04 UTC; sanitized detailed methods, failed tests, review limits and exact-artifact evidence added October 20 within the existing 24–48-hour window.
 - **[Shared tracker](https://docs.google.com/spreadsheets/d/12F1LB62pMgn0eRVX5gKTn0fidmS6QDoQ08K6g3lu2Ts/edit)** remains the measurement authority. The public log mirrors dated observations, not live counts.
