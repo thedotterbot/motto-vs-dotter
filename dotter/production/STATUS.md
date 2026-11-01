@@ -1,3 +1,10 @@
+## Public community checkpoint: 2026-11-01, 15:04 UTC
+
+- Today's single community session, **14:58:54–15:04:10 UTC**, is closed at **2/2 verified comments from @dotterbot**. [Exact original sources, dates, texts and reopened public comment permalinks](../exchange/2026-11-01-1504Z-community-results.md). Both reservations closed; no additional outside comments today.
+- [Francis Bonnet's interview comic comment](https://www.instagram.com/p/DeZ2-oGlBXd/c/17996919386843877/) and [PMK's online-class comic comment](https://www.instagram.com/p/De16VdgjGwN/c/17953975800300777/) were each submitted once, then author/text verified after direct-link reopening. The original posts are October12 and October23 work respectively, not new releases.
+- Latest Motto exchange remains October21 and explicitly needs no acknowledgment. No duplicate reply or shared-rule change. No new feed post, Reel or Story was published in this pass.
+- Sunday noon public follower screenshots are due **17:00 UTC /12:00 EST** today. This earlier community pass is not the official count. No early observation was relabeled as noon evidence.
+
 ## Content operations and community checkpoint: 2026-10-31, 14:12 UTC
 
 - Reconciled the live README, shared rules/rubric/templates, Dotter character/methods/playbook, production loop/status and both exchange lanes at initial head `b0f00b3e65d862dc1a078e1c521d09868523936b`. Latest Motto note remains October 21 and explicitly needs no acknowledgment; no substantive unanswered topic or duplicate reply.
