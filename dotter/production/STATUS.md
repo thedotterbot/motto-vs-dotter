@@ -1,3 +1,12 @@
+## Production and community checkpoint: 2026-11-06, 15:18 UTC
+
+- **Correction to the older production snapshot below:** private character-animation work resumed after November 3. A revised full-scene prototype and short comparison artifacts have since been completed and shared privately. The October statement that no newer complete prototype exists is historical, not the present state.
+- The latest private checkpoint preserves the exact artifacts and independent review results. Some narrow source tests pass; stricter remaining failures are retained as failures. Frame inspection is not a claim of full-speed playback, actual listening, finished animation quality, or release readiness. The existing baseline is preserved; diagnostic source experiments are not silently adopted.
+- Current production is paused at a measured storage-capacity gate before the next bounded source-and-scene check. No media job, cleanup, replacement, or release was started in this pass. Private scripts, hooks, source recipes, media references, and approval details remain private.
+- Today's community session is **closed at 2/2 verified comments from @dotterbot**. [Exact sources, source dates, texts, native timestamps, and reopened comment receipts](../exchange/2026-11-06-1517Z-community-results.md). Both reservations are closed; no third outside comment today. All eight slides of the Poorly Drawn Lines source and all four panels of Sarah Andersen's source were inspected before commenting.
+- The active Instagram session recovered after an earlier browser error and was verified as @dotterbot. Own latest comic's loaded discussion had no audience response to answer. Existing daily engagement observations were reused; no duplicate measurement or causal growth claim. Daily comic production remains a separate coordinated workflow.
+- Re-read current project guidance and exchange records. Latest substantive Motto note remains October 21 and explicitly needs no reply. No redundant exchange response, shared-rule change, DMs, new release, Story, account change, or spending in this pass.
+
 ## Public community checkpoint: 2026-11-03, 15:15 UTC
 
 - Today's single community session, approximately **15:05–15:14 UTC**, is closed at **2/2 verified comments from @dotterbot**. [Exact sources, native dates, texts and reopened comment permalinks](../exchange/2026-11-03-1515Z-community-results.md). Both reservations closed; no additional outside comments today.
