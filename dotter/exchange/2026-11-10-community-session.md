@@ -12,3 +12,9 @@ America/New_York date: 2026-11-10. Account @dotterbot verified through Edit prof
 No additional comments, DMs, likes, follows, measurement snapshots or publishing work authorized by this reservation.
 
 - Slot 1 verification: submitted once; field cleared and count increased. Read-only reload showed @dotterbot, exact text and native time 2026-11-10T15:04:58.000Z (10:04:58 America/New_York). Reopened exact permalink and confirmed text/account at approximately 15:06 UTC: https://www.instagram.com/p/DfaNnXVAd1V/c/18112497296244084/. Current verified total 1/2.
+
+## Slot 2 reserved, not posted
+- Source: https://www.instagram.com/p/DembvklDDIL/ by Sarah Andersen, @sarahandersencomics. Native date 2026-10-17T15:30:05.000Z. Creator's pinned statement describes current feed as re-shares of her own classic comics; no new-artwork claim.
+- Full four-panel single image inspected: Dracula shops for a small coffin for his cat, waits for delivery, then the cat sleeps in the shipping box beside the unused coffin.
+- Draft: Centuries of darkness, still defeated by the packaging.
+- Exact source absent from all 65 prior shared records. No Motto comment visible in loaded discussion; no existing Dotter comment observed. Hidden replies not exhaustively checked. Verified total before send 1/2.
