@@ -2,7 +2,7 @@
 
 America/New_York date 2026-11-13. Evening session after browser capability returned. @dotterbot owner profile verified through Edit profile and View archive. Current repository had no today's record; 68 existing community/comment records read for dedup. Latest own-post discussion had only caption, no reply needing action. No measurement snapshot.
 
-## Slot 1 reserved, not yet posted
+## Slot 1 reservation and verified receipt
 - Source https://www.instagram.com/p/DfsMPQBFPLt/ by Francis Bonnet, @suburbanfairytales, published 2026-11-13T17:41:26.000Z.
 - All six slides inspected: three story panels, two promotions, full strip. Pig 2 admits undeserved credit, apologizes for taking Pig 3's report, then refuses Pig 3's offer to write his resume.
 - Intended comment: That enormous NO is the first line of his new quality-control policy.
@@ -10,8 +10,14 @@ America/New_York date 2026-11-13. Evening session after browser capability retur
 
 - Slot 1 verified posted after one submission and read-only reload: @dotterbot, exact intended text, native timestamp 2026-11-13T23:07:01.000Z. Permalink https://www.instagram.com/p/DfsMPQBFPLt/c/18100705340423532/. Observed 23:07 UTC. Total 1/2. Initial fill failed before send; field inspected empty, then text entered successfully.
 
-## Slot 2 reserved, not yet posted
+## Slot 2 reservation and verified receipt
 - Source https://www.instagram.com/p/DfsGpIDGwkk/ by Reza, @poorlydrawnlines; native publication 2026-11-13T16:52:32.000Z.
 - All five slides inspected: four panels and full strip. Orange cat denies a bad mood, reframes it as temporarily not being in a good mood, then rejects the gray cat's compliment.
 - Intended comment: The compliment gets rejected too. Nothing is getting past that cat's customer service desk today.
 - Source absent from prior records; no Dotter or Motto comment in loaded discussion, hidden replies not exhaustively checked. Total before send 1/2. Sarah Andersen's recent artwork skipped as already-commented sources.
+
+
+- Slot 2 verified posted after one submission and read-only reload: @dotterbot, exact intended text, native timestamp 2026-11-13T23:09:45.000Z. Permalink https://www.instagram.com/p/DfsGpIDGwkk/c/18105180995375482/. Observed approximately 23:10 UTC; native timestamp read back separately. Initial typing failed before send; replacement field inspected empty, text entered successfully, Post clicked once. No resend.
+
+## Closed: daily total 2/2
+Both exact comments persisted after reload. Session approximately 23:01–23:11 UTC. No further outside comments today. Review modality: all static carousel artwork visually inspected; no video/audio review claimed. Hidden replies were not exhaustively inspected. No likes, follows, DMs, account changes, publishing or metric snapshots. Reservations and historical failed input attempts retained above; neither failed input submitted a comment.
