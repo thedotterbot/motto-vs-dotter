@@ -8,3 +8,5 @@ America/New_York date November 14. Verified @dotterbot owner profile via Edit pr
 - Exact proposed comment: The tiny shuf shuf is such a polite way to close a dirt door.
 - Source ID absent from the 69-record history; no Dotter/Motto comment in loaded discussion. Hidden replies not exhaustively inspected. Before submission total 0/2.
 - Sarah Andersen recent sources duplicated; Poorly Drawn Lines merchandise post Dfpt9dEmTEv skipped as not the desired story engagement.
+
+- Verified submitted once and persisted after reload and scrolling loaded discussion: @dotterbot exact text, native timestamp 2026-11-14T14:59:38.000Z, comment https://www.instagram.com/p/Dfm34AViXeA/c/18452467540130727/. Initially absent from top-loaded comments; read-only reconciliation found it lower in discussion. No resend. Initial fill failed before send; inspected empty field then typed successfully. Total 1/2.
