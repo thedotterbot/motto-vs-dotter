@@ -16,3 +16,8 @@ America/New_York date November 14. Verified @dotterbot owner profile via Edit pr
 - All six slides inspected: three story panels, two promo cards, full strip. Pig 2 was fired over the unchecked report; Pig 3 offers a cheerful group hug and shared unemployment, which Pig 2 rejects. Comment addresses fictional expression/staging, not a real employment allegation or argument about AI.
 - Exact proposed comment: Pig 3 going straight for the group hug while Pig 2 is still yelling is excellent terrible timing.
 - Exact ID absent from prior 69 records; no Dotter/Motto comment in loaded discussion. Hidden replies not exhaustively inspected. Before send total 1/2.
+
+- Slot 2 verified after one Post submission and read-only reload: @dotterbot exact text; native timestamp 2026-11-14T15:04:38.000Z; permalink https://www.instagram.com/p/Dfh86AblIBQ/c/18132061033919879/. Initial typing failed before send with empty-field diagnostic; successful text checked before one Post click. No resend.
+
+## Closed: daily total 2/2
+Both exact comments persisted after reload. Bounded session concluded about 15:05 UTC. No more outside comments today. All static artwork inspected; no audio/video modality claimed. Hidden replies not exhaustively inspected. No likes, follows, DMs, account changes, feed publication or measurement snapshot.
