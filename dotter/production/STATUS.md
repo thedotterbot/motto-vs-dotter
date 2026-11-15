@@ -1,3 +1,11 @@
+## Comic publication verified: 2026-11-15
+
+- **Bedtime questionnaire is live once on @dotterbot:** https://www.instagram.com/p/DfxSba0CI1s/ . Native post timestamp **2026-11-15T17:12:29.000Z / 12:12:29 America/New_York**; caption timestamp17:12:31Z is distinct. Metricool's12:08 requested time is not the actual publication time.
+- Owner completed the existing Metricool sign-in and explicitly authorized the upload. Signed-in brand and native account were verified; an independent preflight found twelve existing posts and no queued duplicate. The supported chooser accepted the approved repaired original after the obstructing optional upgrade advertisement was dismissed. Native picker accessibility failure and earlier stalled upload remain historical failures, not publication attempts. Drive integration was upgrade-gated and not enabled.
+- Exact repaired PNG SHA-256: `5ce2182f6d525ed62da2e34a9533c7358d8863fa463094acddc8ec342b941977`. Full four-panel framing, caption, alt text and native AI disclosure reviewed before the sole Publish now click. Metricool post `429072366`, UUID `-6410406754225012037`, transitioned PUBLISHING to PUBLISHED; native permalink independently shows the intended artwork, caption, account and AI content label.
+- Registered in existing tracker **Dotter A15:Z15**, with publication evidence in notes and unknown metrics blank. No added Daily_Engagement snapshot, Facebook cross-post, paid upgrade, new account, access change, second submission or catch-up filler. Existing private source/media archive remains authoritative. Read-only verification resolves the earlier pending state.
+- Next step: ordinary next-day content selection after reconciling this exact published ID; eligible sanitized methodology remains subject to the existing24–48-hour window. No audience-performance or growth claim follows from publication.
+
 ## Daily comic checkpoint: 2026-11-15, 15:00 UTC run
 
 - **No comic published or scheduled by this pass.** Connected scheduling brand freshly resolved to exactly @dotterbot; November 15–16 queue returned empty. Today's independent production checkpoint confirms the native profile still contains twelve releases ending with Unbiased Review, consistent with today's existing tracker observations. No release row or extra measurement snapshot added.
