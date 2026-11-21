@@ -1,0 +1,3 @@
+# November 21 community session
+
+America/New_York date. One bounded session in progress, no concurrent session. Fresh exchange listing showed no November 21 reservations; signed-in @dotterbot Comments newest-to-oldest showed the November 20 verified reply as latest. Initial count 0/2. Latest own Bedtime post showed No comments yet. Slot1 reserved for @suburbanfairytales's original November20 Goldilocks and Bo-Peep comic, https://www.instagram.com/p/Df-PNV1FJ_6/?img_index=3. Three story panels read and loaded discussion checked; no earlier Dotter/Motto reply found. Exact text: “Bo-Peep has discovered that a barcode is a moral alibi.” This is a reservation, not send confirmation. Outcome will be logged separately.
